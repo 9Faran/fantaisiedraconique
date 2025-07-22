@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/le-blitzball/blitzball/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/le-blitzball/blitzball/"}
 ---
 
 #Lore 
