@@ -21,7 +21,7 @@ Toute personne capable de manier une arme est la bienvenue dans l’ordre.
 # Rang
 Les rangs sont les suivants (ordre décroissant) :
 - Le Maréchal (poste occupé par Grand-Maître [[Les Guildes/Membres de l'Eglise/Wenoc\|Wenoc]] de l'[[Les Guildes/Église des Dragons\|Église des Dragons]])
-- [[Les Guildes/Membres des Bannisseurs/Les Généraux\|Les généraux]] (au nombre de 3)
+- [[Les Guildes/Membres des Bannisseurs/Généraux\|Généraux]] (au nombre de 3)
 - Lieutenants
 - Ambassadeur
 - Sergents
