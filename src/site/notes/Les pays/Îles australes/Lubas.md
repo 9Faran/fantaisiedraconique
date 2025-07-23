@@ -23,3 +23,5 @@ Lubas est relié par un ferry jusqu'aux villes de [[Les pays/Îles australes/Dje
 Plus que dix milles habitants.
 # Habitants
 - Personne de notable
+
+![Lubas.jpg](/img/user/_Images/Lubas.jpg)
