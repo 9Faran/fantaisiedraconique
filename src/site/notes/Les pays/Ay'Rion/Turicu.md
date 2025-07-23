@@ -3,7 +3,7 @@
 ---
 
 #city 
-Fait partie du dossier [[Les pays/Pays\|Pays]]
+Fait partie du dossier [[Les pays/Ay'Rion/Ay’Rion\|Ay’Rion]]
 
 -------
 
