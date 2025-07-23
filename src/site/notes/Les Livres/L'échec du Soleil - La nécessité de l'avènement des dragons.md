@@ -8,7 +8,7 @@ Fait partie du dossier [[Les Livres/Livres\|Livres]]
 -------
 
 # Contexte
-Le livre est paru en AD5. À ce moment-là, l'[[Les Guildes/Église des Dragons\|Église des Dragons]] est encore jeune et avec peu d'influence. Les différents magistrats de l'[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]] se querellent sur la suite à donner à tout ça.
+Le livre est paru en AD5. À ce moment-là, l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] est encore jeune et avec peu d'influence. Les différents magistrats de l'[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]] se querellent sur la suite à donner à tout ça.
 # Auteur
 L'auteur se nommait Hector Merin. Haut fonctionnaire de l'[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]], celui-ci a été aux premières loges de la confrontation entre le [[Les Dieux/Dieux autres/Soleil\|Soleil]] et ses 5 généraux qui sont devenus les [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]].
 # Résumé

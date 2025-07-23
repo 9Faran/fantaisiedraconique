@@ -25,7 +25,7 @@ Le [[Chef des Strix\|Chef des Strix]] porte le nom de “Kimar” qu’il hérit
 Les langues parlées sont le Tien (kitsune), le Chelaxian (Strix), et le Commun.
 # Coutumes
 Les [[Les Héritages/Strix\|Strix]] comme les [[Les Héritages/Kitsune\|Kitsune]] ne partagent pas volontiers leurs traditions.
-Cependant, ils ont intégré la plupart des rites de l’[[Les Guildes/Église des Dragons\|Église des Dragons]] et reconnaissent son autorité.
+Cependant, ils ont intégré la plupart des rites de l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et reconnaissent son autorité.
 # Tenues spécifiques
 La mode s'adapte au climat. Le froid du nord et des montagnes a poussé vers des tenues épaisses.
 # Villes

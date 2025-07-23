@@ -18,9 +18,9 @@ L'histoire est séparée en plusieurs âges. Dans l'ordre chronologique, ceux-ci
 - L'[[Le Calendrier et l'Histoire/Âge de la Lune\|Âge de la Lune]]
 # Les années
 
-## Notation selon l’[[Les Guildes/Église des Dragons\|Église des Dragons]]
+## Notation selon l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]]
 
-Selon l’[[Les Guildes/Église des Dragons\|Église des Dragons]], nous sommes actuellement en AD300. AD signifiant [[Le Calendrier et l'Histoire/Âge des Dragons\|Âge des Dragons]].
+Selon l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]], nous sommes actuellement en AD300. AD signifiant [[Le Calendrier et l'Histoire/Âge des Dragons\|Âge des Dragons]].
 Toutes les dates des différents âges suivent ce même modèle. Les abréviations suivantes sont utilisées, avec précisé le nombre d’années :
 - PF : [[Le Calendrier et l'Histoire/Précédemment au Feu\|Précédemment au Feu]]
 		Cette notation comprends l'[[Le Calendrier et l'Histoire/Âge des Étoiles\|Âge des Étoiles]] et l'[[Le Calendrier et l'Histoire/Âge des Ténèbres\|Âge des Ténèbres]]. Les années sont comptées négativement, ceci à cause de la difficulté de dater correctement ces deux âges.

@@ -11,7 +11,7 @@ Les guildes actives sont :
 - La confrérie des [[Les Guildes/Chercheurs\|Chercheurs]]
 - L'ordre des [[Les Guildes/Chevaliers Chocobo\|Chevaliers Chocobo]]
 - Le [[Les Guildes/Collège de magie\|Collège de magie]]
-- L'[[Les Guildes/Église des Dragons\|Église des Dragons]]
+- L'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]]
 - Le [[Les Guildes/Vieux Culte\|Vieux Culte]]
 
 Depuis peu, une guilde agissant dans l'ombre a été découverte. Y a-t-il d'autres sociétés secrètes ?

@@ -8,11 +8,11 @@ Fait partie du dossier [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]]
 -------
 
 # Description
-À la mort du [[Les Dieux/Dieux autres/Soleil\|Soleil]], Elmyra devint la dragon d’Or. Cheffe du quintette, elle est la figure principale de l'[[Les Guildes/Église des Dragons\|Église des Dragons]] et en incarne l'autorité.
+À la mort du [[Les Dieux/Dieux autres/Soleil\|Soleil]], Elmyra devint la dragon d’Or. Cheffe du quintette, elle est la figure principale de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et en incarne l'autorité.
 ## Edits
-Respecter et obéir à l’[[Les Guildes/Église des Dragons\|Église des Dragons]], Combattre le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]], Défendre la justice
+Respecter et obéir à l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]], Combattre le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]], Défendre la justice
 ## Anathème
-Effectuer des actions contre la loi ou l’[[Les Guildes/Église des Dragons\|Église des Dragons]]
+Effectuer des actions contre la loi ou l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]]
 ## Alignements des fidèles
 LB, LN, NB
 # Bénéfices

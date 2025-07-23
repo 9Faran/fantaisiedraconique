@@ -17,7 +17,7 @@ Les héritages présents en Borée sont :
 # Lieux notables
 Le [[Les pays/Borée/Fort du Vigilant\|Fort du Vigilant]] s’élève à la pointe nord de la Borée.
 # Personnalités influentes
-Le Grand-Maître [[Les Guildes/Membres de l'Eglise/Wenoc\|Wenoc]] ne passant que peu de temps au fort du Vigilant, ce sont surtout les 3 généraux qui sont reconnus comme les personnalités influentes du pays.
+Le Grand-Maître [[Les Guildes/Église/Wenoc\|Wenoc]] ne passant que peu de temps au fort du Vigilant, ce sont surtout les 3 généraux qui sont reconnus comme les personnalités influentes du pays.
 Les chefs Tengus restent discrets.
 # Langage
  Les langues parlées sont le Commun et le Takatengu.

@@ -14,15 +14,15 @@ Les héritages présents à Garde-Belle sont :
 - [[Les Héritages/Humains\|Humains]] (majoritairement)
 - Tous les héritages des autres pays (membres de l’Eglise des Dragons)
 # Lieux notables
-La ruine du [[Les pays/Garde-Belle/Phare du Soleil\|Phare du Soleil]] a été rénovée de sorte à pouvoir accueillir les dirigeants de l'[[Les Guildes/Église des Dragons\|Église des Dragons]] et a été renommé "Le nid des dragons".
+La ruine du [[Les pays/Garde-Belle/Phare du Soleil\|Phare du Soleil]] a été rénovée de sorte à pouvoir accueillir les dirigeants de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et a été renommé "Le nid des dragons".
 # Personnalités influentes
-Les [[Les Guildes/Membres de l'Eglise/Grands-Maîtres\|Grands-Maîtres]] de l'[[Les Guildes/Église des Dragons\|Église des Dragons]].
+Les [[Les Guildes/Église/Grands-Maîtres\|Grands-Maîtres]] de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]].
 # Langage
 La langue parlée est le Commun.
 # Coutumes
-Les fêtes religieuses de l’[[Les Guildes/Église des Dragons\|Église des Dragons]].
+Les fêtes religieuses de l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]].
 # Tenues spécifiques
-L'[[Les Guildes/Église des Dragons\|Église des Dragons]] impose à ses fidèles des tenues très puritaines, recouvrant tout le corps (à l’exception du visage) et ayant peu de couleurs.
+L'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] impose à ses fidèles des tenues très puritaines, recouvrant tout le corps (à l’exception du visage) et ayant peu de couleurs.
 Certaines modes des autres pays peuvent s’importer des fois.
 # Routes
 Garde-Belle est reliée par la route jusqu'à [[Les pays/Ultan/Gueyria\|Gueyria]], [[Les pays/Ultan/Pora\|Pora]] et [[Les pays/Ay'Rion/Victa\|Victa]].
