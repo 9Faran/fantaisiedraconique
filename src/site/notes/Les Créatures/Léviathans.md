@@ -22,7 +22,7 @@ Les Léviathans disposent de capacité et de pouvoirs variés, mais en règle g�
 Les Léviathans ont toujours été un fléau pour l'humanité, et ce depuis l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]]. Les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] les ont affrontés, comme les [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]]. D'ailleurs, le seul à n'avoir jamais réussi à tuer un Léviathan, était le Dieu [[Les Dieux/Dieux des Phares/Agenor\|Agenor]] (encore mortel à ce moment-là), à la tête d'une flotte de corsaires soutenus par les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] et le [[Les Guildes/Collège de magie\|Collège de magie]].
 Plus tard, les Léviathans ont été responsable de la fracture du continent de [[Les pays/Kimar/Kimar\|Kimar]].
 Aujourd'hui, les attaques de Léviathans sont rares, car ils s'exposent à l'intervention d'un des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]].
-Les [[Les Guildes/Bannisseurs\|Bannisseurs]] ont répertoriés, selon les témoignages récents et anciens, douze Léviathans :
+Les [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]] ont répertoriés, selon les témoignages récents et anciens, douze Léviathans :
 1. Similaire à un cétacé, la peau grise
 2. Similaire à un cétacé, la peau bleue
 3. Longiligne, comparable à un serpent argenté

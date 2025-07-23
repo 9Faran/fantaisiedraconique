@@ -7,8 +7,8 @@ Fait partie du dossier [[Fantaisie draconique\|Fantaisie draconique]]
 
 -------
 Les guildes actives sont :
-- L'ordre des [[Les Guildes/Bannisseurs\|Bannisseurs]]
-- La confrérie des [[Les Guildes/Chercheurs\|Chercheurs]]
+- L'ordre des [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]]
+- La confrérie des [[Les Guildes/Membres des Chercheurs/Chercheurs\|Chercheurs]]
 - L'ordre des [[Les Guildes/Chevaliers Chocobo\|Chevaliers Chocobo]]
 - Le [[Les Guildes/Collège de magie\|Collège de magie]]
 - L'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]]

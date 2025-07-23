@@ -16,6 +16,6 @@ L'impressionnant pont a été bâti par les [[Les Guildes/Ancienne Guilde/Porte-
 # Routes
 Une route traverse les [[Les pays/Kimar/Dents Blanches\|Dents Blanches]], qui relie les villes de [[Les pays/Kimar/Emyon\|Emyon]] et [[Les pays/Kimar/Valna\|Valna]].
 # Population
-Les employés de l'agence de voyage, des voyageurs et une garnison de [[Les Guildes/Bannisseurs\|Bannisseurs]].
+Les employés de l'agence de voyage, des voyageurs et une garnison de [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]].
 # Habitants
 - 

@@ -20,11 +20,11 @@ Tous ceux qui souhaitent servir les [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Die
 # Rang
 Les rangs sont les suivants (ordre décroissant) :
 - Les [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]]
-- Les [[Les Guildes/Église/Grands-Maîtres\|Grands-Maîtres]] (au nombre de 5)
+- Les [[Les Guildes/Église/Grands-Maîtres\|Grands-Maîtres]]
 - Les Maîtres (Nombre variable)
 - Les Chef-moines (1 par temple)
 - Les Moines (autant que les Chefs-moines arrivent à recruter)
 - Les Fidèles
 # Alliés et ennemis
-L'Église des Dragons compte sur le soutien des [[Les Guildes/Bannisseurs\|Bannisseurs]] et du [[Les Guildes/Collège de magie\|Collège de magie]].
-Il s’oppose au [[Les Guildes/Vieux Culte\|Vieux Culte]]. Et est férocement opposé aux [[Les Guildes/Chercheurs\|Chercheurs]].
+L'Église des Dragons compte sur le soutien des [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]] et du [[Les Guildes/Collège de magie\|Collège de magie]].
+Il s’oppose au [[Les Guildes/Vieux Culte\|Vieux Culte]]. Et est férocement opposé aux [[Les Guildes/Membres des Chercheurs/Chercheurs\|Chercheurs]].

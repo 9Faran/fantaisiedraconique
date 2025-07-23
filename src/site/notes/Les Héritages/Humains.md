@@ -20,7 +20,7 @@ Les Humains sont partagés entre le [[Les Guildes/Vieux Culte\|Vieux Culte]] qui
 ## Anathèmes populaires
 - Trahir l'humanité pour le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]]
 # Personnalités influentes
-Les humains sont actuellement divisés entre les enseignements des [[Les Guildes/Église/Grands-Maîtres\|Grands-Maîtres]] de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et ceux des [[Les Guildes/Chercheurs\|Chercheurs]].
+Les humains sont actuellement divisés entre les enseignements des [[Les Guildes/Église/Grands-Maîtres\|Grands-Maîtres]] de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et ceux des [[Les Guildes/Membres des Chercheurs/Chercheurs\|Chercheurs]].
 # Langage
 Les Humains parlent le commun, langue qu'ils essaient d'enseigner aux autres peuples.
 # Tenues spécifiques

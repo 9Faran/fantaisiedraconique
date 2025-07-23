@@ -8,7 +8,7 @@ Fait partie du dossier [[Les Livres/Livres\|Livres]]
 -------
 
 # Contexte
-Suite aux agissement des [[Les Guildes/Guilde secrète/Fidèles du Soleil\|Fidèles du Soleil]] (nom que se donne une secte vénérant le [[Les Dieux/Dieux autres/Soleil\|Soleil]]), une intervention de l'alliance avec l'appui de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et des [[Les Guildes/Bannisseurs\|Bannisseurs]] a permis l'emprisonnement de leur chef, le "porteur de lumière" Diomes.
+Suite aux agissement des [[Les Guildes/Guilde secrète/Fidèles du Soleil\|Fidèles du Soleil]] (nom que se donne une secte vénérant le [[Les Dieux/Dieux autres/Soleil\|Soleil]]), une intervention de l'alliance avec l'appui de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et des [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]] a permis l'emprisonnement de leur chef, le "porteur de lumière" Diomes.
 # Auteur
 L'interrogatoire a été mené par Maîtresse Usule et Maître Erigeron de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]].
 Selon la procédure de l'église, un anneau de vérité a été invoqué, permettant aux deux Maîtres d'identifier clairement si une parole est vérité ou mensonge.

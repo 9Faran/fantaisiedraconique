@@ -24,5 +24,5 @@ Les rangs sont les suivants (ordre décroissant) :
 - Les étudiants
 - Les novices
 # Alliés et ennemis
-Le Collège est sous surveillance de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]], dont la plupart des membres quitteraient bien. Ils voient dans les [[Les Guildes/Bannisseurs\|Bannisseurs]] des alliés de circonstances.
-Ils sont neutres envers le [[Les Guildes/Vieux Culte\|Vieux Culte]] et les [[Les Guildes/Chercheurs\|Chercheurs]].
+Le Collège est sous surveillance de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]], dont la plupart des membres quitteraient bien. Ils voient dans les [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]] des alliés de circonstances.
+Ils sont neutres envers le [[Les Guildes/Vieux Culte\|Vieux Culte]] et les [[Les Guildes/Membres des Chercheurs/Chercheurs\|Chercheurs]].

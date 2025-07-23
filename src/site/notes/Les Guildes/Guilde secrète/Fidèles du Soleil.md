@@ -27,4 +27,4 @@ Les rangs sont les suivants (ordre décroissant) :
 ### Alliés et ennemis
 Les fidèles du [[Les Dieux/Dieux autres/Soleil\|Soleil]] sont fermement ennemis avec l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et toutes les guildes associées.
 Bien qu’ils considèrent le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] comme ennemi, sa présence dans la [[Les Livres/Prophétie\|Prophétie]] les oblige à agir prudemment, voir de concert, avec les forces du mal.
-Ils sont neutres vis-à-vis des [[Les Guildes/Chercheurs\|Chercheurs]] ou du [[Les Guildes/Vieux Culte\|Vieux Culte]].
+Ils sont neutres vis-à-vis des [[Les Guildes/Membres des Chercheurs/Chercheurs\|Chercheurs]] ou du [[Les Guildes/Vieux Culte\|Vieux Culte]].

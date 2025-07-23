@@ -13,11 +13,11 @@ La Lisière de la [[Les pays/Brume\|Brume]] désigne un territoire au nord du [[
 Les héritages présents dans la [[Les pays/Brume\|Brume]] sont :
 - Inconnus
 - Des monstres
-- Les troupes des [[Les Guildes/Bannisseurs\|Bannisseurs]] stationnées
+- Les troupes des [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]] stationnées
 # Lieux notables
-Quelques forts des [[Les Guildes/Bannisseurs\|Bannisseurs]], des champs de batailles
+Quelques forts des [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]], des champs de batailles
 # Personnalités influentes
-Le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] et ses serviteurs les plus puissants. La générale [[Les Guildes/Membres des Bannisseurs/Lyssande\|Lyssande]] y mène les opérations des [[Les Guildes/Bannisseurs\|Bannisseurs]] dans la région.
+Le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] et ses serviteurs les plus puissants. La générale [[Les Guildes/Bannisseurs/Lyssande\|Lyssande]] y mène les opérations des [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]] dans la région.
 # Langage
 Les langues parlées sont inconnues.
 # Coutumes
