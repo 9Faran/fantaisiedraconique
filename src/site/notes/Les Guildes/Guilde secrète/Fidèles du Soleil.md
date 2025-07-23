@@ -19,6 +19,7 @@ Leur cachette est encore inconnue
 Les membres repèrent les candidats potentiels avant de les recruter.
 ### Rang
 Les rangs sont les suivants (ordre décroissant) :
+- Le [[Soleil réincarné\|Soleil réincarné]]
 - Le porteur de lumière
 - Les prêtres
 - Les dévots
