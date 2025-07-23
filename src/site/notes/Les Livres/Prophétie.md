@@ -3,6 +3,9 @@
 ---
 
 #Items  
+Fait partie du dossier [[Les Livres/Livres\|Livres]]
+
+-------
 # Contexte
 La prophétie a été découverte par le groupe au musée des religions de [[Les pays/Îles australes/Lubas\|Lubas]]. Celle-ci a été gravée dans un cartouche placé au centre d'une statue représentant la [[Les Dieux/Dieux autres/Grande Tisseuse\|Grande Tisseuse]] jouant de ses fils pour manipuler une roue semblable à celle d'un moulin à vent, dont les pâles ont une forme ondulées rappelant les rayons du soleil.
 # Le texte
