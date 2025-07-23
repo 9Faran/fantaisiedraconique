@@ -27,7 +27,7 @@ Disponible dans le chapitre [[Le Blitzball/Règles du Blitball\|Règles du Blitb
 7. [[Le Blitzball/Les équipes/Forest Glories\|Forest Glories]]
 8. [[Le Blitzball/Les équipes/Frozen Beasts\|Frozen Beasts]]
 9. [[Le Blitzball/Les équipes/The Lightning Bolts\|The Lightning Bolts]]
-10. [[Le Blitzball/Les équipes/Lubas Royal\|Lubas Royal]]
+10. [[Le Blitzball/Les équipes/Lubas Royals\|Lubas Royals]]
 11. [[Le Blitzball/Les équipes/Mystic Ravens\|Mystic Ravens]]
 12. [[Le Blitzball/Les équipes/The Seagulls\|The Seagulls]]
 13. [[Le Blitzball/Les équipes/Sports Followers\|Sports Followers]]
