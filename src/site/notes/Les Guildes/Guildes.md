@@ -16,4 +16,4 @@ Fait partie du dossier [[Fantaisie draconique\|Fantaisie draconique]]
 
 Il y a aussi des Guildes qui n'existent plus :
 - L'ordre des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]]
-- L[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]]
+- L'[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]]

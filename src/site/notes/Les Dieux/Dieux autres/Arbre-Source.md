@@ -3,7 +3,7 @@
 ---
 
 #Lore
-Fait partie du dossier [[Les Dieux/Dieux\|Dieux]]
+Fait partie du dossier [[Les Dieux/Dieux autres/Autres panthéons\|Autres panthéons]]
 
 -------
 
