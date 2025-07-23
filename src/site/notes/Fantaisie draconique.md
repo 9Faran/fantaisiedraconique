@@ -5,12 +5,14 @@
 # Thèmes
 Natural Fantasy, Post-Medieval Fantasy, Post-apocalyptic fantasy
 ## Inspirations
+### Jeux vidéos
 - Final Fantasy X
 - Guild Wars 2
-- L’attaque des Titans
-- La Mythologie Grecque
 - Golden Sun
-- La roue du temps
+### Séries
+- L’attaque des Titans
+- Full Metal Alchemist
+- La Roue du Temps
 # Système
 Pathfinder 2
 Niveau 1 jusqu’à 14 (estimation) 
