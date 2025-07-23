@@ -14,7 +14,7 @@ La ville entoure le pont de la rivière Therisia.
 # Architecture
 Gueyria mêle différentes architectures depuis l'époque de l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]] jusqu'à des constructions modernes.
 # Routes
-Gueyria est relié par la route jusqu'à [[Les pays/Ultan/Delium\|Delium]], le phare [[Les Dieux/Dieux des Phares/Therisia\|Therisia]], [[Les pays/Garde-Belle\|Garde-Belle]] et [[Les pays/Ultan/Pora\|Pora]].
+Gueyria est relié par la route jusqu'à [[Les pays/Ultan/Delium\|Delium]], le phare [[Les Dieux/Dieux des Phares/Therisia\|Therisia]], [[Les pays/Garde-Belle/Garde-Belle\|Garde-Belle]] et [[Les pays/Ultan/Pora\|Pora]].
 # Population
 Plus d'un millier d'habitants.
 # Habitants

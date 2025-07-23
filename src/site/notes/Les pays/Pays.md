@@ -12,7 +12,7 @@ Les pays et région de l'univers sont :
 - [[Les pays/Bi'Han/Bi'Han\|Bi'Han]]
 - [[Les pays/Borée/Borée\|Borée]]
 - [[Les pays/Brume\|Brume]]
-- [[Les pays/Garde-Belle\|Garde-Belle]]
+- [[Les pays/Garde-Belle/Garde-Belle\|Garde-Belle]]
 - [[Les pays/Îles australes/Îles australes\|Îles australes]]
 - [[Les pays/Lisière de la brume\|Lisière de la brume]]
 - [[Les pays/Kimar/Kimar\|Kimar]]

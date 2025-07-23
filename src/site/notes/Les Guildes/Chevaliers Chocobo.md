@@ -15,7 +15,7 @@ Les [[Les Créatures/Chocobos\|Chocobos]], natifs de [[Les pays/Ay'Rion/Ay’Rio
 Mais pour certains, ces volatiles sont plus que ça. Ils sont des montures, des compagnons de bataille, des protecteurs.
 L’ordre des chevaliers [[Les Créatures/Chocobos\|Chocobos]] se dévouent à l’élevage et la protection des [[Les Créatures/Chocobos\|Chocobos]]. Mais il est aussi un ordre de combattant, une cavalerie d’élite, parcourant le monde pour mener de bonnes actions et tuer les serviteurs du [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]].
 # Organisation
-Le cœur de l’Ordre était un fort en [[Les pays/Ay'Rion/Ay’Rion\|Ay’Rion]]. Aujourd’hui, il a été déplacé à [[Les pays/Garde-Belle\|Garde-Belle]].
+Le cœur de l’Ordre était un fort en [[Les pays/Ay'Rion/Ay’Rion\|Ay’Rion]]. Aujourd’hui, il a été déplacé à [[Les pays/Garde-Belle/Garde-Belle\|Garde-Belle]].
 # Adhésion
 L’ordre accepte tous les volontaires. Mais seuls ceux qui réussissent les formations peuvent espérer recevoir un chevalier-chocobo.
 # Rang

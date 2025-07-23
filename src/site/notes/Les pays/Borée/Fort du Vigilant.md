@@ -12,7 +12,7 @@ Ancienne forteresse des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flamm
 # Lieux importants
 Le centre de commandement des [[Les Guildes/Bannisseurs\|Bannisseurs]]
 # Architecture
-Des successions de grands murs de pierre austère, formant différentes cours intérieurs. Toute l'architecture est pensée pour pouvoir défendre face à un aussaut.
+Des successions de grands murs de pierre austère, formant différentes cours intérieurs. Toute l'architecture est pensée pour pouvoir défendre face à un assaut.
 # Routes
 Il y a une route qui conduit jusqu'à un port, reliant les [[Les Guildes/Bannisseurs\|Bannisseurs]] au reste du monde.
 # Population

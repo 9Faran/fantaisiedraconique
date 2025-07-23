@@ -14,7 +14,7 @@ Victa abrite le [[Les pays/Ay'Rion/campus du Collège\|campus du Collège]].
 # Architecture
 L'architecture de Victa est restée fidèle aux premières constructions des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]].
 # Routes
-Victa est reliée par la route jusqu'à [[Les pays/Garde-Belle\|Garde-Belle]], [[Les pays/Ay'Rion/Turicu\|Turicu]] et jusqu'au phare [[Les Dieux/Dieux des Phares/Abelus Faustinius\|Abelus Faustinius]].
+Victa est reliée par la route jusqu'à [[Les pays/Garde-Belle/Garde-Belle\|Garde-Belle]], [[Les pays/Ay'Rion/Turicu\|Turicu]] et jusqu'au phare [[Les Dieux/Dieux des Phares/Abelus Faustinius\|Abelus Faustinius]].
 # Population
 Presque dix mille habitants.
 # Habitants

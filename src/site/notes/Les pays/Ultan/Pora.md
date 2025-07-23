@@ -14,7 +14,7 @@ Pora rayonne autour de son port et de son église dédiée aux [[Les Dieux/Dieux
 # Architecture
 De grands projets de rénovation ont récemment transformés la ville qui montre des constructions de pierre blanche.
 # Routes
-La grande route du nord conduit jusqu'à [[Les pays/Ultan/Gueyria\|Gueyria]].
+La grande route du nord conduit jusqu'à [[Les pays/Ultan/Gueyria\|Gueyria]] et [[Les pays/Garde-Belle/Garde-Belle\|Garde-Belle]].
 Pora est relié par un ferry jusqu'aux villes de [[Les pays/Îles australes/Lubas\|Lubas]] et de [[Les pays/Îles australes/Djesi\|Djesi]].
 # Population
 Plusieurs milliers d'habitants.
