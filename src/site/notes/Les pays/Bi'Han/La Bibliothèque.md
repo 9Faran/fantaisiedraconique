@@ -2,20 +2,21 @@
 {"dg-publish":true,"permalink":"/les-pays/bi-han/la-bibliotheque/"}
 ---
 
+# La Bibliothèque
+---
 #city 
 Fait partie du dossier [[Les pays/Bi'Han/Bi'Han\|Bi'Han]]
 
 -------
-
-# Description
+## Description
 Ancienne cité de la civilisation [[Les Anciennes civilisations/Niredol\|Niredol]], se trouve au centre du désert de [[Les pays/Bi'Han/Bi'Han\|Bi'Han]]. Cette ville est maintenant investie par les [[Les Guildes/Chercheurs/Chercheurs\|Chercheurs]] qui en ont fait leur sanctuaire.
-# Lieux importants
+## Lieux importants
 Le centre de la Bibliothèque est un haut lieu de savoir.
-# Architecture
+## Architecture
 De grands bâtiments en pierre, autrefois majestueux, mais aujourd'hui en ruine. La majeur partie de la Bibliothèque est souterraine. Les habitants ont investis ces bâtiments, construits de nouveaux dans la roche, et parfois dressés des tentes.
-# Routes
+## Routes
 La Bibliothèque n'est relié à aucune route. Ceci, car les premiers [[Les Guildes/Chercheurs/Chercheurs\|Chercheurs]] souhaitaient garder l'endroit le plus secret, et le plus difficile d'accès possible.
-# Population
+## Population
 Aujourd'hui, plusieurs milliers d'habitants.
-# Habitants
+## Habitants
 - Les [[Les Guildes/Chercheurs/Chercheurs\|Chercheurs]]

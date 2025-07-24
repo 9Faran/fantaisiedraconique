@@ -2,27 +2,28 @@
 {"dg-publish":true,"permalink":"/les-pays/brume/"}
 ---
 
+# Brume
+---
 #country 
 Fait partie du dossier [[Les pays/Pays\|Pays]]
 
 -------
-
-# Histoire
+## Histoire
 La Brume entoure le monde. Avant les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]], elle le recouvrait.
 C’est le repère du [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]], et il y cache de nombreuses nouvelles terres.
-# Héritages
+## Héritages
 Les héritages présents dans la brume sont :
 - Inconnus
 - Des monstres
-# Lieux notables
+## Lieux notables
 Inconnu
-# Personnalités influentes
+## Personnalités influentes
 Le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] et ses serviteurs les plus puissants.
-# Langage
+## Langage
 Les langues parlées sont inconnues.
-# Coutumes
+## Coutumes
 Inconnu
-# Tenues spécifiques
+## Tenues spécifiques
 Inconnu
-# Villes
+## Villes
 - Aucune connue

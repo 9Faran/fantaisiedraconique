@@ -2,12 +2,14 @@
 {"dg-publish":true,"permalink":"/les-pays/pays/"}
 ---
 
+# Pays
+---
 #country 
 Fait partie du dossier [[Fantaisie draconique\|Fantaisie draconique]]
 
 -------
-
-Les pays et région de l'univers sont :
+## Liste des Pays
+Les pays et région hors de la Brume sont :
 - [[Les pays/Ay'Rion/Ay’Rion\|Ay’Rion]]
 - [[Les pays/Bi'Han/Bi'Han\|Bi'Han]]
 - [[Les pays/Borée/Borée\|Borée]]
@@ -17,7 +19,7 @@ Les pays et région de l'univers sont :
 - [[Les pays/Lisière de la brume\|Lisière de la brume]]
 - [[Les pays/Kimar/Kimar\|Kimar]]
 - [[Les pays/Ultan/Ultan\|Ultan]]
-# Taille
+## Taille
 - [[Les pays/Ultan/Ultan\|Ultan]] fait environ 350 km de long
 	- Plus grand que la Sardaigne !
 	- Plus petit que l'Irlande

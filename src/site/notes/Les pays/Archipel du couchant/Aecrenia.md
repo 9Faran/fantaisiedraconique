@@ -2,21 +2,22 @@
 {"dg-publish":true,"permalink":"/les-pays/archipel-du-couchant/aecrenia/"}
 ---
 
+# Aecrenia
+---
 #city 
 Fait partie du dossier [[Les pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]]
 
 -------
-
-# Description
+## Description
 Seule ville de l'[[Les pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]].
-# Lieux importants
+## Lieux importants
 Le grand temple du [[Les Guildes/Vieux Culte\|Vieux Culte]].
-# Architecture
+## Architecture
 Des maisons et des huttes très simples.
-# Routes
+## Routes
 Un chemin relie la ville jusqu'au clan [[Les pays/Archipel du couchant/Clan Hlapo\|Clan Hlapo]].
 Un ferry fait la liaison avec la ville de [[Les pays/Ultan/Delium\|Delium]].
-# Population
+## Population
 Plus de deux-milles habitants
-# Habitants
+## Habitants
 - Personne d'intérêt
