@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/les-heritages/heritages/"}
 ---
 
+# Héritages
+---
 #Lore 
 Fait partie du dossier [[Fantaisie draconique\|Fantaisie draconique]]
 

@@ -2,26 +2,28 @@
 {"dg-publish":true,"permalink":"/les-guildes/bannisseurs/catil/"}
 ---
 
+# Catil
+---
 #PNJ 
 Fait partie du dossier [[Les Guildes/Bannisseurs/Généraux\|Généraux]]
 
 -------
-# Origine et description
-## Héritage
+## Origine et description
+### Héritage
 [[Les Héritages/Strix\|Strix]]
-## Genre
+### Genre
 Masculin
-## Lieu de naissance
+### Lieu de naissance
 [[Les pays/Kimar/Dents Blanches\|Dents Blanches]]
-## Âge
+### Âge
 22 ans
-## Religion
+### Religion
 Vénère les esprits de ses ancêtres
-## Classe
+### Classe
 Guerrier
-# Guilde
+## Guilde
 Les [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]]
-## Rang
+### Rang
 Un des [[Les Guildes/Bannisseurs/Généraux\|Généraux]]
-## Rôle dans la Guilde
+### Rôle dans la Guilde
 Catil est en charge de toutes les opérations hors de la [[Les pays/Brume\|Brume]]. Parmis ses responsabilités, on peut noter : l'organisation de traques de monstres, la gestion des troupes en stationnement dans les villes, la diplomatie avec les autres [[Les Guildes/Guildes\|Guildes]], ainsi que le recrutement. 

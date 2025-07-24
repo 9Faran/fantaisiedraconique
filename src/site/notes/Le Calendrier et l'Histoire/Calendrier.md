@@ -31,7 +31,7 @@ Toutes les dates des différents âges suivent ce même modèle. Les abréviatio
 - AS : [[Le Calendrier et l'Histoire/Âge du Soleil\|Âge du Soleil]] (501 ans)
 - AD : [[Le Calendrier et l'Histoire/Âge des Dragons\|Âge des Dragons]]
 On parle aussi de l'[[Le Calendrier et l'Histoire/Âge de la Lune\|Âge de la Lune]], mais celui-ci étant prophétique, il n'est pas (encore) utilisé dans le calendrier.
-Ce système est le plus utilisé, y compris par les [[Les Guildes/Membres des Chercheurs/Chercheurs\|Chercheurs]].
+Ce système est le plus utilisé, y compris par les [[Les Guildes/Chercheurs/Chercheurs\|Chercheurs]].
 ## Notation selon le [[Les Guildes/Vieux Culte\|Vieux Culte]]
 Le [[Les Guildes/Vieux Culte\|Vieux Culte]] fixe l’an 0 à la fondation du Phare d’[[Les Dieux/Dieux des Phares/Abelus Faustinius\|Abelus Faustinius]] (ce qui correspond à AP0). Selon ce calendrier nous sommes donc en l’an 1105.
 Toutes les années précédentes sont comptées en négatif.

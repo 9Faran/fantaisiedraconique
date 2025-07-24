@@ -2,27 +2,29 @@
 {"dg-publish":true,"permalink":"/les-guildes/eglise/prima/"}
 ---
 
+# Prima
+---
 #PNJ 
 Fait partie du dossier [[Les Guildes/Église/Grands-Maîtres\|Grands-Maîtres]]
 
 -------
-# Origine et description
-## Héritage
+## Origine et description
+### Héritage
 [[Les Héritages/Kashrishi\|Kashrishi]]
-## Genre
+### Genre
 Masculin
-## Lieu de naissance
+### Lieu de naissance
 [[Les pays/Ay'Rion/Victa\|Victa]]
-## Âge
+### Âge
 55 ans.
-## Religion
+### Religion
 Vénère les [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]]
 Il est aussi connu pour être le représentant de [[Les Dieux/Dieux-Dragons/Mur\|Mur]] le stratège.
-## Classe
+### Classe
 Prêtre
-# Guilde
+## Guilde
 L´[[Les Guildes/Église/Église des Dragons\|Église des Dragons]]
-## Rang
+### Rang
 Membre des [[Les Guildes/Église/Grands-Maîtres\|Grands-Maîtres]]
-## Rôle dans la Guilde
+### Rôle dans la Guilde
 Le Grand-Maître Prima, seul non-[[Les Héritages/Humains\|Humains]] du conseil, occupe le poste de grand argentier et gère donc les fonds de l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]]. Mais il est aussi chargé de superviser l’économie des territoires dirigés par l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]], ce qui inclut le commerce.
