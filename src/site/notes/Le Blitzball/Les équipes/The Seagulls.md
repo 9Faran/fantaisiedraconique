@@ -2,19 +2,20 @@
 {"dg-publish":true,"permalink":"/le-blitzball/les-equipes/the-seagulls/"}
 ---
 
+# The Seagulls
+---
 #Lore 
 Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
-
-# Pays
+## Pays
 Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les pays/Ultan/Pora\|Pora]].
-# Membres
+## Membres
 Il s'agit d'une équipe de rang M.
-# Réputation
+## Réputation
 Considérée comme une équipe moyenne.
-## Coupes
+### Coupes
 L'équipe a gagné la coupe lors des tournois de :
 - AD280
-# Couleurs
+## Couleurs
 Le blanc.

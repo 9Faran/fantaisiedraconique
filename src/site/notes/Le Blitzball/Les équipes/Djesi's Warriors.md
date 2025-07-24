@@ -2,20 +2,21 @@
 {"dg-publish":true,"permalink":"/le-blitzball/les-equipes/djesi-s-warriors/"}
 ---
 
+# Djesi's Warriors
+---
 #Lore 
 Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
-
-# Pays
+## Pays
 Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les pays/Îles australes/Djesi\|Djesi]].
-# Membres
+## Membres
 Il s'agit d'une équipe de rang M.
-# Réputation
+## Réputation
 Considérée comme une excellente équipe.
-## Coupes
+### Coupes
 L'équipe a gagné la coupe lors des tournois de :
 - AD286
 - AD282
-# Couleurs
+## Couleurs
 Le jaune et le vert.

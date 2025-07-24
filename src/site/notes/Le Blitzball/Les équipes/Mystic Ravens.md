@@ -2,19 +2,20 @@
 {"dg-publish":true,"permalink":"/le-blitzball/les-equipes/mystic-ravens/"}
 ---
 
+# Mystic Ravens
+---
 #Lore 
 Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
-
-# Pays
+## Pays
 Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les pays/Borée/Borée\|Borée]].
-# Membres
+## Membres
 Intégralement composé de [[Les Héritages/Tengus\|Tengus]].
 Il s'agit d'une équipe de rang F.
-# Réputation
+## Réputation
 Considérée comme une mauvaise équipe.
-## Coupes
+### Coupes
 L'équipe n'a gagné aucun tournoi.
-# Couleurs
+## Couleurs
 Le noir et le violet.

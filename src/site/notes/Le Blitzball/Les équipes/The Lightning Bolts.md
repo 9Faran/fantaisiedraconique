@@ -2,18 +2,19 @@
 {"dg-publish":true,"permalink":"/le-blitzball/les-equipes/the-lightning-bolts/"}
 ---
 
+# The Lightning Bolts
+---
 #Lore 
 Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
-
-# Pays
+## Pays
 Équipe de [[Le Blitzball/Blitzball\|Blitzball]] du nord d'[[Les pays/Ultan/Ultan\|Ultan]].
-# Membres
+## Membres
 Il s'agit d'une équipe de rang F.
-# Réputation
+## Réputation
 Elle est considérée comme une mauvaise équipe.
-## Coupes
+### Coupes
 L'équipe n'a pas encore gagné de tournois.
-# Couleurs
+## Couleurs
 Le jaune et le bleu.

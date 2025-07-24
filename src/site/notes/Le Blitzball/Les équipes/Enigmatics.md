@@ -2,18 +2,19 @@
 {"dg-publish":true,"permalink":"/le-blitzball/les-equipes/enigmatics/"}
 ---
 
+# Enigmatics
+---
 #Lore 
 Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
-
-# Pays
+## Pays
 Équipe de [[Le Blitzball/Blitzball\|Blitzball]] du sud de [[Les pays/Kimar/Kimar\|Kimar]].
-# Membres
+## Membres
 Il s'agit d'une équipe de rang F.
-# Réputation
+## Réputation
 Considérée comme une mauvaise équipe.
-## Coupes
+### Coupes
 L'équipe n'a pas encore gagné de tournois.
-# Couleurs
+## Couleurs
 Le violet et le blanc.

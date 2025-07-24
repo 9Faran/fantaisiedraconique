@@ -2,19 +2,20 @@
 {"dg-publish":true,"permalink":"/le-blitzball/les-equipes/the-aurochs/"}
 ---
 
+# The Aurochs
+---
 #Lore 
 Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
-
-# Pays
+## Pays
 Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les pays/Îles australes/Sebaid\|Sebaid]].
-# Membres
+## Membres
 Le capitaine est Wapu.
 Il s'agit d'une équipe de rang F.
-# Réputation
+## Réputation
 Considérée comme l'une des pires équipes. Cette réputation est exagéré, mais étant la seule équipe des [[Les pays/Îles australes/Îles australes\|Îles australes]] qui n'a pas gagné de coupes, elle a souffert de nombreuses moqueries.
-## Coupes
+### Coupes
 Aucune victoire.
-# Couleurs
+## Couleurs
 Le jaune et le blanc.

@@ -2,22 +2,24 @@
 {"dg-publish":true,"permalink":"/le-blitzball/blitzball/"}
 ---
 
+# Blitzball
+---
 #Lore 
 Fait partie du dossier [[Fantaisie draconique\|Fantaisie draconique]]
 
 -------
-# Terrain
+## Terrain
 Les matchs doivent se dérouler sous l’eau. Le terrain est circulaire d’un rayon de 15m de diamètre. Des buts triangulaires sont disposés opposés diamétralement.
 Au stade de [[Les pays/Îles australes/Lubas\|Lubas]], le terrain a la particularité d’être sphérique.
-# Composition d’une équipe
+## Composition d’une équipe
 Chaque équipe est composée de 6 personnes :
 - 3 attaquant-e-s
 - 2 défenseur-euse-s
 - 1 gardien-nne
 L’un des membres de l’équipe prend le rôle de capitaine pour diriger celle-ci et l’entraîner entre les matchs. Le capitaine est généralement, mais pas obligatoirement, un attaquant.
-# Les Règles
+## Les Règles
 Disponible dans le chapitre [[Le Blitzball/Règles du Blitball\|Règles du Blitball]]
-# Les équipes
+## Les équipes
 1. [[Le Blitzball/Les équipes/The Aurochs\|The Aurochs]]
 2. [[Le Blitzball/Les équipes/Avid Seekers\|Avid Seekers]]
 3. [[Le Blitzball/Les équipes/Deep Divers\|Deep Divers]]
@@ -32,7 +34,7 @@ Disponible dans le chapitre [[Le Blitzball/Règles du Blitball\|Règles du Blitb
 12. [[Le Blitzball/Les équipes/The Seagulls\|The Seagulls]]
 13. [[Le Blitzball/Les équipes/Sports Followers\|Sports Followers]]
 14. [[Le Blitzball/Les équipes/Unicorns\|Unicorns]]
-# Le tournoi
+## Le tournoi
 Tous les 2 ans a lieu un tournoi à [[Les pays/Îles australes/Lubas\|Lubas]]. Celui-ci prend la forme d’un championnat en arbre à élimination directe. Les équipes tirent au hasard leur place de départ dans l’arbre. À cause du format du tournoi et de la présence de 14 équipes, il y a un avantage pour deux équipes qui commencent directement en quart de finale, au lieu de huitièmes.
 Le tournoi a lieu sur une semaine :
 1. 3 matchs de huitième de finales

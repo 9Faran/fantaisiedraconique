@@ -2,18 +2,19 @@
 {"dg-publish":true,"permalink":"/le-blitzball/les-equipes/sports-followers/"}
 ---
 
+# Sports Followers
+---
 #Lore 
 Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
-
-# Pays
+## Pays
 Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les pays/Garde-Belle/Garde-Belle\|Garde-Belle]]. Elle est financée par l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]].
-# Membres
+## Membres
 Il s'agit d'une équipe de rang F.
-# Réputation
+## Réputation
 Considérée comme une mauvaise équipe.
-## Coupes
+### Coupes
 L'équipe n'a pas encore gagné de tournois.
-# Couleurs
+## Couleurs
 Le rouge.
