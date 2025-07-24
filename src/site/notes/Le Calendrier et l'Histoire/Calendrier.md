@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/le-calendrier-et-l-histoire/calendrier/"}
 ---
 
+# Calendrier
+---
 #Lore
 Fait partie du dossier [[Fantaisie draconique\|Fantaisie draconique]]
 
@@ -22,7 +24,7 @@ L'histoire est séparée en plusieurs âges. Dans l'ordre chronologique, ceux-ci
 
 Selon l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]], nous sommes actuellement en AD300. AD signifiant [[Le Calendrier et l'Histoire/Âge des Dragons\|Âge des Dragons]].
 Toutes les dates des différents âges suivent ce même modèle. Les abréviations suivantes sont utilisées, avec précisé le nombre d’années :
-- PF : [[Le Calendrier et l'Histoire/Précédemment au Feu\|Précédemment au Feu]]
+- PF : Précédemment au Feu
 		Cette notation comprends l'[[Le Calendrier et l'Histoire/Âge des Étoiles\|Âge des Étoiles]] et l'[[Le Calendrier et l'Histoire/Âge des Ténèbres\|Âge des Ténèbres]]. Les années sont comptées négativement, ceci à cause de la difficulté de dater correctement ces deux âges.
 - AF : [[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]] (602 ans)
 - AP : [[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]] (304 ans)

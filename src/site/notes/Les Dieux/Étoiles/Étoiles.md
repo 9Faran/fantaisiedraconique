@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/les-dieux/etoiles/etoiles/"}
 ---
 
+# Étoiles
+---
 #Lore 
 Fait partie du dossier [[Les Dieux/Dieux\|Dieux]]
 

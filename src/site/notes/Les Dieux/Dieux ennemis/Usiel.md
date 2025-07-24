@@ -2,27 +2,28 @@
 {"dg-publish":true,"permalink":"/les-dieux/dieux-ennemis/usiel/"}
 ---
 
+# Usiel
+---
 #Lore
 Fait partie du dossier [[Les Dieux/Dieux ennemis/Ennemi\|Ennemi]]
 
 -------
-
-### Description
+## Description
 Autrefois membre des [[Les Dieux/Étoiles/Étoiles\|Étoiles]], il est aujourd’hui le plus fidèle serviteur du [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]]. Il est vénéré par ceux qui sont prêts à trahir pour obtenir ce qu’ils veulent.
-## Edits
+### Edits
 Trahir, Obtenir des avantages dans la société
-## Anathème
+### Anathème
 Partager ton identité de serviteur du mal
-## Alignements des fidèles
+### Alignements des fidèles
 LN, LM, NM
-# Bénéfices
-## Sources divines
+## Bénéfices
+### Sources divines
 Harm
-## Compétences divines
+### Compétences divines
 Deception
-## Armes favorite
+### Armes favorite
 Fouet
-## Domaines
+### Domaines
 Destruction, Darkness, Pain, Trickery
-## Sorts des prêtres
+### Sorts des prêtres
 1st: illusory disguise, 2nd: invisibility, 4th: phantasmal killer

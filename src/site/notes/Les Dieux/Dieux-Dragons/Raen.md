@@ -2,27 +2,28 @@
 {"dg-publish":true,"permalink":"/les-dieux/dieux-dragons/raen/"}
 ---
 
+# Raen
+---
 #Lore
 Fait partie du dossier [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]]
 
 -------
-
-# Description
+## Description
 À la mort du [[Les Dieux/Dieux autres/Soleil\|Soleil]], Raen devint la dragon de Cuivre. Elle a toujours été la plus non-orthodoxe des commandants du [[Les Dieux/Dieux autres/Soleil\|Soleil]]. En tant que Déesse, elle se veut protectrice de la liberté.
-## Edits
+### Edits
 Profiter de la vie, Pardonner ses ennemis
-## Anathème
+### Anathème
 Blesser un autre serviteur de l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]]
-## Alignements des fidèles
+### Alignements des fidèles
 NB, CB, CN
-# Bénéfices
-## Sources divines
+## Bénéfices
+### Sources divines
 Heal
-## Compétences divines
+### Compétences divines
 Deception
-## Armes favorite
+### Armes favorite
 Dague
-## Domaines
+### Domaines
 Air, Earth, Freedom, Trickery
-## Sorts des prêtres
+### Sorts des prêtres
 1st: illusory disguise, 2nd: invisibility, 4th: veil

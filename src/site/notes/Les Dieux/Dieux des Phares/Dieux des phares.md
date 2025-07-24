@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/les-dieux/dieux-des-phares/dieux-des-phares/"}
 ---
 
+# Dieux des phares
+---
 #Lore 
 Fait partie du dossier [[Les Dieux/Dieux\|Dieux]]
 
 -------
-
 Les Phares consistent en de grandes tours qui émanent depuis leur sommet une grande lumière.
 Ils ont plusieurs rôles, que ce soit de guider les voyageurs, et particulièrement les navigateurs. Ainsi que de servir de lieux de réunions ou de procession religieuse.
 Mais leur rôle le plus important est que grâce à la magie qu’ils habitent, ils éloignent la [[Les pays/Brume\|Brume]] des terres habitables.

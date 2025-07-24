@@ -2,23 +2,24 @@
 {"dg-publish":true,"permalink":"/les-creatures/leviathans/"}
 ---
 
+# Léviathans
+---
 #Monsters 
 Fait partie du dossier [[Les Créatures/Créatures\|Créatures]]
 
 -------
-
-# Description
+## Description
 Les Léviathans sont de gigantesques [[Les Créatures/Créatures\|Créatures]] au service du [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]].
 Leurs apparences varient, chaque Léviathan étant bien distinctif des autres. Mais ils gardent une forme, une silhouette similaire à savoir celle d'une gigantesque créature similaire à un cétacé dont la taille serait équivalente à celle d'une petite ville.
-# Habitat
+## Habitat
 Les Léviathans vivent dans la [[Les pays/Brume\|Brume]]. En dehors de celle-ci, ils préfèrent rester dans l'eau.
-# Pouvoirs
+## Pouvoirs
 Les Léviathans disposent de capacité et de pouvoirs variés, mais en règle générales ils sont capables de
 - Nager à grandes vitesses
 - Voler, mais à une vitesse plus réduite
 - Transporter d'autres monstres
 - Invoquer la [[Les pays/Brume\|Brume]]
-# Histoire
+## Histoire
 Les Léviathans ont toujours été un fléau pour l'humanité, et ce depuis l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]]. Les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] les ont affrontés, comme les [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]]. D'ailleurs, le seul à n'avoir jamais réussi à tuer un Léviathan, était le Dieu [[Les Dieux/Dieux des Phares/Agenor\|Agenor]] (encore mortel à ce moment-là), à la tête d'une flotte de corsaires soutenus par les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] et le [[Les Guildes/Collège de magie\|Collège de magie]].
 Plus tard, les Léviathans ont été responsable de la fracture du continent de [[Les pays/Kimar/Kimar\|Kimar]].
 Aujourd'hui, les attaques de Léviathans sont rares, car ils s'exposent à l'intervention d'un des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]].

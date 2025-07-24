@@ -22,4 +22,4 @@ Les rangs sont les suivants (ordre décroissant) :
 - Les fidèles
 # Alliés et ennemis
 Le Vieux Culte est en opposition avec l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]], et donc avec les [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]]. Pourtant, elle voue un très grand respect au [[Les Guildes/Collège de magie\|Collège de magie]] qui a été fondé par une de leurs déesses.
-Aucune relation n’est faite avec les [[Les Guildes/Membres des Chercheurs/Chercheurs\|Chercheurs]], même si l’intérêt pour l’[[Le Calendrier et l'Histoire/Précédemment au Feu\|Précédemment au Feu]] les réunirait.
+Aucune relation n’est faite avec les [[Les Guildes/Membres des Chercheurs/Chercheurs\|Chercheurs]], même si l’intérêt pour l’[[Le Calendrier et l'Histoire/Âge des Étoiles\|Âge des Étoiles]] les réunirait.

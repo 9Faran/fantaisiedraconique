@@ -2,27 +2,28 @@
 {"dg-publish":true,"permalink":"/les-dieux/etoiles/karael/"}
 ---
 
+# Karael
+---
 #Lore
 Fait partie du dossier [[Les Dieux/Étoiles/Étoiles\|Étoiles]]
 
 -------
-
-### Description
+## Description
 Membre des [[Les Dieux/Étoiles/Étoiles\|Étoiles]] et ennemi du [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]]. On ne sait malheureusement rien de plus sur elle.
-## Edits
+### Edits
 inconnus
-## Anathème
+### Anathème
 inconnu
-## Alignements des fidèles
+### Alignements des fidèles
 inconnu
-# Bénéfices
-## Sources divines
+## Bénéfices
+### Sources divines
 inconnu
-## Compétences divines
+### Compétences divines
 inconnu
-## Armes favorite
+### Armes favorite
 inconnu
-## Domaines
+### Domaines
 inconnu
-## Sorts des prêtres
+### Sorts des prêtres
 inconnu

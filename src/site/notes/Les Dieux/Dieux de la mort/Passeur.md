@@ -2,27 +2,28 @@
 {"dg-publish":true,"permalink":"/les-dieux/dieux-de-la-mort/passeur/"}
 ---
 
+# Passeur
+---
 #Lore 
 Fait partie du dossier [[Les Dieux/Dieux de la mort/Dieux de la Mort\|Dieux de la Mort]]
 
 -------
-
-# Description
+## Description
 Lorsqu'un mortel meurt, son âme est guidée jusqu'au royaume des [[Les Dieux/Dieux de la mort/Dieux de la Mort\|Dieux de la Mort]] par celui qu'on appelle le Passeur. Il est représenté sous la forme d'un spectre silencieux guidant sur sa barque les âmes perdues en mer.
-## Edits
+### Edits
 Vivre sa vie sans pour autant empiéter sur celles des autres, Créer des morts-vivants
-## Anathème
+### Anathème
 Ramener un mort à la vie
-## Alignements des fidèles
+### Alignements des fidèles
 NB, LN, NN, CN, NM
-# Bénéfices
-## Sources divines
+## Bénéfices
+### Sources divines
 Heal or Harm
-## Compétences divines
+### Compétences divines
 Medicine
-## Armes favorite
+### Armes favorite
 Bâton
-## Domaines
+### Domaines
 Death, Darkness, Fate, Water
-## Sorts des prêtres
+### Sorts des prêtres
 1st: phantom pain, 3rd: wall of thorns, 5th: shadow walk

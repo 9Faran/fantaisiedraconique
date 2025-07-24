@@ -2,27 +2,28 @@
 {"dg-publish":true,"permalink":"/les-dieux/dieux-autres/grande-tisseuse/"}
 ---
 
+# Grande Tisseuse
+---
 #Lore 
 Fait partie du dossier [[Les Dieux/Dieux autres/Autres panthéons\|Autres panthéons]]
 
 -------
-
-# Description
+## Description
 Elle était déjà là avant la naissance du monde, gouvernant à la destinée des mortels. La Grande Tisseuse est souvent représentée sous la forme d’une araignée géante, avec le torse d’une humaine.
-## Edits
+### Edits
 Chercher à lire la destinée, la faire respecter, comprendre les prophéties
-## Anathème
+### Anathème
 Créer des morts-vivants
-## Alignements des fidèles
+### Alignements des fidèles
 NB, LN, NN, CN, NM
-# Bénéfices
-## Sources divines
+## Bénéfices
+### Sources divines
 Heal
-## Compétences divines
+### Compétences divines
 Lore (tous)
-## Armes favorite
+### Armes favorite
 Bâton
-## Domaines
+### Domaines
 Death, Fate, Knowledge, Truth
-## Sorts des prêtres
+### Sorts des prêtres
 1st: mindlink, 3rd: ghostly weapon, 4th: phantasmal killer
