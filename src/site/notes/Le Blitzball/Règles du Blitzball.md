@@ -51,6 +51,8 @@ Une équipe de [[Le Blitzball/Blitzball\|Blitzball]] est composée de 6 joueurs,
 - Action de blocage
 #### Action de tacle
 Chaque jet d'action de tacle supérieur ou égale à 15, permet d'annuler une action (autre qu'un tacle) de l'équipe adverse lors de la manche en cours.
+Le joueur qui a taclé choisit si il cible un attaquant ou un défenseur (mais pas le gardien).
+Le joueur ciblé choisit lequel de ses défenseurs ou attaquants est éliminé.
 #### Action de passe
 Chaque jet d'action de passe supérieur ou égale à 10, donne un bonus de +2 à une action de tir (non cumulatif)
 #### Action de tir
