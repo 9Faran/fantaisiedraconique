@@ -18,7 +18,7 @@ Chaque équipe est composée de 6 personnes :
 - 1 gardien-nne
 L’un des membres de l’équipe prend le rôle de capitaine pour diriger celle-ci et l’entraîner entre les matchs. Le capitaine est généralement, mais pas obligatoirement, un attaquant.
 ## Les Règles
-Disponible dans le chapitre [[Le Blitzball/Règles du Blitball\|Règles du Blitball]]
+Disponible dans le chapitre [[Le Blitzball/Règles du Blitzball\|Règles du Blitzball]]
 ## Les équipes
 1. [[Le Blitzball/Les équipes/The Aurochs\|The Aurochs]]
 2. [[Le Blitzball/Les équipes/Avid Seekers\|Avid Seekers]]
