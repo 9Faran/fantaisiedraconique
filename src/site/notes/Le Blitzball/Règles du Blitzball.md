@@ -32,7 +32,7 @@ Un match de [[Le Blitzball/Blitzball\|Blitzball]] oppose deux équipes de 6 joue
 Au début d'un matche, le capitaine définir les positions de ses joueurs.
 Au début d'une manche, le capitaine définit les stratégies de ses joueurs.
 ### Définir les positions
-Une équipe de [[Le Blitzball/Blitzball\|Blitzball]] est composée de 5 joueurs, à répartir entre les rôles suivants :
+Une équipe de [[Le Blitzball/Blitzball\|Blitzball]] est composée de 6 joueurs, à répartir entre les rôles suivants :
 - Attaquants : Chaque attaquant offre
 	- Une action de tir
 	- Ou une action de tacle
