@@ -11,9 +11,9 @@ Fait partie du dossier [[Les Livres/Livres\|Livres]]
 ## Contexte
 Cité de [[Les pays/Îles australes/Lubas\|Lubas]] en AD300. L'écriture commence en Floréveil, avec l'arrivée de l'auteur à [[Les pays/Îles australes/Lubas\|Lubas]] et continue jusqu'au milieu de Briséis.
 ## Auteur
-Le Maître [[Jansec\|Jansec]] est un espion de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et fait donc partie des rares membres à être monté dans la hiérarchie sans être un lanceur de sorts divins. Son nom d'emprunt pendant l'opération était [[Jyscal\|Jyscal]].
+Le Maître Jansec est un espion de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et fait donc partie des rares membres à être monté dans la hiérarchie sans être un lanceur de sorts divins. Son nom d'emprunt pendant l'opération était Jyscal.
 ## Résumé
-Maître [[Jansec\|Jansec]] résume son parcours à [[Les pays/Îles australes/Lubas\|Lubas]].
+Maître Jansec résume son parcours à [[Les pays/Îles australes/Lubas\|Lubas]].
 
 4 Floréveil : Arrivée en ville. Jansec y prend un travail dans un café, "La promenade", avec un horaire irrégulier. Il dort d'abord dans la chambre d'une agence de voyage.
 
