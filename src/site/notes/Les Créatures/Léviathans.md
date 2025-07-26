@@ -37,6 +37,6 @@ Les [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]] ont répertoriés, selo
 11. Recouverts de fourrures rousses et noires, sa peau squameuse visible par endroit
 12. Constamment recouvert d'eau, même en vol. Son corps est rarement distinguible.
 Auxquelles, il faut ajouter celui responsable de la destruction de [[Les pays/Îles australes/Aksermaru\|Aksermaru]] :
-13. Un léviathan dont la peau et la forme rappelle les insectes et dont le corps est rouge. Il est donc surnommé le Léviathan rouge
+13. Un léviathan dont la peau et la forme rappelle les insectes et dont le corps est rouge. Il est donc surnommé le [[Les Créatures/Léviathan rouge\|Léviathan rouge]].
 
-Le Gardien de la tour est similaire au 
+Le Gardien de la tour est similaire au léviathan no 10.

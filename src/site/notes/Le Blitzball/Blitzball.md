@@ -13,10 +13,7 @@ Les matchs doivent se dérouler sous l’eau. Le terrain est circulaire d’un r
 Au stade de [[Les pays/Îles australes/Lubas\|Lubas]], le terrain a la particularité d’être sphérique.
 ## Composition d’une équipe
 Chaque équipe est composée de 6 personnes :
-- 3 attaquant-e-s
-- 2 défenseur-euse-s
-- 1 gardien-nne
-L’un des membres de l’équipe prend le rôle de capitaine pour diriger celle-ci et l’entraîner entre les matchs. Le capitaine est généralement, mais pas obligatoirement, un attaquant.
+L’un des membres de l’équipe prend le rôle de capitaine pour diriger celle-ci et l’entraîner entre les matchs.
 ## Les Règles
 Disponible dans le chapitre [[Le Blitzball/Règles du Blitzball\|Règles du Blitzball]]
 ## Les équipes

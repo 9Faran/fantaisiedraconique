@@ -4,7 +4,7 @@
 
 # Héritages
 ---
-#Lore 
+#Ancestries  
 Fait partie du dossier [[Fantaisie draconique\|Fantaisie draconique]]
 
 -------
