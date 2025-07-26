@@ -15,9 +15,7 @@ Ce ne fut que 10 ans plus tard qu’il revint, seul. Il annonça à son père av
 Terrifié par ceci, Aulus ordonna l’exécution de son fils. Ce dernier ne se laissa pas faire et abattit son père. Ceci marqua le début d’une terrible guerre civile, à laquelle se joignirent aussi les autres [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] voulant venger leur allié.
 Cette guerre dura une dizaine d’années. Période pendant laquelle, le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] profita pour reconquérir des territoires. Et à la fin de ce conflit, Quintis gagna, conquérant les terres de son père et des autres [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]].
 
-Devenu Empereur des mortels, il déplaça sa capitale à [[Les pays/Garde-Belle/Garde-Belle\|Garde-Belle]], et y ordonna la construction d’un gigantesque phare dans lequel il alla de lui-même s'installer pour changer son corps en pierre. S'élevant au rang de [[Les Dieux/Dieux\|Dieux]], il se nomma le [[Les Dieux/Dieux autres/Soleil\|Soleil]] et son phare fut nommé le [[Les pays/Garde-Belle/Phare du Soleil\|Phare du Soleil]].
-
-Vers la fin de sa vie, il fit bâtir un nouveau phare dans sa capitale. Plus grand que tous les autres, prévus spécialement pour lui. Accédant à l’immortalité, il se renomma “L’empereur [[Les Dieux/Dieux autres/Soleil\|Soleil]]” et continua de régner sur son royaume.
+Devenu Empereur des mortels, il déplaça sa capitale à [[Les pays/Garde-Belle/Garde-Belle\|Garde-Belle]], et y ordonna la construction d’un gigantesque phare dans lequel il alla de lui-même s'installer pour changer son corps en pierre. S'élevant au rang de [[Les Dieux/Dieux\|Dieux]], il se nomma le [[Les Dieux/Dieux autres/Soleil\|Soleil]], Empereur de l'[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]] et son phare fut nommé le [[Les pays/Garde-Belle/Phare du Soleil\|Phare du Soleil]].
 ## Niveau technologique
 "Âge de l'acier" : Maîtrise de la métallurgie de l'acier.
 ## Durée
