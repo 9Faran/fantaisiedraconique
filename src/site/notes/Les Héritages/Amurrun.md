@@ -23,7 +23,7 @@ Les Amurruns croient que leur peuple est issu d'anciens grands félins primitifs
 ### Anathèmes populaires
 - Laisser une question sans réponse
 ## Personnalités influentes
-Parmi les tribus du désert, le chef de clan [[Les pays/Bi'Han/Dra’Jiradh\|Dra’Jiradh]] est le plus influent.
+Parmi les tribus du désert, le chef de clan [[Les PNJs/Dra’Jiradh\|Dra’Jiradh]] est le plus influent.
 ## Langage
 Les Amurrun parlent l’Amurrun.
 ## Tenues spécifiques

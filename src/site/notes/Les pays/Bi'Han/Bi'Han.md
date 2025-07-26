@@ -17,7 +17,7 @@ Les héritages présents à Bi’Han sont :
 ## Lieux notables
 Quelque part sous le désert se trouve une cité en ruine. Et au centre de ces ruines, se dresse [[Les pays/Bi'Han/La Bibliothèque\|La Bibliothèque]]. Une source de savoir qui n’a pas encore été fini d’explorer.
 ## Personnalités influentes
-Parmi les tribus du désert, le chef de clan [[Les pays/Bi'Han/Dra’Jiradh\|Dra’Jiradh]] est l’[[Les Héritages/Amurrun\|Amurrun]] le plus influent.
+Parmi les tribus du désert, le chef de clan [[Les PNJs/Dra’Jiradh\|Dra’Jiradh]] est l’[[Les Héritages/Amurrun\|Amurrun]] le plus influent.
 Au sein des gens qui se sont établis dans les ruines, [[Les Guildes/Chercheurs/Cid\|Cid]] fait figure d’autorité. Cet humain est le descendant de [[Les Guildes/Chercheurs/Albol\|Albol]] et un membre du [[Les Guildes/Chercheurs/Conseil des Anciens\|Conseil des Anciens]] qui dirige les [[Les Guildes/Chercheurs/Chercheurs\|Chercheurs]].
 ## Langage
 Les langues parlées sont l’Amurruns, le Commun et la langue secrète des [[Les Guildes/Chercheurs/Chercheurs\|Chercheurs]] (l’Utopian).

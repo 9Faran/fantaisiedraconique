@@ -29,3 +29,4 @@ Cette encyclopédie regroupe tout ce qu'il y a à savoir sur le monde, ce qui in
 - Les [[Les Héritages/Héritages\|Héritages]]
 - Les [[Les Livres/Livres\|Livres]]
 - Les [[Les pays/Pays\|Pays]]
+- Les [[Les PNJs/PNJs\|PNJs]]
