@@ -5,7 +5,7 @@
 # Livres
 ---
 #Items 
-Fait partie du dossier [[Fantaisie draconique\|Fantaisie draconique]]
+Fait partie du dossier [[Fantaisie Draconique\|Fantaisie Draconique]]
 
 -------
 Les livres trouvées par le groupe sont regroupés ici :

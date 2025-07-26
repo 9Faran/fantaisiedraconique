@@ -4,7 +4,7 @@
 
 # Ennemi
 ---
-#Lore
+#Divinity 
 Fait partie du dossier [[Les Dieux/Dieux\|Dieux]]
 
 -------

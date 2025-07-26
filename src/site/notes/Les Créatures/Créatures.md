@@ -4,8 +4,8 @@
 
 # Créatures
 ---
-#Lore 
-Fait partie du dossier [[Fantaisie draconique\|Fantaisie draconique]]
+#Monsters  
+Fait partie du dossier [[Fantaisie Draconique\|Fantaisie Draconique]]
 
 -------
 

@@ -4,7 +4,7 @@
 
 # The Lightning Bolts
 ---
-#Lore 
+#Blitzball  
 Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------

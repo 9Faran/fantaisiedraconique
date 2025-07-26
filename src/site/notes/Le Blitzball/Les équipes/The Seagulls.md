@@ -4,7 +4,7 @@
 
 # The Seagulls
 ---
-#Lore 
+#Blitzball  
 Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------

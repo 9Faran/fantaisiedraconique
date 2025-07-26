@@ -4,8 +4,8 @@
 
 # Blitzball
 ---
-#Lore 
-Fait partie du dossier [[Fantaisie draconique\|Fantaisie draconique]]
+#Blitzball  
+Fait partie du dossier [[Fantaisie Draconique\|Fantaisie Draconique]]
 
 -------
 ## Terrain

@@ -4,7 +4,7 @@
 
 # Muriel
 ---
-#Lore
+#Divinity 
 Fait partie du dossier [[Les Dieux/Étoiles/Étoiles\|Étoiles]]
 
 -------

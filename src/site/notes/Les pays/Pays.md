@@ -5,7 +5,7 @@
 # Pays
 ---
 #country 
-Fait partie du dossier [[Fantaisie draconique\|Fantaisie draconique]]
+Fait partie du dossier [[Fantaisie Draconique\|Fantaisie Draconique]]
 
 -------
 ## Liste des Pays

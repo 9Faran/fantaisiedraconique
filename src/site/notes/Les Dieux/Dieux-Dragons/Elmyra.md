@@ -4,7 +4,7 @@
 
 # Elmyra
 ---
-#Lore
+#Divinity 
 Fait partie du dossier [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]]
 
 -------

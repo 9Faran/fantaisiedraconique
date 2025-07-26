@@ -4,7 +4,7 @@
 
 # Fidèles du Soleil
 ---
-#Lore
+#Guild 
 Fait partie du dossier [[Les Guildes/Guildes\|Guildes]]
 
 -------

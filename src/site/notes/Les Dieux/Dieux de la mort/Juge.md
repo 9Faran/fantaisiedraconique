@@ -4,7 +4,7 @@
 
 # Juge
 ---
-#Lore 
+#Divinity  
 Fait partie du dossier [[Les Dieux/Dieux de la mort/Dieux de la Mort\|Dieux de la Mort]]
 
 -------

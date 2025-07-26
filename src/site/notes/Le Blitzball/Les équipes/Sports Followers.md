@@ -4,7 +4,7 @@
 
 # Sports Followers
 ---
-#Lore 
+#Blitzball  
 Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------

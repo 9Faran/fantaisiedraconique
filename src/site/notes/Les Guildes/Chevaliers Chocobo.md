@@ -4,7 +4,7 @@
 
 # Chevaliers Chocobo
 ---
-#Lore
+#Guild 
 Fait partie du dossier [[Les Guildes/Guildes\|Guildes]]
 
 -------

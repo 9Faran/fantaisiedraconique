@@ -4,7 +4,7 @@
 
 # Église des Dragons
 ---
-#Lore
+#Guild 
 Fait partie du dossier [[Les Guildes/Guildes\|Guildes]]
 
 -------

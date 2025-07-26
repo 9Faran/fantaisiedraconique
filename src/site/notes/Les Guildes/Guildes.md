@@ -4,8 +4,8 @@
 
 # Guildes
 ---
-#Lore 
-Fait partie du dossier [[Fantaisie draconique\|Fantaisie draconique]]
+#Guild 
+Fait partie du dossier [[Fantaisie Draconique\|Fantaisie Draconique]]
 
 -------
 Les guildes actives sont :

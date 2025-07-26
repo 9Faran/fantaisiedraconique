@@ -4,7 +4,7 @@
 
 # Agenor
 ---
-#Lore 
+#Divinity  
 Fait partie du dossier [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]]
 
 -------
