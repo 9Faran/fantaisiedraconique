@@ -28,3 +28,5 @@ La mode d’Ay’Rion est très diversifiée, allant de vêtements pratiques pou
 ## Villes
 - [[Les pays/Ay'Rion/Turicu\|Turicu]]
 - [[Les pays/Ay'Rion/Victa\|Victa]]
+
+![Ay'Rion.png](/img/user/_Images/Ay'Rion.png)

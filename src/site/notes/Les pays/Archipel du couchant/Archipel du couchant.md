@@ -33,3 +33,5 @@ Les habitants de l’archipel aiment porter des vêtements pratiques et serrés,
 - [[Les pays/Archipel du couchant/Clan Hlapo\|Clan Hlapo]]
 - [[Les pays/Archipel du couchant/Clan Mrhugi\|Clan Mrhugi]]
 - [[Les pays/Archipel du couchant/Clan Mun\|Clan Mun]]
+
+![Archipel du couchant.png](/img/user/_Images/Archipel%20du%20couchant.png)

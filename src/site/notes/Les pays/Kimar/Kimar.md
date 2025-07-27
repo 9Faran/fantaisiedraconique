@@ -33,3 +33,5 @@ La mode s'adapte au climat. Le froid du nord et des montagnes a poussé vers des
 - [[Les pays/Kimar/Emyon\|Emyon]]
 - [[Les pays/Kimar/Pont torturé\|Pont torturé]]
 - [[Les pays/Kimar/Rine\|Rine]]
+
+![Kimar.png](/img/user/_Images/Kimar.png)

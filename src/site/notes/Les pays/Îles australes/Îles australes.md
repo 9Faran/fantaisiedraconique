@@ -30,3 +30,5 @@ Le climat chaud de ce pays a poussé les habitants à porter des tenues ouvertes
 - [[Les pays/Îles australes/Mataleli\|Mataleli]]
 - [[Les pays/Îles australes/Djesi\|Djesi]]
 - [[Les pays/Îles australes/Lubas\|Lubas]]
+
+![Îles australes.png](/img/user/_Images/%C3%8Eles%20australes.png)

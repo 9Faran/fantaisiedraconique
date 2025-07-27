@@ -20,7 +20,7 @@ Quelque part sous le désert se trouve une cité en ruine. Et au centre de ces r
 Parmi les tribus du désert, le chef de clan [[Les PNJs/Dra’Jiradh\|Dra’Jiradh]] est l’[[Les Héritages/Amurrun\|Amurrun]] le plus influent.
 Au sein des gens qui se sont établis dans les ruines, [[Les Guildes/Chercheurs/Cid\|Cid]] fait figure d’autorité. Cet humain est le descendant de [[Les Guildes/Chercheurs/Albol\|Albol]] et un membre du [[Les Guildes/Chercheurs/Conseil des Anciens\|Conseil des Anciens]] qui dirige les [[Les Guildes/Chercheurs/Chercheurs\|Chercheurs]].
 ## Langage
-Les langues parlées sont l’Amurruns, le Commun et la langue secrète des [[Les Guildes/Chercheurs/Chercheurs\|Chercheurs]] (l’Utopian).
+Les langues parlées sont l’[[Les Héritages/Amurrun\|Amurrun]], le Commun et la langue secrète des [[Les Guildes/Chercheurs/Chercheurs\|Chercheurs]] (l’Utopian).
 ## Coutumes
 Les [[Les Héritages/Amurrun\|Amurrun]] observent d’étranges rituels dédiés aux esprits de leurs ancêtres.
 Les [[Les Guildes/Chercheurs/Chercheurs\|Chercheurs]], eux, ont renoncé à la majorité des rites. Bien qu’ils respectent encore le [[Les Guildes/Vieux Culte\|Vieux Culte]].
@@ -29,3 +29,5 @@ Des vêtements amples et complets qui protègent de la chaleur et des sables du 
 Mais une fois à l’abri des sables, les habits deviennent adaptés à l’occupation de son porteur et donc de son travail. Il n’est pas rare que ceux-ci soient révélateurs du corps, en opposition à la mode stricte imposée par l’Eglise des Dragons.
 ## Villes
 - [[Les pays/Bi'Han/La Bibliothèque\|La Bibliothèque]]
+
+![Bi'Han.png](/img/user/_Images/Bi'Han.png)

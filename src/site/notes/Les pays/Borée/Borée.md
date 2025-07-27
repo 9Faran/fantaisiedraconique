@@ -29,3 +29,5 @@ Des uniformes militaires pour les gradés. Des armures pour les soldats.
 Les tenues des [[Les Héritages/Tengus\|Tengus]] sont sophistiquées.
 ## Villes
 - [[Les pays/Borée/Fort du Vigilant\|Fort du Vigilant]]
+
+![Borée.png](/img/user/_Images/Bor%C3%A9e.png)
