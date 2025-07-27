@@ -10,6 +10,7 @@ Fait partie du dossier [[Fantaisie Draconique\|Fantaisie Draconique]]
 -------
 ## Liste des Pays
 Les pays et région hors de la Brume sont :
+- [[Les pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]]
 - [[Les pays/Ay'Rion/Ay’Rion\|Ay’Rion]]
 - [[Les pays/Bi'Han/Bi'Han\|Bi'Han]]
 - [[Les pays/Borée/Borée\|Borée]]
