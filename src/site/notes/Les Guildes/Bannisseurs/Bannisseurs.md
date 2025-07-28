@@ -35,3 +35,4 @@ Les Bannisseurs entretenaient des relations neutres avec toutes les factions. Ju
 - Général [[Les Guildes/Bannisseurs/Andrew Morgan\|Andrew Morgan]]
 - Général [[Les Guildes/Bannisseurs/Catil\|Catil]]
 - Général [[Les Guildes/Bannisseurs/Lyssande\|Lyssande]]
+![Bannisseur-insigne.png](/img/user/_Images/Bannisseur-insigne.png)

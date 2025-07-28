@@ -29,3 +29,4 @@ Les rangs sont les suivants (ordre décroissant) :
 ## Alliés et ennemis
 L'Église des Dragons compte sur le soutien des [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]] et du [[Les Guildes/Collège de magie\|Collège de magie]].
 Il s’oppose au [[Les Guildes/Vieux Culte\|Vieux Culte]]. Et est férocement opposé aux [[Les Guildes/Chercheurs/Chercheurs\|Chercheurs]].
+![Eglise-insigne.png](/img/user/_Images/Eglise-insigne.png)

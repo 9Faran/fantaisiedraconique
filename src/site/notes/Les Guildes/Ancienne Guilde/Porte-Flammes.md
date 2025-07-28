@@ -26,3 +26,4 @@ Les rangs étaient les suivants (ordre décroissant) :
 - Soldats
 ## Alliés et ennemis
 Les Porte-Flammes étaient alliés au [[Les Guildes/Vieux Culte\|Vieux Culte]], ainsi qu'au [[Les Guildes/Collège de magie\|Collège de magie]] qui a d'ailleurs été fondé par l'une des leurs, la déesse [[Les Dieux/Dieux des Phares/Therisia\|Therisia]].
+![Porte-flamme-insigne.png](/img/user/_Images/Porte-flamme-insigne.png)

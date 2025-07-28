@@ -26,3 +26,4 @@ Les rangs étaient les suivants (ordre décroissant) :
 - Recrues
 ## Alliés et ennemis
 L'Empire était opposé à toutes les autres guildes.
+![Empire-insigne.png](/img/user/_Images/Empire-insigne.png)

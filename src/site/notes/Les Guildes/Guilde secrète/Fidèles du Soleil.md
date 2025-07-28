@@ -29,3 +29,4 @@ Les rangs sont les suivants (ordre décroissant) :
 Les fidèles du [[Les Dieux/Dieux autres/Soleil\|Soleil]] sont fermement ennemis avec l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et toutes les guildes associées.
 Bien qu’ils considèrent le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] comme ennemi, sa présence dans la [[Les Livres/Prophétie du Soleil\|Prophétie du Soleil]] les oblige à agir prudemment, voir de concert, avec les forces du mal.
 Ils sont neutres vis-à-vis des [[Les Guildes/Chercheurs/Chercheurs\|Chercheurs]] ou du [[Les Guildes/Vieux Culte\|Vieux Culte]].
+![Fidèle-insigne.png](/img/user/_Images/Fid%C3%A8le-insigne.png)
