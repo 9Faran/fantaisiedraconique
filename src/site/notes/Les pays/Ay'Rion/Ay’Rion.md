@@ -15,7 +15,7 @@ Les héritages présents à Ay’Rion sont :
 - [[Les Héritages/Humains\|Humains]]
 - [[Les Héritages/Kashrishi\|Kashrishi]]
 ## Lieux notables
-Le [[Les Guildes/Collège de magie\|Collège de magie]] se dresse au centre du pays, près du premier phare.
+Le [[Les Guildes/Collège de Magie\|Collège de Magie]] se dresse au centre du pays, près du premier phare.
 ## Personnalités influentes
 La Grande-Maîtresse et archimage [[Les Guildes/Église/Jiley\|Jiley]] est la figure la plus influente du pays. Incarnant à la fois l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et l’héritage des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]].
 ## Langage

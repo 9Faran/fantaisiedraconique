@@ -5,7 +5,7 @@
 # Jiley
 ---
 #PNJ 
-Fait partie du dossier [[Les Guildes/Église/Grands-Maîtres\|Grands-Maîtres]], ainsi que [[Les Guildes/Collège de magie\|Collège de magie]]
+Fait partie du dossier [[Les Guildes/Église/Grands-Maîtres\|Grands-Maîtres]], ainsi que [[Les Guildes/Collège de Magie\|Collège de Magie]]
 
 -------
 ## Origine et description
@@ -24,9 +24,9 @@ Elle est la représentante de [[Les Dieux/Dieux-Dragons/Raen\|Raen]] la libre.
 Magicienne
 ## Guilde
 L´[[Les Guildes/Église/Église des Dragons\|Église des Dragons]]
-Le [[Les Guildes/Collège de magie\|Collège de magie]]
+Le [[Les Guildes/Collège de Magie\|Collège de Magie]]
 ### Rang
 Membre des [[Les Guildes/Église/Grands-Maîtres\|Grands-Maîtres]]
-Archimage du [[Les Guildes/Collège de magie\|Collège de magie]]
+Archimage du [[Les Guildes/Collège de Magie\|Collège de Magie]]
 ### Rôle dans la Guilde
-La Grande-Maîtresse Jiley s’occupe de la diplomatie de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] auprès des autres guildes, en particulier auprès du [[Les Guildes/Vieux Culte\|Vieux Culte]]. Depuis 10 ans, elle cumule avec le poste d'Archimage du [[Les Guildes/Collège de magie\|Collège de magie]].
+La Grande-Maîtresse Jiley s’occupe de la diplomatie de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] auprès des autres guildes, en particulier auprès du [[Les Guildes/Vieux Culte\|Vieux Culte]]. Depuis 10 ans, elle cumule avec le poste d'Archimage du [[Les Guildes/Collège de Magie\|Collège de Magie]].

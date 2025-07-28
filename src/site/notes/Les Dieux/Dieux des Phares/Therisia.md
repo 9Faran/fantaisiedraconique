@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des 
 
 -------
 ## Description
-Therisia a été dans l’histoire, la seule femme à rejoindre les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]]. Elle est aussi connue comme la fondatrice du [[Les Guildes/Collège de magie\|Collège de magie]]. On la surnomme la gardienne du savoir, ou la professeure.
+Therisia a été dans l’histoire, la seule femme à rejoindre les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]]. Elle est aussi connue comme la fondatrice du [[Les Guildes/Collège de Magie\|Collège de Magie]]. On la surnomme la gardienne du savoir, ou la professeure.
 Son phare est au nord de [[Les pays/Ultan/Ultan\|Ultan]].
 ### Edits
 Préserver le savoir du [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]], Étudier le monde, Rechercher les sources de magie et les utiliser
