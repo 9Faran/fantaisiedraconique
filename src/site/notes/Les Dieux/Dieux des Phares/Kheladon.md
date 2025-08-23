@@ -29,4 +29,4 @@ Flèchettes
 Creation, Luck, Passion, Perfection
 ### Sorts des prêtres
 1st: jump, 3rd: haste, 4th: stoneskin
-![Kheladon.png](/img/user/_Images/Kheladon.png)
+![Kheladon.png](/img/user/_Images/_Dieux/Kheladon.png)

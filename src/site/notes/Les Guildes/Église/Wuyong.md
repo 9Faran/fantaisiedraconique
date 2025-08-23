@@ -31,4 +31,4 @@ Le Grand-Maître Wuyong occupe le poste de chef de l’[[Les Guildes/Église/Ég
 Parmi ses titres, on le nomme aussi vicomte de [[Les pays/Garde-Belle/Garde-Belle\|Garde-Belle]].
 Il est grand-Maître depuis 60 ans, et au pouvoir exécutif depuis 40 ans.
 
-![Wuyong.png](/img/user/_Images/Wuyong.png)
+![Wuyong.png](/img/user/_Images/_PNJs/Wuyong.png)

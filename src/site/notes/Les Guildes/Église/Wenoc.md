@@ -33,4 +33,4 @@ Le Grand-Maître Wenoc est responsable de la formation des moines guerriers et d
 
 Aussi, depuis 10 ans, il cumule le poste de Maréchal des [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]]. Fonction où ils coordonnent les efforts des 3 [[Les Guildes/Bannisseurs/Généraux\|Généraux]] de l'ordre pour combattre le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]].
 
-![Wenoc.webp](/img/user/_Images/Wenoc.webp)
+![Wenoc.webp](/img/user/_Images/_PNJs/Wenoc.webp)

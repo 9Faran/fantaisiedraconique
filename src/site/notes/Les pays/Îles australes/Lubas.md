@@ -25,4 +25,4 @@ Plus que dix milles habitants.
 ## Habitants
 - Personne de notable
 
-![Lubas.jpg](/img/user/_Images/Lubas.jpg)
+![Lubas.jpg](/img/user/_Images/_Pays/Lubas.jpg)

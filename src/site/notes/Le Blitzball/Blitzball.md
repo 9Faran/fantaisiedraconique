@@ -41,4 +41,4 @@ Le tournoi a lieu sur une semaine :
 5. 2 matchs de demi-finales
 6. 1 match de finale
 
-![Arbre du tournoi.png](/img/user/_Images/Arbre%20du%20tournoi.png)
+![Arbre du tournoi.png](/img/user/_Images/_Blitzball/Arbre%20du%20tournoi.png)

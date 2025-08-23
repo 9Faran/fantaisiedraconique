@@ -30,4 +30,4 @@ Mais une fois à l’abri des sables, les habits deviennent adaptés à l’occu
 ## Villes
 - [[Les pays/Bi'Han/La Bibliothèque\|La Bibliothèque]]
 
-![Bi'Han.png](/img/user/_Images/Bi'Han.png)
+![Bi'Han.png](/img/user/_Images/_Pays/Bi'Han.png)

@@ -29,4 +29,4 @@ Confidence, Might, Protection, Zeal
 ### Sorts des prêtres
 1st: illusory disguise, 2nd: enlarge, 4th: weapon storm
 
-![Iphemedia.jpg](/img/user/_Images/Iphemedia.jpg)
+![Iphemedia.jpg](/img/user/_Images/_Dieux/Iphemedia.jpg)

@@ -12,3 +12,11 @@ Le Tarot constitue un ensemble de cartes magiques créées par la [[Les Dieux/Di
 Voici les cartes déjà trouvées par le groupe :
 1. [[Les Livres/Tarot/Le Bateleur\|Le Bateleur]]
 2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. [[Les Livres/Tarot/La Roue de Fortune\|La Roue de Fortune]]

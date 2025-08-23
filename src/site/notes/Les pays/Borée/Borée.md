@@ -30,4 +30,4 @@ Les tenues des [[Les Héritages/Tengus\|Tengus]] sont sophistiquées.
 ## Villes
 - [[Les pays/Borée/Fort du Vigilant\|Fort du Vigilant]]
 
-![Borée.png](/img/user/_Images/Bor%C3%A9e.png)
+![Borée.png](/img/user/_Images/_Pays/Bor%C3%A9e.png)

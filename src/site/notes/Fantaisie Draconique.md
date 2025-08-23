@@ -12,6 +12,7 @@ Natural Fantasy, Post-Medieval Fantasy, Post-apocalyptic fantasy
 - Guild Wars 2
 - Golden Sun
 - Age of Mythology
+- Pillars of Eternity
 #### Séries
 - L’attaque des Titans
 - Full Metal Alchemist

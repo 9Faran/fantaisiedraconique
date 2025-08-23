@@ -29,4 +29,4 @@ Les rangs sont les suivants (ordre décroissant) :
 Les chevaliers [[Les Créatures/Chocobos\|Chocobos]] sont alliés avec tous les ennemis du [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]].
 ## Membres notables
 - Le Chevalier capitaine
-![Chevalier-chocobos-insigne.png](/img/user/_Images/Chevalier-chocobos-insigne.png)
+![Chevalier-chocobos-insigne.png](/img/user/_Images/_Guilde/Chevalier-chocobos-insigne.png)

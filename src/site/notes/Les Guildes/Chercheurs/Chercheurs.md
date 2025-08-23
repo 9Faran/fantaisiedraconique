@@ -30,4 +30,4 @@ Les rangs sont les suivants (ordre décroissant) :
 - Conseiller [[Les Guildes/Chercheurs/Cid\|Cid]]
 - Conseiller [[Les Guildes/Chercheurs/Rin\|Rin]]
 - Conseillère [[Les Guildes/Chercheurs/Tara\|Tara]]
-![Chercheur-Insigne.png](/img/user/_Images/Chercheur-Insigne.png)
+![Chercheur-Insigne.png](/img/user/_Images/_Guilde/Chercheur-Insigne.png)
