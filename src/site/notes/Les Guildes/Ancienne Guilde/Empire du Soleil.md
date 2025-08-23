@@ -15,7 +15,7 @@ L'Empire du Soleil était un gouvernement autocratique et théocratique dont l'o
 ## Organisation
 L'Empire a été dissous avec la mort du [[Les Dieux/Dieux autres/Soleil\|Soleil]].
 ## Adhésion
-L'Empire est dissous.
+L'Empire étant dissous, on ne peut pas y postuler.
 ## Rang
 Les rangs étaient les suivants (ordre décroissant) :
 - [[Les Dieux/Dieux autres/Soleil\|Soleil]]
