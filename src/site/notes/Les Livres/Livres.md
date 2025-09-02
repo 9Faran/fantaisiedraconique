@@ -12,4 +12,7 @@ Les livres trouvées par le groupe sont regroupés ici :
 - [[Les Livres/L'échec du Soleil - La nécessité de l'avènement des dragons\|L'échec du Soleil - La nécessité de l'avènement des dragons]]
 - [[Les Livres/Le journal d'enquête de Maître Jansec\|Le journal d'enquête de Maître Jansec]]
 - [[Les Livres/Rapport d'interrogatoire de Diomes\|Rapport d'interrogatoire de Diomes]]
+- [[Les Livres/La Finale AD300\|La Finale AD300]]
+
+C'est aussi ici que sont stockés, les curiosités et artéfacts trouvés par le groupe :
 - [[Les Livres/Tarot/Tarot\|Tarot]]

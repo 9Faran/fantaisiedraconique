@@ -17,7 +17,7 @@ L’un des membres de l’équipe prend le rôle de capitaine pour diriger celle
 ## Les Règles
 Disponible dans le chapitre [[Le Blitzball/Règles du Blitzball\|Règles du Blitzball]]
 ## Les équipes
-1. [[Le Blitzball/Les équipes/The Aurochs\|The Aurochs]]
+1. [[Le Blitzball/Les équipes/Aurochs\|Aurochs]]
 2. [[Le Blitzball/Les équipes/Avid Seekers\|Avid Seekers]]
 3. [[Le Blitzball/Les équipes/Deep Divers\|Deep Divers]]
 4. [[Le Blitzball/Les équipes/Dire Sharks\|Dire Sharks]]
