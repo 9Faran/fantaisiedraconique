@@ -50,7 +50,7 @@ Chaque saison est composée de 3 mois durant chacun 30 jours. Certains noms ont 
 - Chutefeuille
 ### L’hiver
 - Brise-froide
-- [[Les Dieux/Dieux de la mort/Demas\|Demas]]
+- [[Les Dieux/Dieux de la Mort/Demas\|Demas]]
 - Givre-glace
 ### La félicité
 La félicité correspond à une période de 5 jours entre l’hiver et le printemps. Chacun des jours a reçu le nom d’une des [[Les Dieux/Étoiles/Étoiles\|Étoiles]]. Ce sont parmi les rares noms de ces héros qui ont survécu.

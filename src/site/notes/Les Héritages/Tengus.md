@@ -14,7 +14,7 @@ Lors de l'[[Le Calendrier et l'Histoire/Âge du Soleil\|Âge du Soleil]], ce peu
 ## Société
 Les Tengus vivent reclus en [[Les Pays/Borée/Borée\|Borée]] et n'entretiennent que de rares contacts avec les autres peuples.
 ## Croyances
-Il est raconté que Les Tengus vénèrent [[Les Dieux/Dieux de la mort/Demas\|Demas]] et les autres [[Les Dieux/Dieux de la mort/Dieux de la Mort\|Dieux de la Mort]].
+Il est raconté que Les Tengus vénèrent [[Les Dieux/Dieux de la Mort/Demas\|Demas]] et les autres [[Les Dieux/Dieux de la Mort/Dieux de la Mort\|Dieux de la Mort]].
 ### Edits Populaires
 - 
 ### Anathèmes populaires

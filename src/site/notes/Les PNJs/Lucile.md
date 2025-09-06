@@ -18,7 +18,7 @@ Féminin
 ### Âge
 34 ans
 ### Religion
-Vénère tous les [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]] et [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]], mais avec une préfère pour [[Les Dieux/Dieux-Dragons/Sélène\|Sélène]]
+Vénère tous les [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]] et [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]], mais avec une préfère pour [[Les Dieux/Dieux-Dragons/Sélène\|Sélène]]
 ### Classe
 Commander
 ## Guilde

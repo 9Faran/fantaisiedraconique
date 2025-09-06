@@ -18,7 +18,7 @@ Féminin
 ### Âge
 42 ans
 ### Religion
-[[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]]
+[[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]]
 ### Classe
 Magicienne
 ## Guilde

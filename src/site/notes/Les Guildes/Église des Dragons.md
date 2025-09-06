@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Guildes/Guildes\|Guildes]]
 
 -------
 ## Histoire
-Fondée quelques mois après l'avènement des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]], elle réunit rapidement des fidèles qui voyaient en eux des protecteurs qui seront bien plus efficaces que les [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]].
+Fondée quelques mois après l'avènement des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]], elle réunit rapidement des fidèles qui voyaient en eux des protecteurs qui seront bien plus efficaces que les [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]].
 Réunissant d’anciens officiels de l’[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]], dont des généraux et des administrateurs, son influence s’étendit très rapidement à travers le monde afin de le fédérer.
 ## Nature et Objectifs
 L'Église des Dragons a pour objectif premier de servir les [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]] et en suivant leurs ordres de combattre le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]]. Mais l’Église souhaite éviter que le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] ne vienne influencer la population. Afin de guider le peuple, l'Église a établi une morale et des règles très strictes. S’en écarter est passible de terribles punitions.

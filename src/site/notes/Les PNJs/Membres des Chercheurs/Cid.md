@@ -18,7 +18,7 @@ Masculin
 ### Âge
 51 ans
 ### Religion
-Aucune. Réputé farouchement opposé à la vénération des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]], mais aussi à celles des [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]].
+Aucune. Réputé farouchement opposé à la vénération des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]], mais aussi à celles des [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]].
 ### Classe
 Inventeur
 ## Guilde

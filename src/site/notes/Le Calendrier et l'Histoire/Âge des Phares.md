@@ -11,7 +11,7 @@ Fait partie du dossier [[Le Calendrier et l'Histoire/Calendrier\|Calendrier]]
 ## Description
 Pour tenir les ténèbres à distance, les Portes-flammes faisaient allumer de grands brasiers à l’intérieur et aux portes de leur cités. Ces brasiers étaient aussi alimentés par leur magie, qui garantissait la robustesse et la force des flammes. Mais leur portée restait limitée.
 Un Roi des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]], nommé [[Les Dieux/Dieux des Phares/Abelus Faustinius\|Abelus Faustinius]], eut une idée : ériger de grandes tours avec à leur sommet des feux qui éclairaient sur l’ensemble d’une région. Abelus fit ériger une première tour et, aidé de confrères magiciens, il enchanta celle-ci pour canaliser l’énergie magique résiduelle et la transformer en lumière.
-À la mort d’[[Les Dieux/Dieux des Phares/Abelus Faustinius\|Abelus Faustinius]], son corps fut placer dans le dernier étage du de la tour. Sa dépouille fut changée en pierre, afin que son image soit éternellement figée. Son esprit s'éleva et devint le premier des [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]]. On le nomme aujourd’hui le seigneur des phares, le juge divin.
+À la mort d’[[Les Dieux/Dieux des Phares/Abelus Faustinius\|Abelus Faustinius]], son corps fut placer dans le dernier étage du de la tour. Sa dépouille fut changée en pierre, afin que son image soit éternellement figée. Son esprit s'éleva et devint le premier des [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]]. On le nomme aujourd’hui le seigneur des phares, le juge divin.
 ## Niveau technologique
 "Âge du fer" : Maîtrise de la métallurgie du fer, amélioration des techniques architecturales
 ## Durée

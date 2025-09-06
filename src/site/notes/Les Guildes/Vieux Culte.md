@@ -11,11 +11,11 @@ Fait partie du dossier [[Les Guildes/Guildes\|Guildes]]
 ## Histoire
 Fondé durant l’[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]], le vieux culte s’appelait juste “L’Église”, car c’était la seule qui comptait. Très influente à ses débuts, elle perdit en puissance sous l’[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]], et est maintenant tout juste tolérée par l'[[Les Guildes/Église des Dragons\|Église des Dragons]].
 ## Nature et Objectifs
-Le vieux culte a pour mission d’honorer les [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]].
+Le vieux culte a pour mission d’honorer les [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]].
 ## Organisation
 Originellement basé à [[Les Pays/Garde-Belle/Garde-Belle\|Garde-Belle]], le Vieux Culte a établi son nouveau centre dans l’[[Les Pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]].  
 ## Adhésion
-Tous ceux qui veulent vénérer les [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]] y sont les bienvenus.
+Tous ceux qui veulent vénérer les [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]] y sont les bienvenus.
 ## Rang
 Les rangs sont les suivants (ordre décroissant) :
 - Les hauts-prêtres (un par dieux)

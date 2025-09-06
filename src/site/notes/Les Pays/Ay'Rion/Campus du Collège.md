@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Pays/Ay'Rion/Ay’Rion\|Ay’Rion]]
 
 -------
 ## Description
-Fondée par la [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] [[Les Dieux/Dieux des Phares/Therisia\|Therisia]], avant de devenir un des [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]]. Le campus du collège abrite le [[Les Guildes/Collège de Magie\|Collège de Magie]].
+Fondée par la [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] [[Les Dieux/Dieux des Phares/Therisia\|Therisia]], avant de devenir un des [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]]. Le campus du collège abrite le [[Les Guildes/Collège de Magie\|Collège de Magie]].
 ## Lieux importants
 Le collège et ses nombreuses salles de classes.
 ## Architecture

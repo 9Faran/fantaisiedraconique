@@ -10,7 +10,7 @@ Fait partie du dossier [[Les Guildes/Guildes\|Guildes]]
 -------
 ## Histoire
 À l'aube de l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]], l'humanité s'éveilla avec à sa tête de puissants mages maniant la magie du feu : Les Porte-Flammes. Ceux-ci défièrent le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] et libèrent des terres de la [[Les Pays/Brume\|Brume]].
-Les [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]] sont issus de leur rangs, tout comme le [[Les Dieux/Dieux autres/Soleil\|Soleil]]. Mais c'est ce dernier qui dissoudra l'ordre, à la fin de l'[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]].
+Les [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]] sont issus de leur rangs, tout comme le [[Les Dieux/Dieux autres/Soleil\|Soleil]]. Mais c'est ce dernier qui dissoudra l'ordre, à la fin de l'[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]].
 ## Nature et Objectifs
 Les Porte-Flammes sont à la fois protecteurs et suzerains de l'humanité. Rôles qu'ils ont aussi imposés sur les autres peuples.
 ## Organisation
@@ -19,7 +19,7 @@ L'ordre est dissous.
 L'ordre est dissous.
 ## Rang
 Les rangs étaient les suivants (ordre décroissant) :
-- [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]]
+- [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]]
 - Roi
 - Mage-chevalier
 - Chevalier

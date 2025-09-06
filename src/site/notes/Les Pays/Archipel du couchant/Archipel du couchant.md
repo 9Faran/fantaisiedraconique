@@ -24,7 +24,7 @@ Un Tripkee nommé [[Quats’Oler\|Quats’Oler]], le chef du clan [[Les Pays/Arc
 ## Langage
 Les langues parlées sont le Thalassic et le Commun.
 ## Coutumes
-Les rites des [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]] sont toujours pratiqués publiquement et activement.
+Les rites des [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]] sont toujours pratiqués publiquement et activement.
 ## Tenues spécifiques
 Les habitants de l’archipel aiment porter des vêtements pratiques et serrés, de sorte à ce qu’ils ne les gênent pas en nageant.
 ## Villes

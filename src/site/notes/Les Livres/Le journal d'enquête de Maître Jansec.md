@@ -19,7 +19,7 @@ Maître Jansec résume son parcours à [[Les Pays/Îles australes/Lubas\|Lubas]]
 
 8 Floréveil : Jansec arrive à obtenir un appartement, avec l'aide de son employeur. Il continue son travail au café (les rumeurs sont parfois intéressantes)
 
-9 Floréveil : Jansec profite du jour de congé pour se rendre au temple multiconfessionnel et y prier. Il y rencontre des adorateurs des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]], mais aussi des [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]]. L'entente en ville est cordiale entre les deux religions.
+9 Floréveil : Jansec profite du jour de congé pour se rendre au temple multiconfessionnel et y prier. Il y rencontre des adorateurs des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]], mais aussi des [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]]. L'entente en ville est cordiale entre les deux religions.
 
 12 Floréveil : Jansec commence à fréquenter un café fréquenté par les [[Les Guildes/Bannisseurs\|Bannisseurs]] de la ville. En tendant l'oreille, il apprend que ceux-ci ne sont pas satisfait de la conduite de [[Les PNJs/Membre de l'Eglise/Wenoc\|Wenoc]].
 

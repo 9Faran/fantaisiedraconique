@@ -13,7 +13,7 @@ Les Tripkee sont des humanoïdes amphibiens qui vivent dans l'[[Les Pays/Archipe
 ## Société
 Les Tripkees vivent en sociétés tribales et ont maintenus un mode de vie de chasseur-cueilleur.
 ## Croyances
-Les Tripkees sont de fervents adorateurs des [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]], principalement de [[Les Dieux/Dieux des Phares/Agenor\|Agenor]] qu'ils considèrent comme le Dieu qui a rendu l'[[Les Pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]] sûr.
+Les Tripkees sont de fervents adorateurs des [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]], principalement de [[Les Dieux/Dieux des Phares/Agenor\|Agenor]] qu'ils considèrent comme le Dieu qui a rendu l'[[Les Pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]] sûr.
 ### Edits Populaires
 - Améliorer le coin de monde dans lequel ils vivent
 - Pratiquer la patience
