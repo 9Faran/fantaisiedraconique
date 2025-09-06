@@ -14,7 +14,7 @@ Fait partie du dossier [[Les PNJs/Membre de l'Eglise/Grands-Maîtres\|Grands-Ma�
 ### Genre
 Féminin
 ### Lieu de naissance
-[[Les pays/Ay'Rion/Turicu\|Turicu]]
+[[Les Pays/Ay'Rion/Turicu\|Turicu]]
 ### Âge
 46 ans.
 ### Religion

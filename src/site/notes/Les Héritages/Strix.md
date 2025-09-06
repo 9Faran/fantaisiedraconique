@@ -9,9 +9,9 @@ Fait partie du dossier [[Les Héritages/Héritages\|Héritages]]
 
 -------
 ## Histoire
-Les Strix ont été découvert à l'[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]]. Ce peuple aviaire habite dans les [[Les pays/Kimar/Dents Blanches\|Dents Blanches]] à [[Les pays/Kimar/Kimar\|Kimar]], dont ils se sont auto-proclamés les "Gardiens".
+Les Strix ont été découvert à l'[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]]. Ce peuple aviaire habite dans les [[Les Pays/Kimar/Dents Blanches\|Dents Blanches]] à [[Les Pays/Kimar/Kimar\|Kimar]], dont ils se sont auto-proclamés les "Gardiens".
 ## Société
-Les Strix vivent reclus dans leur territoire des [[Les pays/Kimar/Dents Blanches\|Dents Blanches]].
+Les Strix vivent reclus dans leur territoire des [[Les Pays/Kimar/Dents Blanches\|Dents Blanches]].
 Les Strix nourissent une grande méfiance des [[Les Héritages/Humains\|Humains]], surtout depuis le conflit qui opposa le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] et les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]], où les [[Les Créatures/Léviathans\|Léviathans]] ont détruits une partie des montagnes.
 ## Croyances
 Les Strix ne vénèrent pas les Dieux, mais croient que les esprits de leurs ancêtres les protègent.

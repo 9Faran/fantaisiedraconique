@@ -14,7 +14,7 @@ Fait partie du dossier [[Les PNJs/Membre de l'Eglise/Grands-Maîtres\|Grands-Ma�
 ### Genre
 Féminin
 ### Lieu de naissance
-[[Les pays/Ultan/Delium\|Delium]]
+[[Les Pays/Ultan/Delium\|Delium]]
 ### Âge
 42 ans.
 ### Religion

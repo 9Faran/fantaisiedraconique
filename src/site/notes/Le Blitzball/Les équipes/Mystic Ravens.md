@@ -9,7 +9,7 @@ Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
 ## Pays
-Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les pays/Borée/Borée\|Borée]].
+Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les Pays/Borée/Borée\|Borée]].
 ## Membres
 Intégralement composé de [[Les Héritages/Tengus\|Tengus]].
 Il s'agit d'une équipe de rang F.

@@ -14,7 +14,7 @@ Fait partie du dossier [[Les Guildes/Chevaliers Chocobo\|Chevaliers Chocobo]]
 ### Genre
 Féminin
 ### Lieu de naissance
-[[Les pays/Ay'Rion/Turicu\|Turicu]]
+[[Les Pays/Ay'Rion/Turicu\|Turicu]]
 ### Âge
 34 ans
 ### Religion
@@ -26,5 +26,5 @@ Les [[Les Guildes/Chevaliers Chocobo\|Chevaliers Chocobo]]
 ### Rang
 Capitaine-Chevaleresse des [[Les Guildes/Chevaliers Chocobo\|Chevaliers Chocobo]]
 ### Rôle dans la Guilde
-La Capitaine-Chevaleresse est en charge de coordonner les efforts des Lieutenants et des chevaliers à travers toutes les terres hors de la [[Les pays/Brume\|Brume]]. C'est elle qui ordonne les déplacements de la guilde ou ordonne une quête pour un détachement de quelques chevaliers ou d'un lieutenant.
+La Capitaine-Chevaleresse est en charge de coordonner les efforts des Lieutenants et des chevaliers à travers toutes les terres hors de la [[Les Pays/Brume\|Brume]]. C'est elle qui ordonne les déplacements de la guilde ou ordonne une quête pour un détachement de quelques chevaliers ou d'un lieutenant.
 Théoriquement, toute écurie de [[Les Créatures/Chocobos\|Chocobos]] est sous sa protection.

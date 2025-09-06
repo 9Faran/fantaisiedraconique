@@ -14,7 +14,7 @@ Aujourd’hui le Collège est une institution surveillée par l’[[Les Guildes/
 ## Nature et Objectifs
 Le Collège de Magie a pour mission de conserver le savoir magique, ainsi que de s’assurer de la transmission de celui-ci et la formation de nouveaux lanceurs de sorts.
 ## Organisation
-Le [[Les pays/Ay'Rion/campus du Collège\|campus du Collège]] se trouve à [[Les pays/Ay'Rion/Ay’Rion\|Ay’Rion]], et ne dispose d’aucun autre emplacement.
+Le [[Les Pays/Ay'Rion/campus du Collège\|campus du Collège]] se trouve à [[Les Pays/Ay'Rion/Ay’Rion\|Ay’Rion]], et ne dispose d’aucun autre emplacement.
 ## Adhésion
 Toute personne possédant un don magique peut espérer rejoindre le collège.
 ## Rang

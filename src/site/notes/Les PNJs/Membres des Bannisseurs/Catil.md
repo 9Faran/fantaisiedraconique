@@ -14,7 +14,7 @@ Fait partie du dossier [[Les PNJs/Membres des Bannisseurs/Généraux\|Généraux
 ### Genre
 Masculin
 ### Lieu de naissance
-[[Les pays/Kimar/Dents Blanches\|Dents Blanches]]
+[[Les Pays/Kimar/Dents Blanches\|Dents Blanches]]
 ### Âge
 22 ans
 ### Religion
@@ -26,4 +26,4 @@ Les [[Les Guildes/Bannisseurs\|Bannisseurs]]
 ### Rang
 Un des [[Les PNJs/Membres des Bannisseurs/Généraux\|Généraux]]
 ### Rôle dans la Guilde
-Catil est en charge de toutes les opérations hors de la [[Les pays/Brume\|Brume]]. Parmis ses responsabilités, on peut noter : l'organisation de traques de monstres, la gestion des troupes en stationnement dans les villes, la diplomatie avec les autres [[Les Guildes/Guildes\|Guildes]], ainsi que le recrutement. 
+Catil est en charge de toutes les opérations hors de la [[Les Pays/Brume\|Brume]]. Parmis ses responsabilités, on peut noter : l'organisation de traques de monstres, la gestion des troupes en stationnement dans les villes, la diplomatie avec les autres [[Les Guildes/Guildes\|Guildes]], ainsi que le recrutement. 

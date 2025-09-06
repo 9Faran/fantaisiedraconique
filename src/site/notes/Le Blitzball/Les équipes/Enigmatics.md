@@ -9,7 +9,7 @@ Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
 ## Pays
-Équipe de [[Le Blitzball/Blitzball\|Blitzball]] du sud de [[Les pays/Kimar/Kimar\|Kimar]].
+Équipe de [[Le Blitzball/Blitzball\|Blitzball]] du sud de [[Les Pays/Kimar/Kimar\|Kimar]].
 ## Membres
 Il s'agit d'une équipe de rang F.
 ## Réputation

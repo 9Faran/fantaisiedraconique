@@ -9,7 +9,7 @@ Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
 ## Pays
-Équipe de [[Le Blitzball/Blitzball\|Blitzball]] du nord de [[Les pays/Kimar/Kimar\|Kimar]]. Elle est aussi financée par les [[Les Guildes/Bannisseurs\|Bannisseurs]].
+Équipe de [[Le Blitzball/Blitzball\|Blitzball]] du nord de [[Les Pays/Kimar/Kimar\|Kimar]]. Elle est aussi financée par les [[Les Guildes/Bannisseurs\|Bannisseurs]].
 ## Membres
 Il s'agit d'une équipe de rang F.
 ## Réputation

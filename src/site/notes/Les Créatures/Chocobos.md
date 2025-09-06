@@ -15,17 +15,17 @@ Généralement, leurs plumes sont jaunes. D'autres espèces ont des couleurs de 
 Les chocobos sont présents dans presque toutes les terres en dehors de la Brume.
 ## Pouvoirs
 ### Chocobo commun
-Les chocobos communs, de couleur jaune, ont la possibilité de pouvoir planer sur de courtes distances. Ils sont présent dans les [[Les pays/Îles australes/Îles australes\|Îles australes]], à [[Les pays/Ultan/Ultan\|Ultan]] et à [[Les pays/Ay'Rion/Ay’Rion\|Ay’Rion]].
+Les chocobos communs, de couleur jaune, ont la possibilité de pouvoir planer sur de courtes distances. Ils sont présent dans les [[Les Pays/Îles australes/Îles australes\|Îles australes]], à [[Les Pays/Ultan/Ultan\|Ultan]] et à [[Les Pays/Ay'Rion/Ay’Rion\|Ay’Rion]].
 ### Chocobo des montagnes
-Les chocobos des montagnes, de couleur vert, sont particulièrement adapté pour les terrains difficiles, comme les montagnes et les terrains rocheux. On les retrouve à [[Les pays/Kimar/Kimar\|Kimar]] dans les montagnes des [[Les pays/Kimar/Dents Blanches\|Dents Blanches]].
+Les chocobos des montagnes, de couleur vert, sont particulièrement adapté pour les terrains difficiles, comme les montagnes et les terrains rocheux. On les retrouve à [[Les Pays/Kimar/Kimar\|Kimar]] dans les montagnes des [[Les Pays/Kimar/Dents Blanches\|Dents Blanches]].
 ### Chocobo des rivières
-Les Chocobos des rivières, de couleur bleu, peuvent se déplacer sans difficulté dans les eaux peu profondes. Ils sont présent au sud de [[Les pays/Kimar/Kimar\|Kimar]]
+Les Chocobos des rivières, de couleur bleu, peuvent se déplacer sans difficulté dans les eaux peu profondes. Ils sont présent au sud de [[Les Pays/Kimar/Kimar\|Kimar]]
 ### Chocobo des neiges
-Les Chocobos des neiges, de couleur blanche, ont un plumage particulièrement épais, adaptés au nord de [[Les pays/Kimar/Kimar\|Kimar]] et à la [[Les pays/Borée/Borée\|Borée]].
+Les Chocobos des neiges, de couleur blanche, ont un plumage particulièrement épais, adaptés au nord de [[Les Pays/Kimar/Kimar\|Kimar]] et à la [[Les Pays/Borée/Borée\|Borée]].
 ### Chocobo noir
 Né du croisement d'un chocobo des montagnes et d'un chocobo des rivières, les chocobos noirs sont rares. Ils associent les particularités de leurs deux parents. 
 ### Chocobo des mers
-Les chocobos des mers sont très rares. De couleur doré, ils sont capables de nager. On peut en trouver, en de rares occasions, dans l'[[Les pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]].
+Les chocobos des mers sont très rares. De couleur doré, ils sont capables de nager. On peut en trouver, en de rares occasions, dans l'[[Les Pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]].
 ## Histoire
 Les Chocobos ont été domestiqués dès l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]].
 Rapidement, ils ont servis de monture, rôle qui est particulièrement utilisé chez les [[Les Guildes/Chevaliers Chocobo\|Chevaliers Chocobo]].

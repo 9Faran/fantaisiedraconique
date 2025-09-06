@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Guildes/Guildes\|Guildes]]
 
 -------
 ## Histoire
-Le commerce entre les [[Les Guildes/Chercheurs\|Chercheurs]] et la cité de [[Les pays/Îles australes/Lubas\|Lubas]], sous la conduite du conseiller [[Les PNJs/Membres des Chercheurs/Rin\|Rin]] a permis un lent rapprochement entre lui et le Grand-Maître [[Les PNJs/Membre de l'Eglise/Wenoc\|Wenoc]] de l'[[Les Guildes/Église des Dragons\|Église des Dragons]]. Leurs discussions qui étaient à l'origine très pragmatiques, leur a permis de comprendre qu'ils avaient un but commun : Combattre le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]].
+Le commerce entre les [[Les Guildes/Chercheurs\|Chercheurs]] et la cité de [[Les Pays/Îles australes/Lubas\|Lubas]], sous la conduite du conseiller [[Les PNJs/Membres des Chercheurs/Rin\|Rin]] a permis un lent rapprochement entre lui et le Grand-Maître [[Les PNJs/Membre de l'Eglise/Wenoc\|Wenoc]] de l'[[Les Guildes/Église des Dragons\|Église des Dragons]]. Leurs discussions qui étaient à l'origine très pragmatiques, leur a permis de comprendre qu'ils avaient un but commun : Combattre le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]].
 Les travaux politiques et diplomatiques entrepris par les deux hommes a permis plus tard à la création d'une coallition réunissant plusieurs [[Les Guildes/Guildes\|Guildes]] avec ce même objectif.
 Sont actuellement réunis derrière l'Alliance :
 - Les [[Les Guildes/Bannisseurs\|Bannisseurs]]
@@ -19,7 +19,7 @@ Sont actuellement réunis derrière l'Alliance :
 ## Nature et Objectifs
 L'Alliance s'est fixé pour objectif de traquer et éliminer un des [[Les Créatures/Léviathans\|Léviathans]], afin de prouver au monde que l'union fait la force et permettrait de combattre plus efficacement le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]].
 ## Organisation
-L'alliance n'a pas de quartier général. Mais elle réunit des troupes des différentes [[Les Guildes/Guildes\|Guildes]] au nord d'[[Les pays/Ultan/Ultan\|Ultan]].
+L'alliance n'a pas de quartier général. Mais elle réunit des troupes des différentes [[Les Guildes/Guildes\|Guildes]] au nord d'[[Les Pays/Ultan/Ultan\|Ultan]].
 ## Adhésion
 L'alliance ne recrute pas à proprement parler, mais elle encourage à intégrer les [[Les Guildes/Guildes\|Guildes]] faisant partie de l'Alliance.
 ## Rang

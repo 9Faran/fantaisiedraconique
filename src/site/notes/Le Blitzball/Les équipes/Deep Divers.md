@@ -9,7 +9,7 @@ Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
 ## Pays
-Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les pays/Îles australes/Aksermaru\|Aksermaru]].
+Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les Pays/Îles australes/Aksermaru\|Aksermaru]].
 ## Membres
 Il s'agit d'une équipe de rang M.
 ## Réputation

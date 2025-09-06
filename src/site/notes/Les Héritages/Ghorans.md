@@ -9,10 +9,10 @@ Fait partie du dossier [[Les Héritages/Héritages\|Héritages]]
 
 -------
 ## Histoire
-Les Ghorans se sont éveillés, lors de l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]]. Tous sont nés d'un même arbre : L'[[Les Dieux/Dieux autres/Arbre-Source\|Arbre-Source]] dans l'[[Les pays/Ultan/Orée de Ghor\|Orée de Ghor]] au cœur de la forêt d'[[Les pays/Ultan/Ultan\|Ultan]].
+Les Ghorans se sont éveillés, lors de l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]]. Tous sont nés d'un même arbre : L'[[Les Dieux/Dieux autres/Arbre-Source\|Arbre-Source]] dans l'[[Les Pays/Ultan/Orée de Ghor\|Orée de Ghor]] au cœur de la forêt d'[[Les Pays/Ultan/Ultan\|Ultan]].
 Celui-ci les chargea de protéger la forêt. D'abord ennemis des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]], et alliés des [[Les Héritages/Leshys\|Leshys]], ils ont réussi à développer une entente avec eux, grâce à la déesse [[Les Dieux/Dieux des Phares/Pelopia\|Pelopia]].
 ## Société
-Les Ghorans vivent normalement retranchés dans l'[[Les pays/Ultan/Orée de Ghor\|Orée de Ghor]].
+Les Ghorans vivent normalement retranchés dans l'[[Les Pays/Ultan/Orée de Ghor\|Orée de Ghor]].
 ## Croyances
 Les Ghorans suivent les enseignements de l'[[Les Dieux/Dieux autres/Arbre-Source\|Arbre-Source]] qui leur a donné vie. Ils se considèrent comme les protecteurs de la nature.
 ### Edits Populaires

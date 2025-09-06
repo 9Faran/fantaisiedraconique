@@ -10,13 +10,13 @@ Fait partie du dossier [[Les Guildes/Guildes\|Guildes]]
 -------
 ## Histoire
 À la chute de l’[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]], l’armée impériale fut dissoute. L’intention de l’[[Les Guildes/Église des Dragons\|Église des Dragons]] étant de la remplacer par des moines guerriers.
-D’anciens généraux décidèrent de fonder un nouvel ordre “Les bannisseurs”, dont le rôle serait de protéger les populations en “bannissant” les monstres. L’Église vit d’abord en eux une menace et les fit bannir en [[Les pays/Borée/Borée\|Borée]], où ils bâtirent le “[[Les pays/Borée/Fort du Vigilant\|Fort du Vigilant]]”.
+D’anciens généraux décidèrent de fonder un nouvel ordre “Les bannisseurs”, dont le rôle serait de protéger les populations en “bannissant” les monstres. L’Église vit d’abord en eux une menace et les fit bannir en [[Les Pays/Borée/Borée\|Borée]], où ils bâtirent le “[[Les Pays/Borée/Fort du Vigilant\|Fort du Vigilant]]”.
 Depuis moins d’un siècle, les Bannisseurs sont de nouveau les bienvenus dans les terres de l’Église. Un accord ayant été trouvé et faisant des bannisseurs le bras armé de l’Église, fait renforcé depuis 10 ans.
 ## Nature et Objectifs
 Les Bannisseurs réunissent tous les braves qui n’ont pas peur de combattre les monstres. Pour eux, la fin justifie les moyens si cela peut permettre de sauver des vies.
 Certains les surnomment “Chiens de garde de l’Église” car l’ordre est devenu très serviable envers la religion.
 ## Organisation
-Le [[Les pays/Borée/Fort du Vigilant\|Fort du Vigilant]] est le cœur de l’ordre, mais des missions sont présentes à travers tous les territoires.
+Le [[Les Pays/Borée/Fort du Vigilant\|Fort du Vigilant]] est le cœur de l’ordre, mais des missions sont présentes à travers tous les territoires.
 ## Adhésion
 Toute personne capable de manier une arme est la bienvenue dans l’ordre.
 ## Rang

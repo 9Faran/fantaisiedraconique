@@ -10,7 +10,7 @@ Fait partie du dossier [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des 
 -------
 ## Description
 Le fondateur du premier phare, et premier des [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]] de son panthéon. Roi et membre des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] de son vivant, on le connaît aujourd’hui sous le nom de seigneur des phares ou encore du Juge Divin.
-Son phare est à [[Les pays/Ay'Rion/Ay’Rion\|Ay’Rion]].
+Son phare est à [[Les Pays/Ay'Rion/Ay’Rion\|Ay’Rion]].
 ### Edits
 Repousser les limites de la civilisation, Respecter la loi, Combattre le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]]
 ### Anathème

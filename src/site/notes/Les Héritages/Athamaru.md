@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Héritages/Héritages\|Héritages]]
 
 -------
 ## Histoire
-Les Athamarus sont des humanoïdes ichtyen qui vivent dans l'[[Les pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]]. Grâce à leurs capacités de se déplacer sous l'eau, ils ont pu devenir les alliés des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] afin de combattre le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] dans les eaux.
+Les Athamarus sont des humanoïdes ichtyen qui vivent dans l'[[Les Pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]]. Grâce à leurs capacités de se déplacer sous l'eau, ils ont pu devenir les alliés des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] afin de combattre le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] dans les eaux.
 ## Société
 Les Athamarus forment de très nombreux clans dispersés sous l'eau. Les clans se réunissent généralement autour d'un parent commun et se disperse à la mort de celui-ci, formant de nouveaux clans.
 ## Croyances

@@ -14,7 +14,7 @@ Certains mortels redécouvrirent l’usage de la magie. Celle-ci redonna l'espoi
 ## Niveau technologique
 "Âge du bronze" : Début de la métallurgie du bronze, Construction de bâtiment et d'édifice en pierre.
 ## Durée
-Lors de cet âge qui dura 600 ans, de nouvelles villes furent fondées en [[Les pays/Ay'Rion/Ay’Rion\|Ay’Rion]], au sud de [[Les pays/Kimar/Kimar\|Kimar]], au nord d’[[Les pays/Ultan/Ultan\|Ultan]] et à l’[[Les pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]].
+Lors de cet âge qui dura 600 ans, de nouvelles villes furent fondées en [[Les Pays/Ay'Rion/Ay’Rion\|Ay’Rion]], au sud de [[Les Pays/Kimar/Kimar\|Kimar]], au nord d’[[Les Pays/Ultan/Ultan\|Ultan]] et à l’[[Les Pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]].
 
 Ces évènements succèdent au [[Le Calendrier et l'Histoire/Âge des Ténèbres\|Âge des Ténèbres]].
 Ces évènements précèdent à l'[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]].

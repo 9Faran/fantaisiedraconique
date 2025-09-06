@@ -13,7 +13,7 @@ Fondé durant l’[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares
 ## Nature et Objectifs
 Le vieux culte a pour mission d’honorer les [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]].
 ## Organisation
-Originellement basé à [[Les pays/Garde-Belle/Garde-Belle\|Garde-Belle]], le Vieux Culte a établi son nouveau centre dans l’[[Les pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]].  
+Originellement basé à [[Les Pays/Garde-Belle/Garde-Belle\|Garde-Belle]], le Vieux Culte a établi son nouveau centre dans l’[[Les Pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]].  
 ## Adhésion
 Tous ceux qui veulent vénérer les [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des phares]] y sont les bienvenus.
 ## Rang

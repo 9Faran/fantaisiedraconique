@@ -14,7 +14,7 @@ Fait partie du dossier [[Les Guildes/Alliance des Guildes\|Alliance des Guildes]
 ### Genre
 Masculin
 ### Lieu de naissance
-[[Les pays/Ultan/Orée de Ghor\|Orée de Ghor]]
+[[Les Pays/Ultan/Orée de Ghor\|Orée de Ghor]]
 ### Âge
 48 ans
 ### Religion

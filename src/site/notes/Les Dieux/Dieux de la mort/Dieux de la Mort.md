@@ -12,7 +12,7 @@ Fait partie du dossier [[Les Dieux/Dieux\|Dieux]]
 
 Ce qu’il advient d’une âme après la mort a toujours été un mystère. Mais certaines croyances ont survécu depuis l’[[Le Calendrier et l'Histoire/Âge des Ténèbres\|Âge des Ténèbres]] jusqu’à aujourd’hui. Et, fait étonnant, elle apparaît chez les différents peuples.
 ### L’Au-Delà
-Quand un mortel meurt, son âme quitte son corps pour rejoindre une autre dimension que l’on nomme simplement : L’Au-Delà. Il s’agirait d’un lieu immatériel et dont la beauté n’égal rien de ce qui existe en dehors et dans la [[Les pays/Brume\|Brume]].
+Quand un mortel meurt, son âme quitte son corps pour rejoindre une autre dimension que l’on nomme simplement : L’Au-Delà. Il s’agirait d’un lieu immatériel et dont la beauté n’égal rien de ce qui existe en dehors et dans la [[Les Pays/Brume\|Brume]].
 Cette dimension serait dirigée par [[Les Dieux/Dieux de la mort/Demas\|Demas]], le Roi des Morts. Bien qu’ils soit appelé “Roi”, les histoires s’accordent pour dire qu’il a finalement plus un statut d’hôte accueillant les âmes défuntes et prenant soin d’elles.
 ### Les enseignements de l’[[Les Guildes/Église des Dragons\|Église des Dragons]]
 L'[[Les Guildes/Église des Dragons\|Église des Dragons]] apportent une notion supplémentaire qui est la Perdition. La Perdition serait une malédiction que le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] fait peser sur le monde et qui empêcherait une âme à rejoindre l’Au-Delà. La perdition permettrait au [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] de récupérer pour lui les âmes et de pouvoir les transformer en nouveaux monstres pour ses armées.

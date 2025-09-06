@@ -9,7 +9,7 @@ Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
 ## Pays
-Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les pays/Îles australes/Lubas\|Lubas]].
+Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les Pays/Îles australes/Lubas\|Lubas]].
 ## Membres
 Il s'agit d'une équipe de rang E.
 ## Réputation

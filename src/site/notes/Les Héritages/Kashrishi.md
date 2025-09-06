@@ -11,7 +11,7 @@ Fait partie du dossier [[Les Héritages/Héritages\|Héritages]]
 ## Histoire
 Les Kashrishi sont le deuxième peuple à s'être éveillé à l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]], au côté des [[Les Héritages/Humains\|Humains]]. 
 ## Société
-Moins expansionniste que les [[Les Héritages/Humains\|Humains]], ils sont restés dans les montagnes de [[Les pays/Ay'Rion/Ay’Rion\|Ay’Rion]] où ils forment des communautés plus ou moins grandes. Ils apprécient aussi les cités humaines.
+Moins expansionniste que les [[Les Héritages/Humains\|Humains]], ils sont restés dans les montagnes de [[Les Pays/Ay'Rion/Ay’Rion\|Ay’Rion]] où ils forment des communautés plus ou moins grandes. Ils apprécient aussi les cités humaines.
 ## Croyances
 Aujourd'hui, les Kashrishis font tous partis de l'[[Les Guildes/Église des Dragons\|Église des Dragons]].
 ### Edits Populaires

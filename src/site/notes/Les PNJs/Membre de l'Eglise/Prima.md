@@ -14,7 +14,7 @@ Fait partie du dossier [[Les PNJs/Membre de l'Eglise/Grands-Maîtres\|Grands-Ma�
 ### Genre
 Masculin
 ### Lieu de naissance
-[[Les pays/Ay'Rion/Victa\|Victa]]
+[[Les Pays/Ay'Rion/Victa\|Victa]]
 ### Âge
 55 ans.
 ### Religion

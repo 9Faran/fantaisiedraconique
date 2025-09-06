@@ -9,7 +9,7 @@ Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
 ## Pays
-Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les pays/Ultan/Pora\|Pora]].
+Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les Pays/Ultan/Pora\|Pora]].
 ## Membres
 Il s'agit d'une équipe de rang M.
 ## Réputation

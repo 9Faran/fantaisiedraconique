@@ -15,7 +15,7 @@ Un Roi des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]], nommé 
 ## Niveau technologique
 "Âge du fer" : Maîtrise de la métallurgie du fer, amélioration des techniques architecturales
 ## Durée
-Cet âge dura 300 ans, lors duquel les mortels étendirent leur influence au sud d’[[Les pays/Ultan/Ultan\|Ultan]], aux [[Les pays/Îles australes/Îles australes\|Îles australes]], au nord de [[Les pays/Kimar/Kimar\|Kimar]] et en [[Les pays/Borée/Borée\|Borée]]. Sept autres phares furent érigés, accueillant chacun un mortel devenu dieu.
+Cet âge dura 300 ans, lors duquel les mortels étendirent leur influence au sud d’[[Les Pays/Ultan/Ultan\|Ultan]], aux [[Les Pays/Îles australes/Îles australes\|Îles australes]], au nord de [[Les Pays/Kimar/Kimar\|Kimar]] et en [[Les Pays/Borée/Borée\|Borée]]. Sept autres phares furent érigés, accueillant chacun un mortel devenu dieu.
 
 Ces évènements succèdent à l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]].
 Ces évènements précèdent à l'[[Le Calendrier et l'Histoire/Âge du Soleil\|Âge du Soleil]].

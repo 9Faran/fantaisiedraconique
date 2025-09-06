@@ -9,7 +9,7 @@ Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
 ## Pays
-Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de la forêt d'[[Les pays/Ultan/Ultan\|Ultan]].
+Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de la forêt d'[[Les Pays/Ultan/Ultan\|Ultan]].
 ## Membres
 Il s'agit d'une équipe de rang F.
 ## Réputation

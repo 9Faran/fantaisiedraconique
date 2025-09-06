@@ -9,8 +9,8 @@ Fait partie du dossier [[Les Dieux/Dieux des Phares/Dieux des phares\|Dieux des 
 
 -------
 ## Description
-Le premier des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] à avoir atteint la partie nord de [[Les pays/Kimar/Kimar\|Kimar]]. Il y mena de très violentes batailles. La légende veut que son corps mort continua le combat jusqu’à avoir éliminé le dernier ennemi du champ de bataille.
-Son phare est au nord de [[Les pays/Kimar/Kimar\|Kimar]].
+Le premier des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] à avoir atteint la partie nord de [[Les Pays/Kimar/Kimar\|Kimar]]. Il y mena de très violentes batailles. La légende veut que son corps mort continua le combat jusqu’à avoir éliminé le dernier ennemi du champ de bataille.
+Son phare est au nord de [[Les Pays/Kimar/Kimar\|Kimar]].
 ### Edits
 Combattre férocement
 ### Anathème

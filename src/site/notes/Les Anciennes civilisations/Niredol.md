@@ -25,7 +25,7 @@ Les héritages présents à Niredol sont :
 - [[Les Héritages/Tripkee\|Tripkee]]
 - [[Les Héritages/Vanaras\|Vanaras]]
 ## Lieux notables
-C'est au nord de [[Les pays/Ay'Rion/Ay’Rion\|Ay’Rion]] que se dressait la capitale de Niredol. Aujourd'hui cette cité est entièrement enfoui sous l'eau.
+C'est au nord de [[Les Pays/Ay'Rion/Ay’Rion\|Ay’Rion]] que se dressait la capitale de Niredol. Aujourd'hui cette cité est entièrement enfoui sous l'eau.
 ## Personnalités influentes
 Les [[Les Dieux/Étoiles/Étoiles\|Étoiles]] occupaient le rôle, à la fois, de protecteur et d'égérie culturelle. 
 ## Langage

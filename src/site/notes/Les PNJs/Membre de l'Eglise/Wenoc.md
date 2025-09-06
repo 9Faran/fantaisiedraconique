@@ -14,7 +14,7 @@ Fait partie du dossier [[Les PNJs/Membre de l'Eglise/Grands-Maîtres\|Grands-Ma�
 ### Genre
 Masculin
 ### Lieu de naissance
-[[Les pays/Kimar/Valna\|Valna]]
+[[Les Pays/Kimar/Valna\|Valna]]
 ### Âge
 45 ans.
 ### Religion

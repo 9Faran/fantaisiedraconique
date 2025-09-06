@@ -9,7 +9,7 @@ Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
 ## Pays
-Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de l'[[Les pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]].
+Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de l'[[Les Pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]].
 ## Membres
 Il s'agit d'une équipe de rang E.
 ## Réputation

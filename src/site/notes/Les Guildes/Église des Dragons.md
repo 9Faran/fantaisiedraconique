@@ -15,7 +15,7 @@ Réunissant d’anciens officiels de l’[[Les Guildes/Ancienne Guilde/Empire du
 L'Église des Dragons a pour objectif premier de servir les [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]] et en suivant leurs ordres de combattre le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]]. Mais l’Église souhaite éviter que le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] ne vienne influencer la population. Afin de guider le peuple, l'Église a établi une morale et des règles très strictes. S’en écarter est passible de terribles punitions.
 Aussi, l’Église s’est imposée comme le gouvernement du monde.
 ## Organisation
-Le siège de l’Église est à [[Les pays/Garde-Belle/Garde-Belle\|Garde-Belle]]. Mais des temples sont présents dans chaque grande ville, ainsi que devant les Phares.
+Le siège de l’Église est à [[Les Pays/Garde-Belle/Garde-Belle\|Garde-Belle]]. Mais des temples sont présents dans chaque grande ville, ainsi que devant les Phares.
 ## Adhésion
 Tous ceux qui souhaitent servir les [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]] sont les bienvenus. Mais seuls les élus des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]], capables d’utiliser la magie, peuvent espérer y progresser en rang.
 ## Rang
