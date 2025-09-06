@@ -9,9 +9,9 @@ Fait partie du dossier [[Les Livres/Livres\|Livres]]
 
 -------
 ## Contexte
-Suite aux agissement des [[Les Guildes/Guilde secrète/Fidèles du Soleil\|Fidèles du Soleil]] (nom que se donne une secte vénérant le [[Les Dieux/Dieux autres/Soleil\|Soleil]]), une intervention de l'alliance avec l'appui de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et des [[Les Guildes/Bannisseurs/Bannisseurs\|Bannisseurs]] a permis l'emprisonnement de leur chef, le "porteur de lumière" Diomes.
+Suite aux agissement des [[Les Guildes/Guilde secrète/Fidèles du Soleil\|Fidèles du Soleil]] (nom que se donne une secte vénérant le [[Les Dieux/Dieux autres/Soleil\|Soleil]]), une intervention de l'alliance avec l'appui de l'[[Les Guildes/Église des Dragons\|Église des Dragons]] et des [[Les Guildes/Bannisseurs\|Bannisseurs]] a permis l'emprisonnement de leur chef, le "porteur de lumière" Diomes.
 ## Auteur
-L'interrogatoire a été mené par Maîtresse Usule et Maître Erigeron de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]].
+L'interrogatoire a été mené par Maîtresse Usule et Maître Erigeron de l'[[Les Guildes/Église des Dragons\|Église des Dragons]].
 Selon la procédure de l'église, un anneau de vérité a été invoqué, permettant aux deux Maîtres d'identifier clairement si une parole est vérité ou mensonge.
 ## Résumé
 ### Question 1 : Qui êtes-vous ?
@@ -22,7 +22,7 @@ D : "Et je suis aussi le "porteur de lumière", chef des [[Les Guildes/Guilde se
 D : "Des gens de toute part. Nous repérons les potentiels recrues partout : Dans les églises, les bibliothèques. Nous les approchons toujours discrètement et lorsque nous nous sommes assurés que la personne peut être réceptive, nous la recrutons."
 D : "Vous aussi, vous avez lu la [[Les Livres/Prophétie du Soleil\|Prophétie du Soleil]]. Le Soleil doit revenir à l'aube de ce siècle. Nous ne faisons qu'avertir le monde de son retour. Et si nous pouvons l'aider, nous le ferons..."
 ### Question 3 : Et comment vous comptiez vous y prendre ?
-D : "Le [[Les Dieux/Dieux autres/Soleil\|Soleil]] a accepté de me confier son arme. Le sabre que vous m'avez pris. Avec, je comptais rallier les [[Les Guildes/Guilde secrète/Fidèles du Soleil\|Fidèles du Soleil]] pour attaquer des représentants de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]], juste après la finale. Notre objectif allait être de tuer un maximum de vénérateur des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]] : Des moines, et pourquoi pas des maîtres. Puis, nous allions nous enfuir, par la mer, un navire allait être préparé pour ceci."
+D : "Le [[Les Dieux/Dieux autres/Soleil\|Soleil]] a accepté de me confier son arme. Le sabre que vous m'avez pris. Avec, je comptais rallier les [[Les Guildes/Guilde secrète/Fidèles du Soleil\|Fidèles du Soleil]] pour attaquer des représentants de l'[[Les Guildes/Église des Dragons\|Église des Dragons]], juste après la finale. Notre objectif allait être de tuer un maximum de vénérateur des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]] : Des moines, et pourquoi pas des maîtres. Puis, nous allions nous enfuir, par la mer, un navire allait être préparé pour ceci."
 ### Question 4 : Parlez-nous de l'arme du Soleil
 D : "Il s'agit d'une relique. L'arme que Quintis Ignus portait lors de sa guerre contre la [[Les pays/Brume\|Brume]], avant de devenir le [[Les Dieux/Dieux autres/Soleil\|Soleil]]. Cette arme est invocable via un rituel, que nous avons menés. Elle doit nous offrir la force et le courage. Et..."
 Erigeron : "Continuez. N'omettez aucun détail."

@@ -14,7 +14,7 @@ Fait partie du dossier [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]]
 ### Edits
 Pourchasser les monstres marins, Chercher de nouvelles connaissances
 ### Anathème
-Refuser de partager un savoir à l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]]
+Refuser de partager un savoir à l'[[Les Guildes/Église des Dragons\|Église des Dragons]]
 ### Alignements des fidèles
 LB, LN, NB
 ## Bénéfices

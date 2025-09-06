@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Guildes/Guildes\|Guildes]]
 
 -------
 ## Histoire
-À la chute de l’[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]], la majorité du peuple a décidé de suivre l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]]. Mais quelques-uns sont restés loyaux au [[Les Dieux/Dieux autres/Soleil\|Soleil]].
+À la chute de l’[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]], la majorité du peuple a décidé de suivre l’[[Les Guildes/Église des Dragons\|Église des Dragons]]. Mais quelques-uns sont restés loyaux au [[Les Dieux/Dieux autres/Soleil\|Soleil]].
 Bien que perdu sans leur divinité, ils peuvent encore faire appel à ses pouvoirs. Et la découverte d’une [[Les Livres/Prophétie du Soleil\|Prophétie du Soleil]] a conduit certains membres à faire appel à la magie de la [[Les Dieux/Dieux autres/Grande Tisseuse\|Grande Tisseuse]].
 ## Nature et Objectifs
 Leur objectif est de suivre les évènements qui conduisent à l'avènement du [[Soleil réincarné\|Soleil réincarné]] et de pouvoir intervenir afin de l’aider.
@@ -26,7 +26,7 @@ Les rangs sont les suivants (ordre décroissant) :
 - Les dévots
 - Les apprentis
 ## Alliés et ennemis
-Les fidèles du [[Les Dieux/Dieux autres/Soleil\|Soleil]] sont fermement ennemis avec l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et toutes les guildes associées.
+Les fidèles du [[Les Dieux/Dieux autres/Soleil\|Soleil]] sont fermement ennemis avec l'[[Les Guildes/Église des Dragons\|Église des Dragons]] et toutes les guildes associées.
 Bien qu’ils considèrent le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] comme ennemi, sa présence dans la [[Les Livres/Prophétie du Soleil\|Prophétie du Soleil]] les oblige à agir prudemment, voir de concert, avec les forces du mal.
-Ils sont neutres vis-à-vis des [[Les Guildes/Chercheurs/Chercheurs\|Chercheurs]] ou du [[Les Guildes/Vieux Culte\|Vieux Culte]].
+Ils sont neutres vis-à-vis des [[Les Guildes/Chercheurs\|Chercheurs]] ou du [[Les Guildes/Vieux Culte\|Vieux Culte]].
 ![Fidèle-insigne.png](/img/user/_Images/_Guilde/Fid%C3%A8le-insigne.png)

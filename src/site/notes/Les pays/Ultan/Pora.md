@@ -9,7 +9,7 @@ Fait partie du dossier [[Les pays/Ultan/Ultan\|Ultan]]
 
 -------
 ## Description
-Pora se trouve au sud d'[[Les pays/Ultan/Ultan\|Ultan]]. Cité construite par les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] durant l'[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]], elle est aujourd'hui la principale cité de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] dans le sud.
+Pora se trouve au sud d'[[Les pays/Ultan/Ultan\|Ultan]]. Cité construite par les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] durant l'[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]], elle est aujourd'hui la principale cité de l'[[Les Guildes/Église des Dragons\|Église des Dragons]] dans le sud.
 ## Lieux importants
 Pora rayonne autour de son port et de son église dédiée aux [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]].
 ## Architecture

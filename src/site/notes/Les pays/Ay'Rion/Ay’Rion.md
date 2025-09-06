@@ -17,11 +17,11 @@ Les héritages présents à Ay’Rion sont :
 ## Lieux notables
 Le [[Les Guildes/Collège de Magie\|Collège de Magie]] se dresse au centre du pays, près du premier phare.
 ## Personnalités influentes
-La Grande-Maîtresse et archimage [[Les Guildes/Église/Jiley\|Jiley]] est la figure la plus influente du pays. Incarnant à la fois l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] et l’héritage des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]].
+La Grande-Maîtresse et archimage [[Les PNJs/Membre de l'Eglise/Jiley\|Jiley]] est la figure la plus influente du pays. Incarnant à la fois l'[[Les Guildes/Église des Dragons\|Église des Dragons]] et l’héritage des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]].
 ## Langage
 Les langues parlées sont le Commun et le Petran.
 ## Coutumes
-Les rites de l'[[Les Guildes/Église/Église des Dragons\|Église des Dragons]] sont observés.
+Les rites de l'[[Les Guildes/Église des Dragons\|Église des Dragons]] sont observés.
 Il y a aussi, à la fin de l’été, une grande fête célébrant la fin des moissons.
 ## Tenues spécifiques
 La mode d’Ay’Rion est très diversifiée, allant de vêtements pratiques pour le travail à des tenues sophistiquées. Mais on retrouve en règle générale un amour pour les couleurs vives et criardes.

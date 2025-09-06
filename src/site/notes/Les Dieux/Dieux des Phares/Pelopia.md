@@ -29,3 +29,5 @@ Arc long
 Earth, Family, Healing, Nature
 ### Sorts des prêtres
 1st: Purify food and drink, 2nd: Speak with animal, 5th: Plant form
+
+![Pelopia.png](/img/user/_Images/_Dieux/Pelopia.png)

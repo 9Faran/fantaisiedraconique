@@ -11,7 +11,7 @@ Fait partie du dossier [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]]
 ## Description
 À la mort du [[Les Dieux/Dieux autres/Soleil\|Soleil]], Lucius devint le dragon de laiton. Il était réputé curieux, mais c’est surtout un habile stratège et quelqu’un au courant des dernières rumeurs.
 ### Edits
-Aider son prochain, Tenir informer l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]]
+Aider son prochain, Tenir informer l’[[Les Guildes/Église des Dragons\|Église des Dragons]]
 ### Anathème
 Révéler des informations à l’ennemi
 ### Alignements des fidèles

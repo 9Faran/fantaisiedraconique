@@ -23,7 +23,7 @@ Les langues parlées sont le Vanara et le Commun.
 ## Coutumes
 Chaque année, au solstice d’été, a lieu le tournoi de [[Le Blitzball/Blitzball\|Blitzball]].
 ## Tenues spécifiques
-Le climat chaud de ce pays a poussé les habitants à porter des tenues ouvertes. Ces tenues sont normalement contraires aux préceptes de l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]], mais tolérée car même pour les prêtres la chaleur et l’humidité sont difficilement supportables.
+Le climat chaud de ce pays a poussé les habitants à porter des tenues ouvertes. Ces tenues sont normalement contraires aux préceptes de l’[[Les Guildes/Église des Dragons\|Église des Dragons]], mais tolérée car même pour les prêtres la chaleur et l’humidité sont difficilement supportables.
 ## Villes
 - [[Les pays/Îles australes/Sebaid\|Sebaid]]
 - [[Les pays/Îles australes/Aksermaru\|Aksermaru]]

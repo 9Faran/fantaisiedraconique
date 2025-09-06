@@ -13,7 +13,7 @@ Fait partie du dossier [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]]
 ### Edits
 Profiter de la vie, Pardonner ses ennemis
 ### Anathème
-Blesser un autre serviteur de l’[[Les Guildes/Église/Église des Dragons\|Église des Dragons]]
+Blesser un autre serviteur de l’[[Les Guildes/Église des Dragons\|Église des Dragons]]
 ### Alignements des fidèles
 NB, CB, CN
 ## Bénéfices

@@ -14,7 +14,7 @@ Comme tous les deux ans, un tournoi de [[Le Blitzball/Blitzball\|Blitzball]] a e
 Les équipes étant arrivées en finale était :
 - Les [[Le Blitzball/Les équipes/Lubas Royals\|Lubas Royals]]
 - Les [[Le Blitzball/Les équipes/Aurochs\|Aurochs]]
-![Pasted image 20250823211810.png](/img/user/Pasted%20image%2020250823211810.png)
+![Tournoi.png](/img/user/_Images/Tournoi.png)
 ## Auteur
 La presse de [[Les pays/Îles australes/Lubas\|Lubas]] est un organisme indépendant des [[Les Guildes/Guildes\|Guildes]] et financé par la ville de [[Les pays/Îles australes/Lubas\|Lubas]]. Nos rédacteurs cherchent à vous transmettre l'information la plus fiable possible et de manière indépendante !
 ## Préparation du match
