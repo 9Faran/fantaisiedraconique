@@ -12,8 +12,8 @@ Fait partie du dossier [[Les Pays/Pays\|Pays]]
 Les îles australes furent explorées lors de l’[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]]. L’influence du [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] y étaient présentes et fut combattu par les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]].
 ## Héritages
 Les héritages présents aux îles australes sont :
-- [[Les Héritages/Humains\|Humains]]
-- [[Les Héritages/Vanaras\|Vanaras]]
+- [[Les Ascendances/Humains\|Humains]]
+- [[Les Ascendances/Vanaras\|Vanaras]]
 ## Lieux notables
 Le stade de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les Pays/Îles australes/Lubas\|Lubas]] est réputé à travers le monde entier pour offrir le divertissement le plus apprécié de tous.
 ## Personnalités influentes

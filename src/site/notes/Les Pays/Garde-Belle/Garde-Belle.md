@@ -12,7 +12,7 @@ Fait partie du dossier [[Les Pays/Pays\|Pays]]
 À l’origine, une île au nord de [[Les Pays/Ay'Rion/Ay’Rion\|Ay’Rion]] et [[Les Pays/Ultan/Ultan\|Ultan]]. À l’[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]], les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] y installèrent une cité, mais c’est surtout lors de l’[[Le Calendrier et l'Histoire/Âge du Soleil\|Âge du Soleil]] que Garde-Belle gagna son rang de capital du monde.
 ## Héritages
 Les héritages présents à Garde-Belle sont :
-- [[Les Héritages/Humains\|Humains]] (majoritairement)
+- [[Les Ascendances/Humains\|Humains]] (majoritairement)
 - Tous les héritages des autres pays (membres de l’Eglise des Dragons)
 ## Lieux notables
 La ruine du [[Les Pays/Garde-Belle/Phare du Soleil\|Phare du Soleil]] a été rénovée de sorte à pouvoir accueillir les dirigeants de l'[[Les Guildes/Église des Dragons\|Église des Dragons]] et a été renommé "Le nid des dragons".

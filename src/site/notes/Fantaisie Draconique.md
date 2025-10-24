@@ -29,7 +29,7 @@ Cette encyclopédie regroupe tout ce qu'il y a à savoir sur le monde, ce qui in
 - Les [[Les Créatures/Créatures\|Créatures]]
 - Les [[Les Dieux/Dieux\|Dieux]]
 - Les [[Les Guildes/Guildes\|Guildes]]
-- Les [[Les Héritages/Héritages\|Héritages]]
+- Les [[Les Ascendances/Ascendances\|Ascendances]]
 - Les [[Les Livres/Livres\|Livres]]
 - Les [[Les Pays/Pays\|Pays]]
 - Les [[Les PNJs/PNJs\|PNJs]]

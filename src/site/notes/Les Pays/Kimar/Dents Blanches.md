@@ -19,4 +19,4 @@ Une route traverse les Dents blanches, qui relie les villes de [[Les Pays/Kimar/
 ## Population
 Pas d'estimation claire.
 ## Habitants
-- Les [[Les Héritages/Strix\|Strix]]
+- Les [[Les Ascendances/Strix\|Strix]]

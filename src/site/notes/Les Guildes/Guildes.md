@@ -9,6 +9,7 @@ Fait partie du dossier [[Fantaisie Draconique\|Fantaisie Draconique]]
 
 -------
 Les guildes actives sont :
+- Les [[Les Guildes/Aînés\|Aînés]] des [[Les Ascendances/Ghorans\|Ghorans]]
 - L'ordre des [[Les Guildes/Bannisseurs\|Bannisseurs]]
 - La confrérie des [[Les Guildes/Chercheurs\|Chercheurs]]
 - L'ordre des [[Les Guildes/Chevaliers Chocobo\|Chevaliers Chocobo]]

@@ -10,7 +10,7 @@ Fait partie du dossier [[Les PNJs/Membre de l'Eglise/Grands-Maîtres\|Grands-Ma�
 -------
 ## Origine et description
 ### Héritage
-[[Les Héritages/Kashrishi\|Kashrishi]]
+[[Les Ascendances/Kashrishi\|Kashrishi]]
 ### Genre
 Masculin
 ### Lieu de naissance
@@ -27,4 +27,4 @@ L´[[Les Guildes/Église des Dragons\|Église des Dragons]]
 ### Rang
 Membre des [[Les PNJs/Membre de l'Eglise/Grands-Maîtres\|Grands-Maîtres]]
 ### Rôle dans la Guilde
-Le Grand-Maître Prima, seul non-[[Les Héritages/Humains\|Humains]] du conseil, occupe le poste de grand argentier et gère donc les fonds de l’[[Les Guildes/Église des Dragons\|Église des Dragons]]. Mais il est aussi chargé de superviser l’économie des territoires dirigés par l’[[Les Guildes/Église des Dragons\|Église des Dragons]], ce qui inclut le commerce.
+Le Grand-Maître Prima, seul non-[[Les Ascendances/Humains\|Humains]] du conseil, occupe le poste de grand argentier et gère donc les fonds de l’[[Les Guildes/Église des Dragons\|Église des Dragons]]. Mais il est aussi chargé de superviser l’économie des territoires dirigés par l’[[Les Guildes/Église des Dragons\|Église des Dragons]], ce qui inclut le commerce.

@@ -13,17 +13,17 @@ Niredol est le nom d'une ancienne civilisation de l'[[Le Calendrier et l'Histoir
 Longtemps protégés par les [[Les Dieux/Étoiles/Étoiles\|Étoiles]], cette civilisation a prospéré atteignant un haut niveau technologique qui n'est pas encore totalement mesuré. Mais c'est justement cette protection aveugle envers les [[Les Dieux/Étoiles/Étoiles\|Étoiles]] qui a conduit à la chute de celle-ci lors de la trahison d'[[Les Dieux/Dieux ennemis/Usiel\|Usiel]].
 ## Héritages
 Les héritages présents à Niredol sont :
-- [[Les Héritages/Amurrun\|Amurrun]]
-- [[Les Héritages/Athamaru\|Athamaru]]
-- [[Les Héritages/Ghorans\|Ghorans]]
-- [[Les Héritages/Humains\|Humains]]
-- [[Les Héritages/Leshys\|Leshys]]
-- [[Les Héritages/Kashrishi\|Kashrishi]]
-- [[Les Héritages/Kitsune\|Kitsune]]
-- [[Les Héritages/Strix\|Strix]]
-- [[Les Héritages/Tengus\|Tengus]]
-- [[Les Héritages/Tripkee\|Tripkee]]
-- [[Les Héritages/Vanaras\|Vanaras]]
+- [[Les Ascendances/Amurrun\|Amurrun]]
+- [[Les Ascendances/Athamaru\|Athamaru]]
+- [[Les Ascendances/Ghorans\|Ghorans]]
+- [[Les Ascendances/Humains\|Humains]]
+- [[Les Ascendances/Leshys\|Leshys]]
+- [[Les Ascendances/Kashrishi\|Kashrishi]]
+- [[Les Ascendances/Kitsune\|Kitsune]]
+- [[Les Ascendances/Strix\|Strix]]
+- [[Les Ascendances/Tengus\|Tengus]]
+- [[Les Ascendances/Tripkee\|Tripkee]]
+- [[Les Ascendances/Vanaras\|Vanaras]]
 ## Lieux notables
 C'est au nord de [[Les Pays/Ay'Rion/Ay’Rion\|Ay’Rion]] que se dressait la capitale de Niredol. Aujourd'hui cette cité est entièrement enfoui sous l'eau.
 ## Personnalités influentes

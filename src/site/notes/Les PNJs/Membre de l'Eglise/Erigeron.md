@@ -10,7 +10,7 @@ Fait partie du dossier [[Les Guildes/Alliance des Guildes\|Alliance des Guildes]
 -------
 ## Origine et description
 ### Héritage
-[[Les Héritages/Ghorans\|Ghorans]]
+[[Les Ascendances/Ghorans\|Ghorans]]
 ### Genre
 Masculin
 ### Lieu de naissance

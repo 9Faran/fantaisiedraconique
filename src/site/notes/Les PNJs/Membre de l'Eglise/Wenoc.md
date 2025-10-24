@@ -10,7 +10,7 @@ Fait partie du dossier [[Les PNJs/Membre de l'Eglise/Grands-Maîtres\|Grands-Ma�
 -------
 ## Origine et description
 ### Héritage
-[[Les Héritages/Humains\|Humains]]
+[[Les Ascendances/Humains\|Humains]]
 ### Genre
 Masculin
 ### Lieu de naissance

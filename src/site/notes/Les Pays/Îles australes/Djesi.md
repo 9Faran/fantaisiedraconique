@@ -19,6 +19,6 @@ Les maisons carrées sont construites en pierre blanche et s’étendent proche 
 Djesi est relié par un ferry jusqu'à la ville de [[Les Pays/Îles australes/Lubas\|Lubas]], mais aussi jusqu'à [[Les Pays/Ultan/Pora\|Pora]].
 Une route terrestre conduit jusqu'au phare de [[Les Dieux/Dieux des Phares/Kheladon\|Kheladon]] et le village de [[Les Pays/Îles australes/Aksermaru\|Aksermaru]].
 ## Population
-Plusieurs milliers d'habitants, à majorité humains mais toujours métissée de [[Les Héritages/Vanaras\|Vanaras]]
+Plusieurs milliers d'habitants, à majorité humains mais toujours métissée de [[Les Ascendances/Vanaras\|Vanaras]]
 ## Habitants
 - 

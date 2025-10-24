@@ -10,7 +10,7 @@ Fait partie du dossier [[Les PNJs/Membres des Bannisseurs/Généraux\|Généraux
 -------
 ## Origine et description
 ### Héritage
-[[Les Héritages/Strix\|Strix]]
+[[Les Ascendances/Strix\|Strix]]
 ### Genre
 Masculin
 ### Lieu de naissance

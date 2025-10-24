@@ -18,7 +18,7 @@ Originellement basé à [[Les Pays/Garde-Belle/Garde-Belle\|Garde-Belle]], le Vi
 Tous ceux qui veulent vénérer les [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]] y sont les bienvenus.
 ## Rang
 Les rangs sont les suivants (ordre décroissant) :
-- Les hauts-prêtres (un par dieux)
+- Les [[Les PNJs/Membre du Vieux Culte/Hauts-Prêtres\|Hauts-Prêtres]] (un par dieux)
 - Les prêtres
 - Les fidèles
 ## Alliés et ennemis

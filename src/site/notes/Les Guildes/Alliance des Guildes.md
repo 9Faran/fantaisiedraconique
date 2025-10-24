@@ -35,4 +35,4 @@ Les rangs sont les suivants (ordre décroissant) :
 L'Alliance des [[Les Guildes/Guildes\|Guildes]] n'a pas encore eu le temps de se faire des alliés, mais elle s'est clairement annoncée comme un ennemi du [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]].
 ## Membres notables
 -  Le référent [[Les PNJs/Membre de l'Eglise/Erigeron\|Erigeron]]
-![Alliance.png](/img/user/_Images/Alliance.png)
+![Alliance.png](/img/user/_Images/_Guilde/Alliance.png)

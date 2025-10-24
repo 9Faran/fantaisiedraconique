@@ -19,4 +19,4 @@ Il n'y a pas vraiment de routes, ni de chemins à travers la forêt d'[[Les Pays
 ## Population
 Environ mille individus
 ## Habitants
-- Les [[Les Héritages/Leshys\|Leshys]]
+- Les [[Les Ascendances/Leshys\|Leshys]]

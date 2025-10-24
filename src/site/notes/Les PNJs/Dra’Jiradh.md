@@ -10,7 +10,7 @@ Fait partie du dossier [[Les Pays/Bi'Han/Bi'Han\|Bi'Han]]
 -------
 ## Origine et description
 ### Héritage
-[[Les Héritages/Amurrun\|Amurrun]]
+[[Les Ascendances/Amurrun\|Amurrun]]
 ### Genre
 Masculin
 ### Lieu de naissance
@@ -26,4 +26,4 @@ Aucune, mais ami avec les [[Les Guildes/Chercheurs\|Chercheurs]]
 ### Rang
 Chef des chefs de clan
 ### Rôle dans la Guilde
-Dra'Jiradh peut réunir les chefs de clan [[Les Héritages/Amurrun\|Amurrun]] afin de tenir conseil. C'est un pouvoir qu'il n'a utilisé qu'une seule fois afin de débattre si les [[Les Héritages/Amurrun\|Amurrun]] devaient se joindre aux [[Les Guildes/Chercheurs\|Chercheurs]] dans l'alliance des [[Les Guildes/Guildes\|Guildes]].
+Dra'Jiradh peut réunir les chefs de clan [[Les Ascendances/Amurrun\|Amurrun]] afin de tenir conseil. C'est un pouvoir qu'il n'a utilisé qu'une seule fois afin de débattre si les [[Les Ascendances/Amurrun\|Amurrun]] devaient se joindre aux [[Les Guildes/Chercheurs\|Chercheurs]] dans l'alliance des [[Les Guildes/Guildes\|Guildes]].

@@ -12,8 +12,8 @@ Fait partie du dossier [[Les Pays/Pays\|Pays]]
 Il s’agit du premier territoire à être sorti de l’influence du [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]]. La terre natale des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]]. Jusqu’à la fondation de [[Les Pays/Garde-Belle/Garde-Belle\|Garde-Belle]], il s’agissait du centre politique, militaire et économique du monde. Et même depuis, Ay’Rion reste le pays le plus densément peuplé, le plus sûr ainsi que le grenier à grain du monde.
 ## Héritages
 Les héritages présents à Ay’Rion sont :
-- [[Les Héritages/Humains\|Humains]]
-- [[Les Héritages/Kashrishi\|Kashrishi]]
+- [[Les Ascendances/Humains\|Humains]]
+- [[Les Ascendances/Kashrishi\|Kashrishi]]
 ## Lieux notables
 Le [[Les Guildes/Collège de Magie\|Collège de Magie]] se dresse au centre du pays, près du premier phare.
 ## Personnalités influentes

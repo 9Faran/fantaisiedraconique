@@ -9,9 +9,9 @@ Fait partie du dossier [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des 
 
 -------
 ## Description
-Une fermière, une femme du peuple. Après que sa famille et son village ont été massacrés lors d’une incursion de monstres, elle trouva refuge parmi les [[Les Héritages/Ghorans\|Ghorans]]. Plus tard, elle servira d’ambassadrice entre les [[Les Héritages/Humains\|Humains]] et les peuples de la forêt.
-Morte à un âge respectable, et à la demande des [[Les Héritages/Ghorans\|Ghorans]], son corps fut porté dans un phare.
-Son phare est au sud d’[[Les Pays/Ultan/Ultan\|Ultan]].
+Une fermière, une femme du peuple. Après que sa famille et son village ont été massacrés lors d’une incursion de monstres, elle trouva refuge parmi les [[Les Ascendances/Ghorans\|Ghorans]]. Plus tard, elle servira d’ambassadrice entre les [[Les Ascendances/Humains\|Humains]] et les peuples de la forêt.
+Morte à un âge respectable, et à la demande des [[Les Ascendances/Ghorans\|Ghorans]], son corps fut porté dans un phare.
+Le [[Les Pays/Ultan/Phare de Pelopia\|Phare de Pelopia]] est au sud d’[[Les Pays/Ultan/Ultan\|Ultan]].
 ### Edits
 Vivre en harmonie avec la nature, Promouvoir la paix entre les peuples
 ### Anathème

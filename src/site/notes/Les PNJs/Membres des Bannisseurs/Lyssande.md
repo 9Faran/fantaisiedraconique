@@ -10,7 +10,7 @@ Fait partie du dossier [[Les PNJs/Membres des Bannisseurs/Généraux\|Généraux
 -------
 ## Origine et description
 ### Héritage
-[[Les Héritages/Leshys\|Leshys]]
+[[Les Ascendances/Leshys\|Leshys]]
 ### Genre
 Féminin
 ### Lieu de naissance

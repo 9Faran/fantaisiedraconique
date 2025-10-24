@@ -10,7 +10,7 @@ Fait partie du dossier [[Les PNJs/Membres des Chercheurs/Conseil des Anciens\|Co
 -------
 ## Origine et description
 ### Héritage
-[[Les Héritages/Humains\|Humains]]
+[[Les Ascendances/Humains\|Humains]]
 ### Genre
 Masculin
 ### Lieu de naissance

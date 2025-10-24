@@ -13,9 +13,9 @@ L’archipel du couchant a été découvert durant l’[[Le Calendrier et l'Hist
 Ses habitants ont toujours été en décalage avec le reste du monde. Alors que certains vénéraient l’empereur ou les dragons, eux restent loyaux envers les dieux. Et malgré qu’ils reconnaissent l’autorité de l’Eglise, ce pays semble en être déconnecté.
 ## Héritages
 Les héritages présents dans l’archipel du couchant sont :
-- [[Les Héritages/Athamaru\|Athamaru]]
-- [[Les Héritages/Humains\|Humains]]
-- [[Les Héritages/Tripkee\|Tripkee]]
+- [[Les Ascendances/Athamaru\|Athamaru]]
+- [[Les Ascendances/Humains\|Humains]]
+- [[Les Ascendances/Tripkee\|Tripkee]]
 ## Lieux notables
 De nombreuses ruines submergées.
 ## Personnalités influentes

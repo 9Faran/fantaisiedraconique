@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Pays/Archipel du couchant/Archipel du couchant\|Arc
 
 -------
 ## Description
-Clan [[Les Héritages/Tripkee\|Tripkee]] de l'[[Les Pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]].
+Clan [[Les Ascendances/Tripkee\|Tripkee]] de l'[[Les Pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]].
 ## Lieux importants
 
 ## Architecture
