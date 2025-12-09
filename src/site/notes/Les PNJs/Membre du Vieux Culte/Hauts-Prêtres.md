@@ -5,7 +5,7 @@
 # Titre
 ---
 #PNJ  
-Fait partie du dossier [[Les PNJS\|Les PNJS]]
+Fait partie du dossier [[Les PNJs/PNJs\|PNJS]]
 
 -------
 Les Hauts-Prêtres dirigent le [[Les Guildes/Vieux Culte\|Vieux Culte]]. Chaque Haut-Prêtre est en charge d'un des Phares et d'y diriger le culte du [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]] vénérés.

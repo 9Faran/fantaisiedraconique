@@ -27,5 +27,5 @@ Les [[Les Guildes/Aînés\|Aînés]]
 ### Rang
 Ainée
 ### Rôle dans la Guilde
-Linaria est un des [[Les Guildes/Aînés\|Aînés]], les plus actifs et diplomates. Rendant des visites régulières à [[Les Pays/Ultan/Sylve-Cœur\|Sylve-Cœur]] et au [[Les Pays/Ultan/Phare de Pelopia\|Phare de Pelopia]].
+Linaria est une des [[Les Guildes/Aînés\|Aînés]], les plus actifs et diplomates. Rendant des visites régulières à [[Les Pays/Ultan/Sylve-Cœur\|Sylve-Cœur]] et au [[Les Pays/Ultan/Phare de Pelopia\|Phare de Pelopia]].
 ![Linaria.jpg](/img/user/_Images/_PNJs/Linaria.jpg)
