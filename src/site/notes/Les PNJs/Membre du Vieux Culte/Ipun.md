@@ -26,4 +26,4 @@ Le [[Les Guildes/Vieux Culte\|Vieux Culte]]
 ### Rang
 [[Les PNJs/Membre du Vieux Culte/Hauts-Prêtres\|Hauts-Prêtres]]
 ### Rôle dans la Guilde
-S'occupe du Phare de la déesse [[Les Dieux/Dieux des Phares/Iphemedia\|Iphemedia]], et dirige le culte et les cérémonies liées.
+S'occupe du [[Les Pays/Îles australes/Phare de Iphemedia\|Phare de Iphemedia]], et dirige le culte et les cérémonies liées.

@@ -33,6 +33,7 @@ Les tenues correspondent aux règles de l’[[Les Guildes/Église des Dragons\|�
 - [[Les Pays/Ultan/Gueyria\|Gueyria]]
 - [[Les Pays/Ultan/Orée de Ghor\|Orée de Ghor]]
 - [[Les Pays/Ultan/Phare de Pelopia\|Phare de Pelopia]]
+- [[Les Pays/Ultan/Phare de Therisia\|Phare de Therisia]]
 - [[Les Pays/Ultan/Pora\|Pora]]
 - [[Les Pays/Ultan/Sylve-Cœur\|Sylve-Cœur]]
 ![Ultan.png](/img/user/_Images/_Pays/Ultan.png)

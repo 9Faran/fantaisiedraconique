@@ -20,3 +20,15 @@ Voici les cartes déjà trouvées par le groupe :
 8. 
 9. 
 10. [[Les Livres/Tarot/La Roue de Fortune\|La Roue de Fortune]]
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+21. 
+22. [[Les Livres/Tarot/Le Fou\|Le Fou]]

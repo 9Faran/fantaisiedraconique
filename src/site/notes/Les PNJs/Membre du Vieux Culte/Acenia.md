@@ -26,6 +26,6 @@ Le [[Les Guildes/Vieux Culte\|Vieux Culte]]
 ### Rang
 Haute prêtresse (voir [[Les PNJs/Membre du Vieux Culte/Hauts-Prêtres\|Hauts-Prêtres]])
 ### Rôle dans la Guilde
-S'occupe du Phare de la déesse [[Les Dieux/Dieux des Phares/Pelopia\|Pelopia]], et dirige le culte et les cérémonies liées.
+S'occupe du [[Les Pays/Ultan/Phare de Pelopia\|Phare de Pelopia]], et y dirige le culte et les cérémonies liées.
 
 ![Acenia.png](/img/user/_Images/_PNJs/Acenia.png)

@@ -28,3 +28,4 @@ Bâton
 Ambition, Knowledge, Magic, Protection
 ### Sorts des prêtres
 1st: magic missile, 2nd: magic mouth, 3rd: levitate, 4th: blink, 5th: prying eye, 6th: wall of force, 7th: warp mind, 8th: maze, 9th: disjunction
+![Therisia.png](/img/user/_Images/_Dieux/Therisia.png)

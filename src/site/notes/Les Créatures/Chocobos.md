@@ -30,4 +30,4 @@ Les chocobos des mers sont très rares. De couleur doré, ils sont capables de n
 Les Chocobos ont été domestiqués dès l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]].
 Rapidement, ils ont servis de monture, rôle qui est particulièrement utilisé chez les [[Les Guildes/Chevaliers Chocobo\|Chevaliers Chocobo]].
 
-![Chocobo.png](/img/user/_Images/Chocobo.png)
+![Chocobo.png](/img/user/_Images/_Cr%C3%A9atures/Chocobo.png)

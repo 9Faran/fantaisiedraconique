@@ -13,5 +13,6 @@ Les Hauts-Prêtres dirigent le [[Les Guildes/Vieux Culte\|Vieux Culte]]. Chaque 
 Les Hauts-Prêtres actuels sont :
 - [[Les PNJs/Membre du Vieux Culte/Acenia\|Acenia]], Haute-Prêtresse de [[Les Dieux/Dieux des Phares/Pelopia\|Pelopia]]
 - [[Les PNJs/Membre du Vieux Culte/Ipun\|Ipun]], Haut-Prêtre de [[Les Dieux/Dieux des Phares/Iphemedia\|Iphemedia]]
+- [[Les PNJs/Membre du Vieux Culte/Michela\|Michela]], Haute-prêtresse de [[Les Dieux/Dieux des Phares/Therisia\|Therisia]]
 - [[Les PNJs/Membre du Vieux Culte/Yusuke\|Yusuke]], Haut-Prêtre de [[Les Dieux/Dieux des Phares/Kheladon\|Kheladon]]
 - 

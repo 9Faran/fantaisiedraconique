@@ -11,4 +11,4 @@ Fait partie du dossier [[Les Livres/Tarot/Tarot\|Tarot]]
 Le Bateleur est le premier arcane majeur et représente le commencement.
 Sur cette carte, il est représenté le stade de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les Pays/Îles australes/Lubas\|Lubas]], ainsi que le ferry venant de [[Les Pays/Îles australes/Djesi\|Djesi]]. Le ferry représenté ressemble exactement à celui qui a emmené le groupe.
 
-![Tarot-1.png](/img/user/_Images/_Livres/Tarot-1.png)
+![Tarot-1.png](/img/user/_Images/_Livres/_Tarot/Tarot-1.png)

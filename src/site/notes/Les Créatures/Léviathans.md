@@ -25,7 +25,7 @@ Plus tard, les Léviathans ont été responsable de la fracture du continent de 
 Aujourd'hui, les attaques de Léviathans sont rares, car ils s'exposent à l'intervention d'un des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]].
 Les [[Les Guildes/Bannisseurs\|Bannisseurs]] ont répertoriés, selon les témoignages récents et anciens, douze Léviathans :
 1. Similaire à un cétacé, la peau grise
-2. Similaire à un cétacé, la peau bleue
+2. Similaire à un cétacé, la peau sombre et bleue. Il est surnommé le [[Les Créatures/Léviathan sombre\|Léviathan sombre]].
 3. Longiligne, comparable à un serpent argenté
 4. Recouvert de plumes blanches et rouges
 5. Recouvert d'écailles blanches
@@ -39,4 +39,4 @@ Les [[Les Guildes/Bannisseurs\|Bannisseurs]] ont répertoriés, selon les témoi
 Auxquelles, il faut ajouter celui responsable de la destruction de [[Les Pays/Îles australes/Aksermaru\|Aksermaru]] :
 13. Un léviathan dont la peau et la forme rappelle les insectes et dont le corps est rouge. Il est donc surnommé le [[Les Créatures/Léviathan rouge\|Léviathan rouge]].
 
-Le Gardien de la tour est similaire au léviathan no 10.
+Le "Gardien de la tour" aperçue par Orion Lirsa et son groupe, semble similaire au léviathan no 10.

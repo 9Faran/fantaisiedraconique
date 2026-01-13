@@ -17,7 +17,7 @@ Malheureusement le reste de la ville a été détruit par un [[Les Créatures/L�
 Les habitations en bois étaient construites au-dessus de l'eau, sur pilotis.
 ## Routes
 Aksermaru est relié par un ferry jusqu'au village de [[Les Pays/Îles australes/Sebaid\|Sebaid]].
-Une route terrestre conduit jusqu'au phare de [[Les Dieux/Dieux des Phares/Kheladon\|Kheladon]] et la ville de [[Les Pays/Îles australes/Djesi\|Djesi]].
+Une route terrestre conduit jusqu'au [[Les Pays/Îles australes/Phare de Kheladon\|Phare de Kheladon]] et la ville de [[Les Pays/Îles australes/Djesi\|Djesi]].
 ## Population
 Avant l'attaque, 2 milliers d'habitants.
 ## Habitants
