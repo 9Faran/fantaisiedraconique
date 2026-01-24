@@ -15,7 +15,7 @@ Généralement, leurs plumes sont jaunes. D'autres espèces ont des couleurs de 
 Les chocobos sont présents dans presque toutes les terres en dehors de la Brume.
 ## Pouvoirs
 ### Chocobo commun
-Les chocobos communs, de couleur jaune, ont la possibilité de pouvoir planer sur de courtes distances. Ils sont présent dans les [[Les Pays/Îles australes/Îles australes\|Îles australes]], à [[Les Pays/Ultan/Ultan\|Ultan]] et à [[Les Pays/Ay'Rion/Ay’Rion\|Ay’Rion]].
+Les chocobos communs, de couleur jaune, ont la possibilité de pouvoir planer sur de courtes distances. Ils sont présent dans les [[Les Pays/Îles australes/Îles australes\|Îles australes]], à [[Les Pays/Ultan/Ultan\|Ultan]] et à [[Les Pays/Ay Rion/Ay’Rion\|Ay’Rion]].
 ### Chocobo des montagnes
 Les chocobos des montagnes, de couleur vert, sont particulièrement adapté pour les terrains difficiles, comme les montagnes et les terrains rocheux. On les retrouve à [[Les Pays/Kimar/Kimar\|Kimar]] dans les montagnes des [[Les Pays/Kimar/Dents Blanches\|Dents Blanches]].
 ### Chocobo des rivières
@@ -27,7 +27,7 @@ Né du croisement d'un chocobo des montagnes et d'un chocobo des rivières, les 
 ### Chocobo des mers
 Les chocobos des mers sont très rares. De couleur doré, ils sont capables de nager. On peut en trouver, en de rares occasions, dans l'[[Les Pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]].
 ## Histoire
-Les Chocobos ont été domestiqués dès l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]].
+Les Chocobos ont été domestiqués dès l'[[Le Calendrier et Histoire/Âge du Feu\|Âge du Feu]].
 Rapidement, ils ont servis de monture, rôle qui est particulièrement utilisé chez les [[Les Guildes/Chevaliers Chocobo\|Chevaliers Chocobo]].
 
 ![Chocobo.png](/img/user/_Images/_Cr%C3%A9atures/Chocobo.png)

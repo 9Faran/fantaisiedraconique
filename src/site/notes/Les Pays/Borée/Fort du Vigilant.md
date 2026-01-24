@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Pays/Borée/Borée\|Borée]]
 
 -------
 ## Description
-Ancienne forteresse des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]], abandonnée par l'[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]] lors de l'[[Le Calendrier et l'Histoire/Âge du Soleil\|Âge du Soleil]]. La forteresse a été réinvestie par les [[Les Guildes/Bannisseurs\|Bannisseurs]] au début de l'[[Le Calendrier et l'Histoire/Âge des Dragons\|Âge des Dragons]].
+Ancienne forteresse des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]], abandonnée par l'[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]] lors de l'[[Le Calendrier et Histoire/Âge du Soleil\|Âge du Soleil]]. La forteresse a été réinvestie par les [[Les Guildes/Bannisseurs\|Bannisseurs]] au début de l'[[Le Calendrier et Histoire/Âge des Dragons\|Âge des Dragons]].
 ## Lieux importants
 Le centre de commandement des [[Les Guildes/Bannisseurs\|Bannisseurs]]
 ## Architecture

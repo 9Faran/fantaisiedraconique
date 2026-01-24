@@ -9,17 +9,17 @@ Fait partie du dossier [[Les Guildes/Guildes\|Guildes]]
 
 -------
 ## Histoire
-Le Collège de Magie fut fondé à l’aube de l’[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]], par [[Les Dieux/Dieux des Phares/Therisia\|Therisia]], ce qui en fait la plus ancienne institution du monde. À l’origine, il fut fondé afin de pérenniser le savoir magique et d’avoir un centre d’entraînement pour futur [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]].
+Le Collège de Magie fut fondé à l’aube de l’[[Le Calendrier et Histoire/Âge des Phares\|Âge des Phares]], par [[Les Dieux/Dieux des Phares/Therisia\|Therisia]], ce qui en fait la plus ancienne institution du monde. À l’origine, il fut fondé afin de pérenniser le savoir magique et d’avoir un centre d’entraînement pour futur [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]].
 Aujourd’hui le Collège est une institution surveillée par l’[[Les Guildes/Église des Dragons\|Église des Dragons]] qui y voit un potentiel rival, mais surtout comme une source de puissants serviteurs supplémentaires contre le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]].
 ## Nature et Objectifs
 Le Collège de Magie a pour mission de conserver le savoir magique, ainsi que de s’assurer de la transmission de celui-ci et la formation de nouveaux lanceurs de sorts.
 ## Organisation
-Le [[Les Pays/Ay'Rion/Campus du Collège\|Campus du Collège]] se trouve à [[Les Pays/Ay'Rion/Ay’Rion\|Ay’Rion]], et ne dispose d’aucun autre emplacement.
+Le [[Les Pays/Ay Rion/Campus du Collège\|Campus du Collège]] se trouve à [[Les Pays/Ay Rion/Ay’Rion\|Ay’Rion]], et ne dispose d’aucun autre emplacement.
 ## Adhésion
 Toute personne possédant un don magique peut espérer rejoindre le collège.
 ## Rang
 Les rangs sont les suivants (ordre décroissant) :
-- L’Archimage (poste occupé par Grande-Maîtresse [[Les PNJs/Membre de l'Eglise/Jiley\|Jiley]] de l'[[Les Guildes/Église des Dragons\|Église des Dragons]])
+- L’Archimage (poste occupé par Grande-Maîtresse [[Les PNJs/Membre de l Eglise/Jiley\|Jiley]] de l'[[Les Guildes/Église des Dragons\|Église des Dragons]])
 - Les surveillants (au nombre de 7)
 - Les professeurs (au nombre de 12)
 - Les étudiants

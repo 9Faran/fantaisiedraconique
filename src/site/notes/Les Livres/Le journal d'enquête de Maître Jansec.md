@@ -21,7 +21,7 @@ Maître Jansec résume son parcours à [[Les Pays/Îles australes/Lubas\|Lubas]]
 
 9 Floréveil : Jansec profite du jour de congé pour se rendre au temple multiconfessionnel et y prier. Il y rencontre des adorateurs des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]], mais aussi des [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]]. L'entente en ville est cordiale entre les deux religions.
 
-12 Floréveil : Jansec commence à fréquenter un café fréquenté par les [[Les Guildes/Bannisseurs\|Bannisseurs]] de la ville. En tendant l'oreille, il apprend que ceux-ci ne sont pas satisfait de la conduite de [[Les PNJs/Membre de l'Eglise/Wenoc\|Wenoc]].
+12 Floréveil : Jansec commence à fréquenter un café fréquenté par les [[Les Guildes/Bannisseurs\|Bannisseurs]] de la ville. En tendant l'oreille, il apprend que ceux-ci ne sont pas satisfait de la conduite de [[Les PNJs/Membre de l Eglise/Wenoc\|Wenoc]].
 
 14 Floréveil : Le vieux diffuseur holographique du café "La promenade" est défectueux. Une occasion parfaite de se porter volontaire pour rencontrer les [[Les Guildes/Chercheurs\|Chercheurs]] présents en ville. L'appareil sera prêt dans 2 semaines.
 
@@ -29,8 +29,8 @@ Maître Jansec résume son parcours à [[Les Pays/Îles australes/Lubas\|Lubas]]
 
 2 Briséis : Jansec s'étonne que les habitants commencent déjà à préparer le tournoi.
 
-13 Briséis : Le Grand-Maître [[Les PNJs/Membre de l'Eglise/Wenoc\|Wenoc]] est arrivé. La rumeur s'est répandu en ville que la grande annonce concerne l'Eglise et les [[Les Guildes/Chercheurs\|Chercheurs]].
-Comme d'habitude, [[Les PNJs/Membre de l'Eglise/Wenoc\|Wenoc]] manque de subtilité. Mais si il y a quelque chose à débusquer, cela ne devrait pas tarder.
+13 Briséis : Le Grand-Maître [[Les PNJs/Membre de l Eglise/Wenoc\|Wenoc]] est arrivé. La rumeur s'est répandu en ville que la grande annonce concerne l'Eglise et les [[Les Guildes/Chercheurs\|Chercheurs]].
+Comme d'habitude, [[Les PNJs/Membre de l Eglise/Wenoc\|Wenoc]] manque de subtilité. Mais si il y a quelque chose à débusquer, cela ne devrait pas tarder.
 
 18 Briséis : En allant prier au temple, Jansec s'étonne de voir qu'un autel au [[Les Dieux/Dieux autres/Soleil\|Soleil]] a été rajouté.
 

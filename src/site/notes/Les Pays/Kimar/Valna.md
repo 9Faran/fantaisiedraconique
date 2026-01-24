@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Pays/Kimar/Kimar\|Kimar]]
 
 -------
 ## Description
-Fondée par les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] lors de l'[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]], Valna était connu pour être un point de départ pour des assauts contre la [[Les Pays/Brume\|Brume]].
+Fondée par les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] lors de l'[[Le Calendrier et Histoire/Âge des Phares\|Âge des Phares]], Valna était connu pour être un point de départ pour des assauts contre la [[Les Pays/Brume\|Brume]].
 ## Lieux importants
 
 ## Architecture

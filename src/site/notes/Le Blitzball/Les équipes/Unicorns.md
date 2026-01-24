@@ -9,7 +9,7 @@ Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
 
 -------
 ## Pays
-Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les Pays/Ay'Rion/Ay’Rion\|Ay’Rion]].
+Équipe de [[Le Blitzball/Blitzball\|Blitzball]] de [[Les Pays/Ay Rion/Ay’Rion\|Ay’Rion]].
 ## Membres
 Les Unicorns ont été fondés par des étudiants du [[Les Guildes/Collège de Magie\|Collège de Magie]].
 Il s'agit d'une équipe de rang F.

@@ -9,9 +9,9 @@ Fait partie du dossier [[Les Ascendances/Ascendances\|Ascendances]]
 
 -------
 ## Histoire
-Les Kashrishi sont le deuxième peuple à s'être éveillé à l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]], au côté des [[Les Ascendances/Humains\|Humains]]. 
+Les Kashrishi sont le deuxième peuple à s'être éveillé à l'[[Le Calendrier et Histoire/Âge du Feu\|Âge du Feu]], au côté des [[Les Ascendances/Humains\|Humains]]. 
 ## Société
-Moins expansionniste que les [[Les Ascendances/Humains\|Humains]], ils sont restés dans les montagnes de [[Les Pays/Ay'Rion/Ay’Rion\|Ay’Rion]] où ils forment des communautés plus ou moins grandes. Ils apprécient aussi les cités humaines.
+Moins expansionniste que les [[Les Ascendances/Humains\|Humains]], ils sont restés dans les montagnes de [[Les Pays/Ay Rion/Ay’Rion\|Ay’Rion]] où ils forment des communautés plus ou moins grandes. Ils apprécient aussi les cités humaines.
 ## Croyances
 Aujourd'hui, les Kashrishis font tous partis de l'[[Les Guildes/Église des Dragons\|Église des Dragons]].
 ### Edits Populaires
@@ -19,7 +19,7 @@ Aujourd'hui, les Kashrishis font tous partis de l'[[Les Guildes/Église des Drag
 ### Anathèmes populaires
 - Servir le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]]
 ## Personnalités influentes
-[[Les PNJs/Membre de l'Eglise/Prima\|Prima]] est le seul Kashrishi ayant atteint le rang de [[Les PNJs/Membre de l'Eglise/Grands-Maîtres\|Grands-Maîtres]] de l'[[Les Guildes/Église des Dragons\|Église des Dragons]].
+[[Les PNJs/Membre de l Eglise/Prima\|Prima]] est le seul Kashrishi ayant atteint le rang de [[Les PNJs/Membre de l Eglise/Grands-Maîtres\|Grands-Maîtres]] de l'[[Les Guildes/Église des Dragons\|Église des Dragons]].
 ## Langage
 Les Kashrishi parlent entre-eux le petran. Mais ils parlent aussi le commun, et préfère celle-ci afin d'être compris de tous.
 ## Tenues spécifiques

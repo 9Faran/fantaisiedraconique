@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Pays/Pays\|Pays]]
 
 -------
 ## Histoire
-À l’origine, une île au nord de [[Les Pays/Ay'Rion/Ay’Rion\|Ay’Rion]] et [[Les Pays/Ultan/Ultan\|Ultan]]. À l’[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]], les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] y installèrent une cité, mais c’est surtout lors de l’[[Le Calendrier et l'Histoire/Âge du Soleil\|Âge du Soleil]] que Garde-Belle gagna son rang de capital du monde.
+À l’origine, une île au nord de [[Les Pays/Ay Rion/Ay’Rion\|Ay’Rion]] et [[Les Pays/Ultan/Ultan\|Ultan]]. À l’[[Le Calendrier et Histoire/Âge des Phares\|Âge des Phares]], les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] y installèrent une cité, mais c’est surtout lors de l’[[Le Calendrier et Histoire/Âge du Soleil\|Âge du Soleil]] que Garde-Belle gagna son rang de capital du monde.
 ## Héritages
 Les héritages présents à Garde-Belle sont :
 - [[Les Ascendances/Humains\|Humains]] (majoritairement)
@@ -17,7 +17,7 @@ Les héritages présents à Garde-Belle sont :
 ## Lieux notables
 La ruine du [[Les Pays/Garde-Belle/Phare du Soleil\|Phare du Soleil]] a été rénovée de sorte à pouvoir accueillir les dirigeants de l'[[Les Guildes/Église des Dragons\|Église des Dragons]] et a été renommé "Le nid des dragons".
 ## Personnalités influentes
-Les [[Les PNJs/Membre de l'Eglise/Grands-Maîtres\|Grands-Maîtres]] de l'[[Les Guildes/Église des Dragons\|Église des Dragons]].
+Les [[Les PNJs/Membre de l Eglise/Grands-Maîtres\|Grands-Maîtres]] de l'[[Les Guildes/Église des Dragons\|Église des Dragons]].
 ## Langage
 La langue parlée est le Commun.
 ## Coutumes
@@ -26,5 +26,5 @@ Les fêtes religieuses de l’[[Les Guildes/Église des Dragons\|Église des Dra
 L'[[Les Guildes/Église des Dragons\|Église des Dragons]] impose à ses fidèles des tenues très puritaines, recouvrant tout le corps (à l’exception du visage) et ayant peu de couleurs.
 Certaines modes des autres pays peuvent s’importer des fois.
 ## Routes
-Garde-Belle est reliée par la route jusqu'à [[Les Pays/Ultan/Gueyria\|Gueyria]], [[Les Pays/Ultan/Pora\|Pora]] et [[Les Pays/Ay'Rion/Victa\|Victa]].
+Garde-Belle est reliée par la route jusqu'à [[Les Pays/Ultan/Gueyria\|Gueyria]], [[Les Pays/Ultan/Pora\|Pora]] et [[Les Pays/Ay Rion/Victa\|Victa]].
 Il est aussi possible d'y louer des navire pour rejoindre d'autres destinations.

@@ -14,7 +14,7 @@ Fait partie du dossier [[Les PNJs/Membres des Chercheurs/Conseil des Anciens\|Co
 ### Genre
 Masculin
 ### Lieu de naissance
-[[Les Pays/Bi'Han/La Bibliothèque\|La Bibliothèque]]
+[[Les Pays/Bi Han/La Bibliothèque\|La Bibliothèque]]
 ### Âge
 51 ans
 ### Religion

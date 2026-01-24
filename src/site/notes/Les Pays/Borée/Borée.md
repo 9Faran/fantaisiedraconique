@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Pays/Pays\|Pays]]
 
 -------
 ## Histoire
-Durant l'[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]], la Borée était le champ de bataille privilégié entre les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] et le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]]. Ce territoire fut presque sécurisé, mais reperdu durant l’[[Le Calendrier et l'Histoire/Âge du Soleil\|Âge du Soleil]]. Il faudra attendre l'[[Le Calendrier et l'Histoire/Âge des Dragons\|Âge des Dragons]] et l’exil des [[Les Guildes/Bannisseurs\|Bannisseurs]] pour que la région soit enfin libérée de l’influence du [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]].
+Durant l'[[Le Calendrier et Histoire/Âge des Phares\|Âge des Phares]], la Borée était le champ de bataille privilégié entre les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] et le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]]. Ce territoire fut presque sécurisé, mais reperdu durant l’[[Le Calendrier et Histoire/Âge du Soleil\|Âge du Soleil]]. Il faudra attendre l'[[Le Calendrier et Histoire/Âge des Dragons\|Âge des Dragons]] et l’exil des [[Les Guildes/Bannisseurs\|Bannisseurs]] pour que la région soit enfin libérée de l’influence du [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]].
 C’est aussi le pays des mystérieux [[Les Ascendances/Tengus\|Tengus]].
 ## Héritages
 Les héritages présents en Borée sont :
@@ -18,7 +18,7 @@ Les héritages présents en Borée sont :
 ## Lieux notables
 Le [[Les Pays/Borée/Fort du Vigilant\|Fort du Vigilant]] s’élève à la pointe nord de la Borée.
 ## Personnalités influentes
-Le Grand-Maître [[Les PNJs/Membre de l'Eglise/Wenoc\|Wenoc]] ne passant que peu de temps au fort du Vigilant, ce sont surtout les 3 généraux qui sont reconnus comme les personnalités influentes du pays.
+Le Grand-Maître [[Les PNJs/Membre de l Eglise/Wenoc\|Wenoc]] ne passant que peu de temps au fort du Vigilant, ce sont surtout les 3 généraux qui sont reconnus comme les personnalités influentes du pays.
 Les chefs Tengus restent discrets.
 ## Langage
  Les langues parlées sont le Commun et le Takatengu.

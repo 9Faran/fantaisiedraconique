@@ -10,7 +10,7 @@ Fait partie du dossier [[Les Livres/Livres\|Livres]]
 
 -------
 ## Contexte
-Début de l'[[Le Calendrier et l'Histoire/Âge du Soleil\|Âge du Soleil]]. Un conflit a lieu entre le [[Les Guildes/Vieux Culte\|Vieux Culte]] et l'[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]]. Ce dernier contraint les fidèles des [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]] à se convertir au [[Les Dieux/Dieux autres/Soleil\|Soleil]] où à se réfugier dans les phares.
+Début de l'[[Le Calendrier et Histoire/Âge du Soleil\|Âge du Soleil]]. Un conflit a lieu entre le [[Les Guildes/Vieux Culte\|Vieux Culte]] et l'[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]]. Ce dernier contraint les fidèles des [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]] à se convertir au [[Les Dieux/Dieux autres/Soleil\|Soleil]] où à se réfugier dans les phares.
 Dans un des derniers temples d'[[Les Pays/Ultan/Ultan\|Ultan]], une prêtresse rédige une lettre qui ne sera jamais envoyée...
 ## Autrice
 La prêtresse Viliana semble avoir été un membre éminent du [[Les Guildes/Vieux Culte\|Vieux Culte]] à cette époque. Mais elle est, au moment de cette écriture, une fugitive.

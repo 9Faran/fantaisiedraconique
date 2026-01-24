@@ -13,7 +13,7 @@ Delium se trouve sur la côté nord-ouest d'[[Les Pays/Ultan/Ultan\|Ultan]], et 
 ## Lieux importants
 Le port de Delium est un lieu d'échange, et un point de rendez-vous des pécheurs de la région.
 ## Architecture
-L'architecture de Delium est vieillissante. Certains bâtiments datent de l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]] et non jamais été rénové depuis.
+L'architecture de Delium est vieillissante. Certains bâtiments datent de l'[[Le Calendrier et Histoire/Âge du Feu\|Âge du Feu]] et non jamais été rénové depuis.
 ## Routes
 Delium est relié par la route jusqu'à [[Les Pays/Ultan/Gueyria\|Gueyria]].
 Delium est relié par un ferry jusqu'à la ville de [[Les Pays/Archipel du couchant/Aecrenia\|Aecrenia]].

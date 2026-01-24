@@ -21,7 +21,7 @@ Le [[Les Pays/Borée/Fort du Vigilant\|Fort du Vigilant]] est le cœur de l’or
 Toute personne capable de manier une arme est la bienvenue dans l’ordre.
 ## Rang
 Les rangs sont les suivants (ordre décroissant) :
-- Le Maréchal (poste occupé par Grand-Maître [[Les PNJs/Membre de l'Eglise/Wenoc\|Wenoc]] de l'[[Les Guildes/Église des Dragons\|Église des Dragons]])
+- Le Maréchal (poste occupé par Grand-Maître [[Les PNJs/Membre de l Eglise/Wenoc\|Wenoc]] de l'[[Les Guildes/Église des Dragons\|Église des Dragons]])
 - [[Les PNJs/Membres des Bannisseurs/Généraux\|Généraux]]
 - Lieutenants
 - Ambassadeur
@@ -29,9 +29,9 @@ Les rangs sont les suivants (ordre décroissant) :
 - Soldats (rang obtenu après avoir tué un monstre)
 - Recrues
 ## Alliés et ennemis
-Les Bannisseurs entretenaient des relations neutres avec toutes les factions. Jusqu’à ce que le Grand-Maître [[Les PNJs/Membre de l'Eglise/Wenoc\|Wenoc]] devint le Maréchal. Depuis, les Bannisseurs s’alignent sur les décisions de l’[[Les Guildes/Église des Dragons\|Église des Dragons]].
+Les Bannisseurs entretenaient des relations neutres avec toutes les factions. Jusqu’à ce que le Grand-Maître [[Les PNJs/Membre de l Eglise/Wenoc\|Wenoc]] devint le Maréchal. Depuis, les Bannisseurs s’alignent sur les décisions de l’[[Les Guildes/Église des Dragons\|Église des Dragons]].
 ## Membres notables
-- Maréchal [[Les PNJs/Membre de l'Eglise/Wenoc\|Wenoc]]
+- Maréchal [[Les PNJs/Membre de l Eglise/Wenoc\|Wenoc]]
 - Général [[Les PNJs/Membres des Bannisseurs/Andrew Morgan\|Andrew Morgan]]
 - Général [[Les PNJs/Membres des Bannisseurs/Catil\|Catil]]
 - Général [[Les PNJs/Membres des Bannisseurs/Lyssande\|Lyssande]]

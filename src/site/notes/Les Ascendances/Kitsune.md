@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Ascendances/Ascendances\|Ascendances]]
 
 -------
 ## Histoire
-Les Kitsune ont été éveillé à l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]] par les [[Les Ascendances/Humains\|Humains]]. Le peuple vulpin habite au sud de [[Les Pays/Kimar/Kimar\|Kimar]].
+Les Kitsune ont été éveillé à l'[[Le Calendrier et Histoire/Âge du Feu\|Âge du Feu]] par les [[Les Ascendances/Humains\|Humains]]. Le peuple vulpin habite au sud de [[Les Pays/Kimar/Kimar\|Kimar]].
 ## Société
 La société Kitsune a totalement fusionné avec celle des [[Les Ascendances/Humains\|Humains]] de [[Les Pays/Kimar/Kimar\|Kimar]]. Un proverbe dit d'ailleurs que "Chaque habitant de [[Les Pays/Kimar/Rine\|Rine]] ou de [[Les Pays/Kimar/Emyon\|Emyon]] a un Kitsune dans sa famille". Il n'est pas rare que le Kitsune ne rencontre pas d'autres personnes de leur peuple.
 ## Croyances

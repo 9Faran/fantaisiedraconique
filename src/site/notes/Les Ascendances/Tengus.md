@@ -9,8 +9,8 @@ Fait partie du dossier [[Les Ascendances/Ascendances\|Ascendances]]
 
 -------
 ## Histoire
-Les Tengus ont été découvert à la fin de l'[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]]. Ce peuple aviaire habite en [[Les Pays/Borée/Borée\|Borée]].
-Lors de l'[[Le Calendrier et l'Histoire/Âge du Soleil\|Âge du Soleil]], ce peuple a vu son territoire être ré-englouti par la Brume. Une expérience dont ils n'ont rien partagés.
+Les Tengus ont été découvert à la fin de l'[[Le Calendrier et Histoire/Âge des Phares\|Âge des Phares]]. Ce peuple aviaire habite en [[Les Pays/Borée/Borée\|Borée]].
+Lors de l'[[Le Calendrier et Histoire/Âge du Soleil\|Âge du Soleil]], ce peuple a vu son territoire être ré-englouti par la Brume. Une expérience dont ils n'ont rien partagés.
 ## Société
 Les Tengus vivent reclus en [[Les Pays/Borée/Borée\|Borée]] et n'entretiennent que de rares contacts avec les autres peuples.
 ## Croyances

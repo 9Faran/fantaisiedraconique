@@ -14,7 +14,7 @@ Ville des [[Les Pays/Îles australes/Îles australes\|Îles australes]], à la p
 ## Lieux importants
 Son agence de voyage, et son temple des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]].
 ## Architecture
-Les maisons carrées sont construites en pierre blanche et s’étendent proche du bord de mer. Des constructions récentes et d’autres qui doivent dater de l’[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]].
+Les maisons carrées sont construites en pierre blanche et s’étendent proche du bord de mer. Des constructions récentes et d’autres qui doivent dater de l’[[Le Calendrier et Histoire/Âge des Phares\|Âge des Phares]].
 ## Routes
 Djesi est relié par un ferry jusqu'à la ville de [[Les Pays/Îles australes/Lubas\|Lubas]], mais aussi jusqu'à [[Les Pays/Ultan/Pora\|Pora]].
 Une route terrestre conduit jusqu'au [[Les Pays/Îles australes/Phare de Kheladon\|Phare de Kheladon]] et le village de [[Les Pays/Îles australes/Aksermaru\|Aksermaru]].

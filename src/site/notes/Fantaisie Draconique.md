@@ -25,7 +25,7 @@ Niveau 1 jusqu’à 14 (estimation)
 Cette encyclopédie regroupe tout ce qu'il y a à savoir sur le monde, ce qui inclut :
 - Les [[Les Anciennes civilisations/Anciennes civilisations\|Anciennes civilisations]]
 - Le [[Le Blitzball/Blitzball\|Blitzball]]
-- Le [[Le Calendrier et l'Histoire/Calendrier\|Calendrier]] et l'histoire du monde
+- Le [[Le Calendrier et Histoire/Calendrier\|Calendrier]] et l'histoire du monde
 - Les [[Les Créatures/Créatures\|Créatures]]
 - Les [[Les Dieux/Dieux\|Dieux]]
 - Les [[Les Guildes/Guildes\|Guildes]]

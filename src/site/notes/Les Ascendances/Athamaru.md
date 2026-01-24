@@ -13,7 +13,7 @@ Les Athamarus sont des humanoïdes ichtyen qui vivent dans l'[[Les Pays/Archipel
 ## Société
 Les Athamarus forment de très nombreux clans dispersés sous l'eau. Les clans se réunissent généralement autour d'un parent commun et se disperse à la mort de celui-ci, formant de nouveaux clans.
 ## Croyances
-Les Athamarus pensent que c'est leur destin de protéger les autres peuples des ténèbres venant des profondeurs aquatiques. Une tâche qu'ils auraient déjà reçus des [[Les Dieux/Étoiles/Étoiles\|Étoiles]] lors de l'[[Le Calendrier et l'Histoire/Âge des Étoiles\|Âge des Étoiles]].
+Les Athamarus pensent que c'est leur destin de protéger les autres peuples des ténèbres venant des profondeurs aquatiques. Une tâche qu'ils auraient déjà reçus des [[Les Dieux/Étoiles/Étoiles\|Étoiles]] lors de l'[[Le Calendrier et Histoire/Âge des Étoiles\|Âge des Étoiles]].
 ### Edits Populaires
 - Rechercher de nouvelles expériences de vie
 - Conduire sa communauté vers un futur brillant

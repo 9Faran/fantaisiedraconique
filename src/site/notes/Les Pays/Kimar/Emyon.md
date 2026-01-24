@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Pays/Kimar/Kimar\|Kimar]]
 
 -------
 ## Description
-Fondée par les [[Les Ascendances/Kitsune\|Kitsune]], Emyon a rapidement rejoint les territoires contrôlés par les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] lors de l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]].
+Fondée par les [[Les Ascendances/Kitsune\|Kitsune]], Emyon a rapidement rejoint les territoires contrôlés par les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] lors de l'[[Le Calendrier et Histoire/Âge du Feu\|Âge du Feu]].
 ## Lieux importants
 Les kitsune ont érigé de nombreux temples à flanc de la montagne. Ceux-ci honorent à la fois les [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]] et les [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]]. Un temple est aussi dédié aux [[Les Dieux/Dieux de la Mort/Dieux de la Mort\|Dieux de la Mort]].
 ## Architecture

@@ -28,4 +28,4 @@ Ancienne membre du [[Les Guildes/Collège de Magie\|Collège de Magie]].
 [[Les PNJs/Membre du Vieux Culte/Hauts-Prêtres\|Hauts-Prêtres]]
 ### Rôle dans la Guilde
 S'occupe du [[Les Pays/Ultan/Phare de Therisia\|Phare de Therisia]].
-Elle était surveillante au [[Les Guildes/Collège de Magie\|Collège de Magie]]. Lorsque la promotion au rang d'Archimage lui a été refusée, au profit de Maîtresse [[Les PNJs/Membre de l'Eglise/Jiley\|Jiley]], elle est parti s'exiler au phare.
+Elle était surveillante au [[Les Guildes/Collège de Magie\|Collège de Magie]]. Lorsque la promotion au rang d'Archimage lui a été refusée, au profit de Maîtresse [[Les PNJs/Membre de l Eglise/Jiley\|Jiley]], elle est parti s'exiler au phare.

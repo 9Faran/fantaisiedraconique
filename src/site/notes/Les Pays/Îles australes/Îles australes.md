@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Pays/Pays\|Pays]]
 
 -------
 ## Histoire
-Les îles australes furent explorées lors de l’[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]]. L’influence du [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] y étaient présentes et fut combattu par les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]].
+Les îles australes furent explorées lors de l’[[Le Calendrier et Histoire/Âge des Phares\|Âge des Phares]]. L’influence du [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] y étaient présentes et fut combattu par les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]].
 ## Héritages
 Les héritages présents aux îles australes sont :
 - [[Les Ascendances/Humains\|Humains]]

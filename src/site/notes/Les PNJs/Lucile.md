@@ -14,7 +14,7 @@ Fait partie du dossier [[Les Guildes/Chevaliers Chocobo\|Chevaliers Chocobo]]
 ### Genre
 Féminin
 ### Lieu de naissance
-[[Les Pays/Ay'Rion/Turicu\|Turicu]]
+[[Les Pays/Ay Rion/Turicu\|Turicu]]
 ### Âge
 34 ans
 ### Religion

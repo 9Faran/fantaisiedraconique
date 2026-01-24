@@ -15,4 +15,4 @@ Originaires de la Brume. Les Dévoreurs de Chocobos se sont révélés capables 
 ## Pouvoirs
 Ce sont des créatures lâches, qui vont chercher le bon moment pour attaquer un [[Les Créatures/Chocobos\|Chocobos]], puis s'enfuir en emmenant un trophée de leurs victime.
 ## Histoire
-Ils sont connus depuis l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]]. Malgré plusieurs opérations d'exterminations menées par les [[Les Guildes/Chevaliers Chocobo\|Chevaliers Chocobo]], ils sont toujours là.
+Ils sont connus depuis l'[[Le Calendrier et Histoire/Âge du Feu\|Âge du Feu]]. Malgré plusieurs opérations d'exterminations menées par les [[Les Guildes/Chevaliers Chocobo\|Chevaliers Chocobo]], ils sont toujours là.

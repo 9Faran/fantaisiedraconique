@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Ascendances/Ascendances\|Ascendances]]
 
 -------
 ## Histoire
-Les Leshys se sont éveillés, lors de l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]], à [[Les Pays/Ultan/Sylve-Cœur\|Sylve-Cœur]] au cœur de la forêt d'[[Les Pays/Ultan/Ultan\|Ultan]].
+Les Leshys se sont éveillés, lors de l'[[Le Calendrier et Histoire/Âge du Feu\|Âge du Feu]], à [[Les Pays/Ultan/Sylve-Cœur\|Sylve-Cœur]] au cœur de la forêt d'[[Les Pays/Ultan/Ultan\|Ultan]].
 D'abord ennemis des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]], et alliés des [[Les Ascendances/Ghorans\|Ghorans]], ils ont réussi à développer une entente avec eux, grâce à la déesse [[Les Dieux/Dieux des Phares/Pelopia\|Pelopia]].
 ## Société
 Les Leshys vivent normalement à [[Les Pays/Ultan/Sylve-Cœur\|Sylve-Cœur]], dans des structures familiales complexes.

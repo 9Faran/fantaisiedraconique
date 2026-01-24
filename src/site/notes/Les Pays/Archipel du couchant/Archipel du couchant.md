@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Pays/Pays\|Pays]]
 
 -------
 ## Histoire
-L’archipel du couchant a été découvert durant l’[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]]. Ses eaux abritant de nombreux monstres, l’archipel a été un véritable défi tactique pour les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]], et c’est uniquement grâce à la fondation d’un Phare, un âge plus tard, que ce pays a pu être sécurisé.
+L’archipel du couchant a été découvert durant l’[[Le Calendrier et Histoire/Âge du Feu\|Âge du Feu]]. Ses eaux abritant de nombreux monstres, l’archipel a été un véritable défi tactique pour les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]], et c’est uniquement grâce à la fondation d’un Phare, un âge plus tard, que ce pays a pu être sécurisé.
 Ses habitants ont toujours été en décalage avec le reste du monde. Alors que certains vénéraient l’empereur ou les dragons, eux restent loyaux envers les dieux. Et malgré qu’ils reconnaissent l’autorité de l’Eglise, ce pays semble en être déconnecté.
 ## Héritages
 Les héritages présents dans l’archipel du couchant sont :

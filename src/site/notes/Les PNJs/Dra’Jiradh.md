@@ -5,7 +5,7 @@
 # Dra'Jiradh
 ---
 #PNJ 
-Fait partie du dossier [[Les Pays/Bi'Han/Bi'Han\|Bi'Han]]
+Fait partie du dossier [[Les Pays/Bi Han/Bi'Han\|Bi'Han]]
 
 -------
 ## Origine et description
@@ -14,7 +14,7 @@ Fait partie du dossier [[Les Pays/Bi'Han/Bi'Han\|Bi'Han]]
 ### Genre
 Masculin
 ### Lieu de naissance
-[[Les Pays/Bi'Han/Bi'Han\|Bi'Han]]
+[[Les Pays/Bi Han/Bi'Han\|Bi'Han]]
 ### Âge
 49 ans
 ### Religion

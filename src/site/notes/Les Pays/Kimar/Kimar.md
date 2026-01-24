@@ -9,8 +9,8 @@ Fait partie du dossier [[Les Pays/Pays\|Pays]]
 
 -------
 ## Histoire
-Kimar est un double-continent dont la fracture date de l’[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]].
-Dès l’[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]], les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] y portèrent le combat contre le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]]. La guerre fut difficile, mais permit plus tard l’établissement de deux phares, et cela grâce à l’aide inattendue des habitants du nord, les [[Les Ascendances/Strix\|Strix]].
+Kimar est un double-continent dont la fracture date de l’[[Le Calendrier et Histoire/Âge des Phares\|Âge des Phares]].
+Dès l’[[Le Calendrier et Histoire/Âge du Feu\|Âge du Feu]], les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] y portèrent le combat contre le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]]. La guerre fut difficile, mais permit plus tard l’établissement de deux phares, et cela grâce à l’aide inattendue des habitants du nord, les [[Les Ascendances/Strix\|Strix]].
 Tentant d’empêcher la progression des mortels, le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]] ordonna à ses [[Les Créatures/Léviathans\|Léviathans]] de faire s’effondrer une des vallées, créant une coupure entre le nord et le sud. Cela ne fit que ralentir les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] qui construisirent le “[[Les Pays/Kimar/Pont torturé\|Pont torturé]]”, nom donné à cause de la difficulté des travaux.
 ## Héritages
 Les héritages présents à Kimar sont :

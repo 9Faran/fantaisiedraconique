@@ -21,7 +21,7 @@ Tous ceux qui souhaitent servir les [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Die
 ## Rang
 Les rangs sont les suivants (ordre décroissant) :
 - Les [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]]
-- Les [[Les PNJs/Membre de l'Eglise/Grands-Maîtres\|Grands-Maîtres]]
+- Les [[Les PNJs/Membre de l Eglise/Grands-Maîtres\|Grands-Maîtres]]
 - Les Maîtres (Nombre variable)
 - Les Chef-moines (1 par temple)
 - Les Moines (autant que les Chefs-moines arrivent à recruter)

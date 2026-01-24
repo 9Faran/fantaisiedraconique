@@ -9,7 +9,7 @@ Fait partie du dossier [[Les Guildes/Guildes\|Guildes]]
 
 -------
 ## Histoire
-L'éveil des [[Les Ascendances/Ghorans\|Ghorans]] a eu lieu à la fin de l'[[Le Calendrier et l'Histoire/Âge du Feu\|Âge du Feu]], alors que les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] avançaient en [[Les Pays/Ultan/Ultan\|Ultan]] et menaçaient de s'en prendre aux [[Les Ascendances/Leshys\|Leshys]].
+L'éveil des [[Les Ascendances/Ghorans\|Ghorans]] a eu lieu à la fin de l'[[Le Calendrier et Histoire/Âge du Feu\|Âge du Feu]], alors que les [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]] avançaient en [[Les Pays/Ultan/Ultan\|Ultan]] et menaçaient de s'en prendre aux [[Les Ascendances/Leshys\|Leshys]].
 
 L'[[Les Dieux/Dieux autres/Arbre-Source\|Arbre-Source]] qui s'éveillait dans la forêt, donna naissance à une première génération de [[Les Ascendances/Ghorans\|Ghorans]].
 ## Nature et Objectifs

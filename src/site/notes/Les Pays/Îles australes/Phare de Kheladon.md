@@ -11,7 +11,7 @@ Fait partie du dossier [[Les Pays/Îles australes/Îles australes\|Îles austral
 ## Description
 Le Phare dédié à [[Les Dieux/Dieux des Phares/Kheladon\|Kheladon]] se trouve au milieu de l'île de [[Les Dieux/Dieux des Phares/Kheladon\|Kheladon]].
 ## Lieux importants
-Le Phare lui-même, ainsi que les ruines l'entourant, celle d'un palais datant de l'[[Le Calendrier et l'Histoire/Âge des Phares\|Âge des Phares]].
+Le Phare lui-même, ainsi que les ruines l'entourant, celle d'un palais datant de l'[[Le Calendrier et Histoire/Âge des Phares\|Âge des Phares]].
 ## Architecture
 Le phare est moins haut que d'autres, mais il est très large. Les anciens bâtiment du palais royal servent d'annexe pour les prêtres.
 ## Routes
