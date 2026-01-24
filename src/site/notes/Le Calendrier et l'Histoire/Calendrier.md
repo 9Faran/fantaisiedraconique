@@ -62,5 +62,8 @@ La félicité correspond à une période de 5 jours entre l’hiver et le printe
 La félicité correspond généralement à une période de fête marquant la fin des jours froids et le début d’une nouvelle période chaude
 ## Les semaines
 Chaque mois comporte 30 jours divisés en 6 semaines de 5 jours. 4 jours sont destinés au travail et le 5ème au repos.
+## Les jours
+Une journée dure 24h. Comportant chacune une période illuminée (jour) et une période sombre (nuit).
+Le [[Le Calendrier et l'Histoire/Ciel\|Ciel]]
 ## Date du début
 L’aventure commence le 4 de Briséis AD300.

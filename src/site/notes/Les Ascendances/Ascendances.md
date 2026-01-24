@@ -2,14 +2,16 @@
 {"dg-publish":true,"permalink":"/les-ascendances/ascendances/"}
 ---
 
-# Héritages
+# Ascendances
 ---
 #Ancestries  
 Fait partie du dossier [[Fantaisie Draconique\|Fantaisie Draconique]]
 
 -------
 
-Les héritages présents sont les suivants :
+![Ancestry.png](/img/user/_Images/Ancestry.png)
+
+Les Ascendances présentes sont :
 - [[Les Ascendances/Amurrun\|Amurrun]]
 - [[Les Ascendances/Athamaru\|Athamaru]]
 - [[Les Ascendances/Ghorans\|Ghorans]]
@@ -21,3 +23,11 @@ Les héritages présents sont les suivants :
 - [[Les Ascendances/Tengus\|Tengus]]
 - [[Les Ascendances/Tripkee\|Tripkee]]
 - [[Les Ascendances/Vanaras\|Vanaras]]
+
+Les Héritages présents sont :
+- [[Ifrit\|Ifrit]]
+- [[Oread\|Oread]]
+- [[Suli\|Suli]]
+- [[Sylph\|Sylph]]
+- [[Talos\|Talos]]
+- [[Undine\|Undine]]
