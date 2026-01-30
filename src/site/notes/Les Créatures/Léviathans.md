@@ -36,5 +36,5 @@ Les [[Les Guildes/Bannisseurs\|Bannisseurs]] ont répertoriés, selon les témoi
 10. Recouverts de fourrures rousses et noires, sa peau squameuse visible par endroit
 11. Constamment recouvert d'eau, même en vol. Son corps est rarement distinguible.
 Auxquelles, il faut ajouter :
-12. Un léviathan Longiline, dont la fin du corps se divise en 9 queues, aperçu par Orion Lirsa et son groupe a veillé sur une tour au milieu d'un océan.
+12. Un léviathan longiligne, dont la fin du corps se divise en 9 queues, aperçu par Orion Lirsa et son groupe a veillé sur une tour au milieu d'un océan.
 13. Un léviathan dont la peau et la forme rappelle les insectes et dont le corps est rouge. Il est donc surnommé le [[Les Créatures/Léviathan rouge\|Léviathan rouge]]. Il est responsable de la destruction de [[Les Pays/Îles australes/Aksermaru\|Aksermaru]]
