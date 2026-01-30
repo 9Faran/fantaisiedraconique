@@ -47,7 +47,7 @@ Avais-tu des alliés ? Ou des ennemis ?
 As-tu eu une liaison amoureuse ?
 
 ### Guilde
-Appartiens-tu à une guilde ?
+Appartiens-tu à une des [[Les Guildes/Guildes\|Guildes]] ?
 
 ### Religion
 Vénères-tu un des [[Les Dieux/Dieux\|Dieux]] ?

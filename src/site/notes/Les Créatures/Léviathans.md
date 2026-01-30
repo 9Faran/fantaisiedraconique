@@ -24,7 +24,7 @@ Les Léviathans ont toujours été un fléau pour l'humanité, et ce depuis l'[[
 Plus tard, les Léviathans ont été responsable de la fracture du continent de [[Les Pays/Kimar/Kimar\|Kimar]].
 Aujourd'hui, les attaques de Léviathans sont rares, car ils s'exposent à l'intervention d'un des [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]].
 Les [[Les Guildes/Bannisseurs\|Bannisseurs]] ont répertoriés, selon les témoignages récents et anciens, douze Léviathans :
-1. Similaire à un cétacé, la peau grise
+1. Similaire à un cétacé, la peau grise. Il s'agit du [[Léviathan d'Agenor\|Léviathan d'Agenor]].
 2. Similaire à un cétacé, la peau sombre et bleue. Il est surnommé le [[Les Créatures/Léviathan sombre\|Léviathan sombre]].
 3. Longiligne, comparable à un serpent argenté
 4. Recouvert de plumes blanches et rouges
@@ -33,10 +33,8 @@ Les [[Les Guildes/Bannisseurs\|Bannisseurs]] ont répertoriés, selon les témoi
 7. La peau d'un batracien, verte foncée
 8. La peau filandreuse, comme si elle était composée de très (trop) nombreuses tentacules vertes.
 9. Similaire à un cétacé, peau noire et recouverte de symbole blanc
-10. Longiline, dont la fin du corps se divise en 9 queues
-11. Recouverts de fourrures rousses et noires, sa peau squameuse visible par endroit
-12. Constamment recouvert d'eau, même en vol. Son corps est rarement distinguible.
-Auxquelles, il faut ajouter celui responsable de la destruction de [[Les Pays/Îles australes/Aksermaru\|Aksermaru]] :
-13. Un léviathan dont la peau et la forme rappelle les insectes et dont le corps est rouge. Il est donc surnommé le [[Les Créatures/Léviathan rouge\|Léviathan rouge]].
-
-Le "Gardien de la tour" aperçue par Orion Lirsa et son groupe, semble similaire au léviathan no 10.
+10. Recouverts de fourrures rousses et noires, sa peau squameuse visible par endroit
+11. Constamment recouvert d'eau, même en vol. Son corps est rarement distinguible.
+Auxquelles, il faut ajouter :
+12. Un léviathan Longiline, dont la fin du corps se divise en 9 queues, aperçu par Orion Lirsa et son groupe a veillé sur une tour au milieu d'un océan.
+13. Un léviathan dont la peau et la forme rappelle les insectes et dont le corps est rouge. Il est donc surnommé le [[Les Créatures/Léviathan rouge\|Léviathan rouge]]. Il est responsable de la destruction de [[Les Pays/Îles australes/Aksermaru\|Aksermaru]]
