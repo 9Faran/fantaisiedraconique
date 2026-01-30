@@ -10,7 +10,7 @@ Fait partie du dossier [[Les Règles/Règles\|Règles]]
 -------
 ## Tableau
 
-| **Niv** | **Martiaux**                 | Mages                                              | Kineticistes                                                                                  |
+| **Niv** | **Martiaux**                 | **Mages**                                          | **Kineticistes**                                                                              |
 | ------- | ---------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | 1       | Artefact personnel           | Artefact personnel                                 | Artefact personnel                                                                            |
 | 2       | +1 au toucher avec des armes | +1 au toucher avec des armes                       | +1 au toucher avec des armes                                                                  |
