@@ -17,8 +17,9 @@ Les pays et région hors de la Brume sont :
 - [[Les Pays/Brume\|Brume]]
 - [[Les Pays/Garde-Belle/Garde-Belle\|Garde-Belle]]
 - [[Les Pays/Îles australes/Îles australes\|Îles australes]]
-- [[Les Pays/Lisière de la Brume\|Lisière de la Brume]]
 - [[Les Pays/Kimar/Kimar\|Kimar]]
+- [[Les Pays/Lisière de la Brume\|Lisière de la Brume]]
+- Le [[Les Pays/Rêve\|Rêve]]
 - [[Les Pays/Ultan/Ultan\|Ultan]]
 ## Taille
 - [[Les Pays/Ultan/Ultan\|Ultan]] fait environ 350 km de long

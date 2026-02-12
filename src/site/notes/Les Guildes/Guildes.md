@@ -17,7 +17,8 @@ Les guildes actives sont :
 - L'[[Les Guildes/Église des Dragons\|Église des Dragons]]
 - Le [[Les Guildes/Vieux Culte\|Vieux Culte]]
 
-Depuis peu, une guilde agissant dans l'ombre a été découverte. Y a-t-il d'autres sociétés secrètes ?
+Le groupe a rencontré des sociétés agissant dans le secret :
+- Les [[Les Guildes/Guilde secrète/Aeons\|Aeons]]
 - Les [[Les Guildes/Guilde secrète/Fidèles du Soleil\|Fidèles du Soleil]]
 
 Une nouvelle guilde est apparue :

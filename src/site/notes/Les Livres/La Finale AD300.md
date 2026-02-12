@@ -20,7 +20,7 @@ La presse de [[Les Pays/Îles australes/Lubas\|Lubas]] est un organisme indépen
 ## Préparation du match
 La préparation de cette finale a été quelque peu chaotique.
 
-Déjà les [[Le Blitzball/Les équipes/Aurochs\|Aurochs]] ont réuni des "mercenaires" de deux autres équipes amies : Les [[Le Blitzball/Les équipes/Deep Divers\|Deep Divers]] et les [[Le Blitzball/Les équipes/Djesi's Warriors\|Djesi's Warriors]]. Leur but était de gagner la coupe afin de pouvoir financer la reconstruction d'[[Les Pays/Îles australes/Aksermaru\|Aksermaru]], cité des [[Le Blitzball/Les équipes/Deep Divers\|Deep Divers]], détruite il y a à peine un mois par un [[Les Créatures/Léviathans\|Léviathans]].
+Déjà les [[Le Blitzball/Les équipes/Aurochs\|Aurochs]] ont réuni des "mercenaires" de deux autres équipes amies : Les [[Le Blitzball/Les équipes/Deep Divers\|Deep Divers]] et les [[Le Blitzball/Les équipes/Djesi's Warriors\|Djesi's Warriors]]. Leur but était de gagner la coupe afin de pouvoir financer la reconstruction d'[[Les Pays/Îles australes/Aksermaru\|Aksermaru]], cité des [[Le Blitzball/Les équipes/Deep Divers\|Deep Divers]], détruite il y a à peine un mois par un [[Les Créatures/Léviathans/Léviathans\|Léviathans]].
 
 Et en plus de cela, quelques heures avant la finale, le capitaine Voruja des [[Le Blitzball/Les équipes/Deep Divers\|Deep Divers]] a été reporté blessé. Il s'avéra que ce n'était pas une simple blessure, mais bien une malédiction infligée par le capitaine Bickson des [[Le Blitzball/Les équipes/Lubas Royals\|Lubas Royals]].
 La révélation de cette affaire a conduit à l'exclusion de Bickson de la finale. Il a été remplacé par son second, Ambus.

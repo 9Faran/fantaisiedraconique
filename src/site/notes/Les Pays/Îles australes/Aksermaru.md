@@ -12,7 +12,7 @@ Fait partie du dossier [[Les Pays/Îles australes/Îles australes\|Îles austral
 Village des [[Les Pays/Îles australes/Îles australes\|Îles australes]], au sud de l'île [[Les Dieux/Dieux des Phares/Kheladon\|Kheladon]].
 ## Lieux importants
 L'agence du pont au nord de la ville.
-Malheureusement le reste de la ville a été détruit par un [[Les Créatures/Léviathan rouge\|Léviathan rouge]] et est en reconstruction.
+Malheureusement le reste de la ville a été détruit par un [[Les Créatures/Léviathans/Léviathan rouge\|Léviathan rouge]] et est en reconstruction.
 ## Architecture
 Les habitations en bois étaient construites au-dessus de l'eau, sur pilotis.
 ## Routes

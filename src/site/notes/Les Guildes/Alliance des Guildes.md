@@ -17,7 +17,7 @@ Sont actuellement réunis derrière l'Alliance :
 - Le [[Les Guildes/Collège de Magie\|Collège de magie]]
 - L'[[Les Guildes/Église des Dragons\|Église des Dragons]]
 ## Nature et Objectifs
-L'Alliance s'est fixé pour objectif de traquer et éliminer un des [[Les Créatures/Léviathans\|Léviathans]], afin de prouver au monde que l'union fait la force et permettrait de combattre plus efficacement le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]].
+L'Alliance s'est fixé pour objectif de traquer et éliminer un des [[Les Créatures/Léviathans/Léviathans\|Léviathans]], afin de prouver au monde que l'union fait la force et permettrait de combattre plus efficacement le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]].
 ## Organisation
 L'alliance n'a pas de quartier général. Mais elle réunit des troupes des différentes [[Les Guildes/Guildes\|Guildes]] au nord d'[[Les Pays/Ultan/Ultan\|Ultan]].
 ## Adhésion
