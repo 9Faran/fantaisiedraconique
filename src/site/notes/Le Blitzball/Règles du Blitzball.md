@@ -4,8 +4,8 @@
 
 # Règles du Blitzball
 ---
-#Blitzball 
-Fait partie du dossier [[Le Blitzball/Blitzball\|Blitzball]]
+#Rules  
+Fait partie du dossier [[Les Règles/Règles\|Règles]]
 
 -------
 ## Niveau des joueurs
