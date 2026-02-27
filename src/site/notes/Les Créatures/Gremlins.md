@@ -16,4 +16,4 @@ Principalement, les villes ou les villages. Là où ils peuvent sa cacher.
 Des capacités à se dissimuler et à semer le trouble dans les affaires des mortels.
 ## Histoire
 Ils sont connus depuis l'[[Le Calendrier et Histoire/Âge du Feu\|Âge du Feu]] et continuent d'être une nuisance.
-Si vous en voyez, veuillez le signaler immédiatement au [[Les Guildes/Chevaliers Chocobo\|Chevaliers Chocobo]] le plus proche,
+Si vous en voyez, veuillez le signaler immédiatement au [[Les Guildes/Chevaliers Chocobo\|Chevaliers Chocobo]] le plus proche.
