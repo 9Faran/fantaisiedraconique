@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/fantaisie-draconique/","tags":["gardenEntry"]}
 ---
 
-# Fantaisie draconique
+# Fantaisie Draconique
 ---
 ## Thèmes
 Natural Fantasy, Post-Medieval Fantasy, Post-apocalyptic fantasy
@@ -13,10 +13,11 @@ Natural Fantasy, Post-Medieval Fantasy, Post-apocalyptic fantasy
 - Golden Sun
 - Age of Mythology
 - Pillars of Eternity
-#### Séries
-- L’attaque des Titans
-- Full Metal Alchemist
+#### Livres
 - La Roue du Temps
+#### Animé et Manga
+- L'attaque des Titans
+- Full Metal Alchemist
 ---
 ## Système
 Pathfinder 2

@@ -15,7 +15,7 @@ Au stade de [[Les Pays/Îles australes/Lubas\|Lubas]], le terrain a la particula
 Chaque équipe est composée de 6 personnes :
 L’un des membres de l’équipe prend le rôle de capitaine pour diriger celle-ci et l’entraîner entre les matchs.
 ## Les Règles
-Disponible dans le chapitre [[Le Blitzball/Règles du Blitzball\|Règles du Blitzball]]
+Disponible dans le chapitre [[Les Règles/Règles du Blitzball\|Règles du Blitzball]]
 ## Les équipes
 1. [[Le Blitzball/Les équipes/Aurochs\|Aurochs]]
 2. [[Le Blitzball/Les équipes/Avid Seekers\|Avid Seekers]]

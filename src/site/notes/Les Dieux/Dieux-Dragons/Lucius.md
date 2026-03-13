@@ -9,7 +9,8 @@ Fait partie du dossier [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]]
 
 -------
 ## Description
-À la mort du [[Les Dieux/Dieux autres/Soleil\|Soleil]], Lucius devint le dragon de laiton. Il était réputé curieux, mais c’est surtout un habile stratège et quelqu’un au courant des dernières rumeurs.
+À la mort du [[Les Dieux/Dieux autres/Soleil\|Soleil]], Lucius devint le Dragon des Murmures aux écailles couleur laiton.
+Il était connu pour sa curiosité, mais aussi pour ses stratagèmes innovants. Il incarne la volonté de l'[[Les Guildes/Église des Dragons\|Église des Dragons]] d'être au courant, afin de réagir.
 ### Edits
 Aider son prochain, Tenir informer l’[[Les Guildes/Église des Dragons\|Église des Dragons]]
 ### Anathème
@@ -24,6 +25,6 @@ Deception
 ### Armes favorite
 Arbalète
 ### Domaines
-Air, Earth, Fire, Secrecy
+Disorientation, Dragon, Secrecy, Soul
 ### Sorts des prêtres
 1st: illusory disguise, 2nd: invisibility, 4th: phantasmal killer

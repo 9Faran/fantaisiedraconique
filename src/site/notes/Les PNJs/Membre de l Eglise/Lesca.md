@@ -19,7 +19,7 @@ Féminin
 42 ans.
 ### Religion
 Vénère les [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]]
-Elle est la représentante de [[Les Dieux/Dieux-Dragons/Sélène\|Sélène]] l’honorable.
+Elle est la représentante de [[Les Dieux/Dieux-Dragons/Lucius\|Lucius]] le joueur.
 ### Classe
 Champion
 ## Guilde

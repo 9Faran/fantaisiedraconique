@@ -19,7 +19,7 @@ Masculin
 45 ans.
 ### Religion
 Vénère les [[Les Dieux/Dieux-Dragons/Dieux-Dragons\|Dieux-Dragons]]
-Il est aussi connu pour être le représentant de [[Les Dieux/Dieux-Dragons/Lucius\|Lucius]] le joueur.
+Il est aussi connu pour être le représentant de [[Les Dieux/Dieux-Dragons/Sélène\|Sélène]] l'honorable.
 ### Classe
 Prêtre
 ## Guilde
