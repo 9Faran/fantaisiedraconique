@@ -31,7 +31,7 @@ Nouvelle victoire pour le [[Les Dieux/Dieux ennemis/Ténébreux\|Ténébreux]],
 
 Et par deux fois, il sera terrassé
 Et par trois fois, il devra s’élever
-Ainsi naîtra Soleil réincarné
+Ainsi naîtra [[Soleil réincarné\|Soleil réincarné]]
 
 Sa volonté, le monde pourra sauver,
 Leur tristesse, le monde sera dévasté
