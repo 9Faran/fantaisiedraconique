@@ -14,7 +14,7 @@ Le pays du [[Les Dieux/Dieux autres/Rêveur\|Rêveur]], existant sur un autre pl
 Les héritages présents dans le Rêve sont :
 - ?
 ### Lieux notables
-La cité du [[Les Dieux/Dieux autres/Rêveur\|Rêveur]], une imitation de l'ancienne capitale [[Les Anciennes civilisations/Niredol\|Niredol]].
+La cité du [[Les Dieux/Dieux autres/Rêveur\|Rêveur]], une imitation de l'ancienne capitale [[Les Anciennes civilisations/Niredol\|Niredol]], [[Les Anciennes civilisations/Onarka\|Onarka]].
 ### Personnalités influentes
 Le [[Les Dieux/Dieux autres/Rêveur\|Rêveur]].
 ### Langage
