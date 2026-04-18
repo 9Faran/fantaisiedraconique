@@ -34,4 +34,5 @@ Les habitants de l’archipel aiment porter des vêtements pratiques et serrés,
 - [[Les Pays/Archipel du couchant/Clan Mhrugi\|Clan Mhrugi]]
 - [[Les Pays/Archipel du couchant/Clan Mun\|Clan Mun]]
 
+Je n'arrive pas à corriger cette image
 ![Archipel du couchant.png](/img/user/_Images/_Pays/Archipel%20du%20couchant.png)
