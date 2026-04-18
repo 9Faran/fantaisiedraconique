@@ -31,7 +31,7 @@ Les habitants de l’archipel aiment porter des vêtements pratiques et serrés,
 - [[Les Pays/Archipel du couchant/Aecrenia\|Aecrenia]]
 - [[Les Pays/Archipel du couchant/Clan Agwe\|Clan Agwe]]
 - [[Les Pays/Archipel du couchant/Clan Hlapo\|Clan Hlapo]]
-- [[Les Pays/Archipel du couchant/Clan Mrhugi\|Clan Mrhugi]]
+- [[Les Pays/Archipel du couchant/Clan Mhrugi\|Clan Mhrugi]]
 - [[Les Pays/Archipel du couchant/Clan Mun\|Clan Mun]]
 
 ![Archipel du couchant.png](/img/user/_Images/_Pays/Archipel%20du%20couchant.png)

@@ -34,4 +34,4 @@ Les pays et région hors de la Brume sont :
 	- Il y a environ 930 km depuis [[Les Pays/Îles australes/Sebaid\|Sebaid]] jusqu'à la [[Les Pays/Borée/Borée\|Borée]]
 		- Et 960 de l'[[Les Pays/Archipel du couchant/Archipel du couchant\|Archipel du couchant]] jusqu'à [[Les Pays/Kimar/Kimar\|Kimar]]
 
-![Carte.jpg|698x656](/img/user/_Images/_Pays/Carte.jpg)
+![Carte.jpg](/img/user/_Images/_Pays/Carte.jpg)

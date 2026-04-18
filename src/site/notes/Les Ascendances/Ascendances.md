@@ -9,7 +9,7 @@ Fait partie du dossier [[Fantaisie Draconique\|Fantaisie Draconique]]
 
 -------
 
-![Ancestry.png](/img/user/_Images/Ancestry.png)
+![Ancestry.png](/img/user/_Images/_Cr%C3%A9atures/Ancestry.png)
 
 Les Ascendances présentes sont :
 - [[Les Ascendances/Amurrun\|Amurrun]]
