@@ -11,24 +11,24 @@ Fait partie du dossier [[Les Livres/Livres\|Livres]]
 Le Tarot constitue un ensemble de cartes magiques créées par la [[Les Dieux/Dieux autres/Grande Tisseuse\|Grande Tisseuse]].
 Voici les cartes déjà trouvées par le groupe :
 [[Les Livres/Tarot/1. Le Bateleur\|1. Le Bateleur]]
-2._La Haute-Prêtresse_
-3._L'Impératrice_
-4._L'Empereur_
-5._Le Hiérophante_
+_2. La Haute-Prêtresse_
+_3. L'Impératrice_
+_4. L'Empereur_
+_5. Le Hiérophante_
 [[Les Livres/Tarot/6. L'Amoureuse\|6. L'Amoureuse]]
 [[Les Livres/Tarot/7. Le Chariot\|7. Le Chariot]]
-8._La Justice_
-9._L'Hermite_
+_8. La Justice_
+_9. L'Hermite_
 [[Les Livres/Tarot/10. La Roue de Fortune\|10. La Roue de Fortune]]
 [[Les Livres/Tarot/11. La Force\|11. La Force]]
 [[Les Livres/Tarot/12. Le Pendu\|12. Le Pendu]]
-13._La mort_
-14._La tempérance_
-15._Le Diable_
-16._La Tour_
-17._L'Etoile_
-18._La Lune_
-19._Le Soleil_
-20._Le Jugement_
-21._Le Monde_
+_13. La mort_
+_14. La tempérance_
+_15. Le Diable_
+_16. La Tour_
+_17. L'Etoile_
+_18. La Lune_
+_19. Le Soleil_
+_20. Le Jugement_
+_21. Le Monde_
 [[Les Livres/Tarot/22. Le Fou\|22. Le Fou]]
