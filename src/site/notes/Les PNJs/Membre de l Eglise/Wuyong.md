@@ -27,7 +27,7 @@ L´[[Les Guildes/Église des Dragons\|Église des Dragons]]
 ### Rang
 Membre des [[Les PNJs/Membre de l Eglise/Grands-Maîtres\|Grands-Maîtres]]
 ### Rôle dans la Guilde
-Le Grand-Maître Wuyong occupe le poste de chef de l’[[Les Guildes/Église des Dragons\|Église des Dragons]]. Son poste consiste à présider les séances du conseil des [[Les PNJs/Membre de l Eglise/Grands-Maîtres\|Grands-Maîtres]] ainsi qu'à valider les nominations au sein de l’[[Les Guildes/Église des Dragons\|Église des Dragons]].
+Le [[Les PNJs/Membre de l Eglise/Grands-Maîtres\|Grand-Maître]] Wuyong occupe le poste de chef de l’[[Les Guildes/Église des Dragons\|Église des Dragons]]. Son poste consiste à présider les séances du conseil des [[Les PNJs/Membre de l Eglise/Grands-Maîtres\|Grands-Maîtres]] ainsi qu'à valider les nominations au sein de l’[[Les Guildes/Église des Dragons\|Église des Dragons]].
 Parmi ses titres, on le nomme aussi vicomte de [[Les Pays/Garde-Belle/Garde-Belle\|Garde-Belle]].
 Il est grand-Maître depuis 60 ans, et au pouvoir exécutif depuis 40 ans.
 

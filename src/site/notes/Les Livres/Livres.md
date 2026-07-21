@@ -18,4 +18,4 @@ Les livres trouvées par le groupe sont regroupés ici :
 - [[Les Livres/Lettre de la prêtresse Vilianna\|Lettre de la prêtresse Vilianna]]
 
 C'est aussi ici que sont stockés, les curiosités et artéfacts trouvés par le groupe :
-- [[Les Livres/Tarot/Tarot\|Tarot]]
+- [[Les Livres/Tarot\|Tarot]]

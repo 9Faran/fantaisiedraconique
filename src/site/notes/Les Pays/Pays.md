@@ -22,4 +22,4 @@ Les pays et région hors de la Brume sont :
 - Le [[Les Pays/Rêve\|Rêve]]
 - [[Les Pays/Ultan/Ultan\|Ultan]]
 
-![Carte.jpg](/img/user/_Images/_Pays/Carte.jpg)
+![Carte.jpg|697](/img/user/_Images/_Pays/Carte.jpg)

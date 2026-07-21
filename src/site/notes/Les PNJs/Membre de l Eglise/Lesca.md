@@ -27,4 +27,4 @@ L´[[Les Guildes/Église des Dragons\|Église des Dragons]]
 ### Rang
 Membre des [[Les PNJs/Membre de l Eglise/Grands-Maîtres\|Grands-Maîtres]]
 ### Rôle dans la Guilde
-La Grande-Maîtresse Lesca est chargée de diriger la justice. Elle nomme les chefs-moines chargés de rendre la justice à travers les territoires dirigés par l’[[Les Guildes/Église des Dragons\|Église des Dragons]]. Elle est aussi responsable d’interpréter les textes sacrés (les enseignements des dragons) pour édicter les lois.
+La [[Les PNJs/Membre de l Eglise/Grands-Maîtres\|Grandes-Maîtresses]] Lesca est chargée de diriger la justice. Elle nomme les chefs-moines chargés de rendre la justice à travers les territoires dirigés par l’[[Les Guildes/Église des Dragons\|Église des Dragons]]. Elle est aussi responsable d’interpréter les textes sacrés (les enseignements des dragons) pour édicter les lois.
