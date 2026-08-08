@@ -64,6 +64,6 @@ La félicité correspond généralement à une période de fête marquant la fin
 Chaque mois comporte 30 jours divisés en 6 semaines de 5 jours. 4 jours sont destinés au travail et le 5ème au repos.
 ## Les jours
 Une journée dure 24h. Comportant chacune une période illuminée (jour) et une période sombre (nuit).
-Le [[Le Calendrier et Histoire/Ciel\|Ciel]]
+La voûte céleste est décrite dans l'article : Le [[Le Calendrier et Histoire/Ciel\|Ciel]].
 ## Date du début
 L’aventure commence le 4 de Briséis AD300.

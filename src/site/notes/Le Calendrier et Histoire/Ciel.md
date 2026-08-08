@@ -21,10 +21,11 @@ Certaines croyances définissent la voie des âmes comme l'Au-Delà, domaine des
 De nuit, la lumière des phares des [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]] illuminent les régions proches.
 ## Le ciel avant l'[[Le Calendrier et Histoire/Âge du Soleil\|Âge du Soleil]]
 Avant l'avènement de l'[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]], le ciel était constamment dans son état de nuit. Eclairé uniquement par la voie des âmes et la lumière des phares des [[Les Dieux/Dieux des Phares/Dieux des Phares\|Dieux des Phares]].
+Un cycle de 24 heures étaient déjà définis. Où pendant 18h, la lueur des phares devaient éclairer au maximum, et pendant les 6 autres heures, la lueur des phares étaient volontairement diminuées.
 
 Les peuples accordaient donc une grande importance aux feux et à la magie du feu (donc des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]]) pour s'éclairer.
 ## Le ciel à l'[[Le Calendrier et Histoire/Âge des Étoiles\|Âge des Étoiles]]
-Des textes datant de l'[[Le Calendrier et Histoire/Âge des Étoiles\|Âge des Étoiles]] ont permis de comprendre que le ciel de l'époque traversait aussi deux phases de jour et de nuit.
+Des textes datant de l'[[Le Calendrier et Histoire/Âge des Étoiles\|Âge des Étoiles]] ont permis de comprendre que le ciel de l'époque traversait aussi deux phases : une de jour et une de nuit.
 
 Mais le ciel nocturne était parsemé d'innombrables points lumineux, nommés [[Les Dieux/Étoiles/Étoiles\|Étoiles]] et étaient liés aux divinités du même nom.
 De jour, les étoiles se réunissaient en un seul point lumineux, formant un astre similaire au [[Les Dieux/Dieux autres/Soleil\|Soleil]].

@@ -27,9 +27,9 @@ _Ni l'empereur [[Les Dieux/Dieux autres/Soleil\|Soleil]], ni le [[Les Dieux/Dieu
 
 _Je dois le mettre à l'abri. Telle est la mission que j'ai reçue._
 
-_On m'a parlé d'un lieu : [[Alonia\|Alonia]]. C'est là-bas que ce pouvoir sera mis à l'abri. Mais ce ne sera pas ma tâche. Bientôt un autre aeon arrivera pour porter ce fardeau jusqu'à un autre._
+_On m'a parlé d'un lieu : [[Alonia\|Alonia]]. C'est là-bas que ce pouvoir sera mis à l'abri. Mais ce ne sera pas ma tâche. Bientôt un autre [[Les Guildes/Guilde secrète/Aeons\|Aeons]] arrivera pour porter ce fardeau jusqu'à un autre._
 
-_J'espère pouvoir revenir jusqu'à toi. Mais on m'a dit qu'une troupe de l'[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]] s'approche du temple où j'ai trouvé refuge. Je vais devoir me battre. Mais c'est aussi pour nos compétences de combattant qu'Il nous a choisis pour faire partie de ses aeons. Tu le sais mieux que moi._
+_J'espère pouvoir revenir jusqu'à toi. Mais on m'a dit qu'une troupe de l'[[Les Guildes/Ancienne Guilde/Empire du Soleil\|Empire du Soleil]] s'approche du temple où j'ai trouvé refuge. Je vais devoir me battre. Mais c'est aussi pour nos compétences de combattant qu'Il nous a choisis pour faire partie de ses [[Les Guildes/Guilde secrète/Aeons\|Aeons]]. Tu le sais mieux que moi._
 
 _N'oublie jamais que je t'aime._
 

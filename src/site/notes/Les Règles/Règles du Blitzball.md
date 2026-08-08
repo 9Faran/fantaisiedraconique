@@ -27,6 +27,14 @@ Les équipes les plus faibles comptent :
 - 2 joueurs de rang 2
 - 3 joueurs de rang 1
 On parle de force faible (F)
+
+Le tableau ci-dessous résume les niveaux selon le rang de l'équipe :
+
+|                 | Joueurs de Rang 1 | Joueurs de Rang 2 | Joueurs de Rang 3 |
+| --------------- | ----------------- | ----------------- | ----------------- |
+| Rang Faible (F) | 3                 | 2                 | 1                 |
+| Rang Médium (M) | 2                 | 2                 | 2                 |
+| Rang Elite (E)  |                   | 3                 | 3                 |
 ## Déroulement
 Un match de [[Le Blitzball/Blitzball\|Blitzball]] oppose deux équipes de 6 joueurs, se déroule en deux manches de 15 minutes.
 Au début d'un matche, le capitaine définir les positions de ses joueurs.
@@ -45,10 +53,10 @@ Une équipe de [[Le Blitzball/Blitzball\|Blitzball]] est composée de 6 joueurs,
 À noter qu'aucun rôle n'a de minimums.
 ### Résoudre une manche
 À chaque manche, les jets et les actions des deux équipes sont effectués dans l'ordre suivant et sont résolus chez les deux équipes simultanément :
-- Action de tacle
-- Action de passe
-- Action de tir
-- Action de blocage
+1. Action de tacle
+2. Action de passe
+3. Action de tir
+4. Action de blocage
 #### Action de tacle
 Chaque jet d'action de tacle supérieur ou égale à 15, permet d'annuler une action (autre qu'un tacle) de l'équipe adverse lors de la manche en cours.
 Le joueur qui a taclé choisit si il cible un attaquant ou un défenseur (mais pas le gardien).

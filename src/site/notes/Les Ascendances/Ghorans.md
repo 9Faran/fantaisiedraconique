@@ -13,6 +13,9 @@ Les Ghorans se sont éveillés, lors de l'[[Le Calendrier et Histoire/Âge du Fe
 Celui-ci les chargea de protéger la forêt. D'abord ennemis des [[Les Guildes/Ancienne Guilde/Porte-Flammes\|Porte-Flammes]], et alliés des [[Les Ascendances/Leshys\|Leshys]], ils ont réussi à développer une entente avec eux, grâce à la déesse [[Les Dieux/Dieux des Phares/Pelopia\|Pelopia]].
 ## Société
 Les Ghorans vivent normalement retranchés dans l'[[Les Pays/Ultan/Orée de Ghor\|Orée de Ghor]].
+Il est rare qu'un Ghoran sorte de la forêt pour voyager à travers le monde. Mais cela est déjà arrivé plusieurs fois au cours de l'histoire.
+
+Les Ghorans sont techniquement immortels. Mais lorsque les Ghorans vieillissent, certains perdent goût à la vie. Ceux-ci se rendent alors à [[Les Pays/Ultan/Sylve-Cœur\|Sylve-Cœur]] à la Clairière du repos pour s'y transformer en arbre et s'endormir.
 ## Croyances
 Les Ghorans suivent les enseignements de l'[[Les Dieux/Dieux autres/Arbre-Source\|Arbre-Source]] qui leur a donné vie. Ils se considèrent comme les protecteurs de la nature.
 ### Edits Populaires

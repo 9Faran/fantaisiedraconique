@@ -17,6 +17,7 @@ Chaque joueur et joueuse commence la partie avec 1 Point de Héros chacun.
 À la fin de chaque partie, les Points de Héros sont réinitialisés.
 ## Gagner des Points de Héros supplémentaires
 Les joueurs et joueuses peuvent gagner des Points de Héros de différentes manières :
+- En faisant le résumé de la session précédente
 - En effectuant une action héroïque (sur appréciation du MJ)
 - En résolvant une énigme
 
