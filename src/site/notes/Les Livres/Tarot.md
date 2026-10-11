@@ -22,13 +22,13 @@ _9. L'Hermite_
 [[Les Livres/Tarot/10. La Roue de Fortune\|10. La Roue de Fortune]]
 [[Les Livres/Tarot/11. La Force\|11. La Force]]
 [[Les Livres/Tarot/12. Le Pendu\|12. Le Pendu]]
-_13. La mort_
+[[Les Livres/Tarot/13. La Mort\|13. La Mort]]
 _14. La tempérance_
 _15. Le Diable_
 _16. La Tour_
 _17. L'Etoile_
-_18. La Lune_
-_19. Le Soleil_
+[[Les Livres/Tarot/18. La Lune\|18. La Lune]]
+_[[Les Livres/Tarot/19. Le Soleil\|19. Le Soleil]]_
 _20. Le Jugement_
 _21. Le Monde_
 [[Les Livres/Tarot/22. Le Fou\|22. Le Fou]]
